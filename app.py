@@ -24,10 +24,6 @@ def get_fixtures(date):
     return data.get("response", [])
 
 def get_team_last_matches(team_id):
-    url = f"{BASE_URL}/teams"
-    params = {"id": team_id}
-    response = requests.get(url, headers=HEADERS)
-
     url = f"{BASE_URL}/fixtures"
     params = {"team": team_id, "last": 5}
     response = requests.get(url, headers=HEADERS, params=params)
@@ -39,22 +35,22 @@ def analyze_fixture(fixture):
     league = fixture["league"]
     time_utc = fixture["fixture"]["date"]
     time = datetime.fromisoformat(time_utc).strftime("%H:%M")
-    
+
     home_matches = get_team_last_matches(home["id"])
     away_matches = get_team_last_matches(away["id"])
 
-   def calc_stats(matches, team_key):
-    wins = 0
-    goals = 0
-    for match in matches:
-        score = match["goals"]
-        if match["teams"][team_key]["winner"]:
-            wins += 1
-        home_goals = score.get("home") or 0
-        away_goals = score.get("away") or 0
-        goals += home_goals + away_goals
-    avg_goals = goals / len(matches) if matches else 0
-    return wins, avg_goals
+    def calc_stats(matches, team_key):
+        wins = 0
+        goals = 0
+        for match in matches:
+            score = match["goals"]
+            if match["teams"][team_key]["winner"]:
+                wins += 1
+            home_goals = score.get("home") or 0
+            away_goals = score.get("away") or 0
+            goals += home_goals + away_goals
+        avg_goals = goals / len(matches) if matches else 0
+        return wins, avg_goals
 
     home_wins, home_avg_goals = calc_stats(home_matches, "home")
     away_wins, away_avg_goals = calc_stats(away_matches, "away")
@@ -85,7 +81,14 @@ def analyze_fixture(fixture):
 def today():
     today_str = datetime.now().strftime("%Y-%m-%d")
     fixtures = get_fixtures(today_str)
-    analyzed = [analyze_fixture(f) for f in fixtures]
+
+    analyzed = []
+    for f in fixtures:
+        try:
+            analyzed.append(analyze_fixture(f))
+        except Exception as e:
+            print("⚠️ Error analyzing fixture:", e)
+
     grouped = defaultdict(list)
     for match in analyzed:
         grouped[match["league"]].append(match)
