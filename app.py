@@ -38,8 +38,8 @@ def analyze_fixture(fixture):
     away = fixture["teams"]["away"]
     league = fixture["league"]
     time_utc = fixture["fixture"]["date"]
-    time = datetime.fromisoformat(time_utc[:-1]).strftime("%H:%M")
-
+    time = datetime.fromisoformat(time_utc).strftime("%H:%M")
+    
     home_matches = get_team_last_matches(home["id"])
     away_matches = get_team_last_matches(away["id"])
 
