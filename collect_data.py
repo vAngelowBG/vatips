@@ -3,10 +3,16 @@ import os
 import pandas as pd
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
+from github import Github
 
+# Зареждаме променливите от .env
 load_dotenv()
 
 RAPIDAPI_KEY = os.getenv("X_RAPIDAPI_KEY")
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")  # <-- Добави този токен в .env
+REPO_NAME = "vAngelowBG/vatips"
+CSV_PATH = "storage/ai_dataset.csv"
+
 HEADERS = {
     "X-RapidAPI-Key": RAPIDAPI_KEY,
     "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
@@ -56,9 +62,30 @@ while current <= end_date:
         print(f"⚠️ Error on {current.strftime('%Y-%m-%d')}: {e}")
     current += timedelta(days=1)
 
-# Запис в устойчивата директория
+# Запис във файл локално
 os.makedirs("storage", exist_ok=True)
-output_path = "storage/ai_dataset.csv"
 df = pd.DataFrame(match_data)
-df.to_csv(output_path, index=False)
-print(f"✅ Данните са записани в {output_path}")
+df.to_csv(CSV_PATH, index=False)
+print(f"✅ Данните са записани в {CSV_PATH}")
+
+# Качване в GitHub
+if GITHUB_TOKEN:
+    try:
+        g = Github(GITHUB_TOKEN)
+        repo = g.get_repo(REPO_NAME)
+        commit_msg = f"Обновяване на ai_dataset.csv ({datetime.now().strftime('%Y-%m-%d %H:%M')})"
+        
+        with open(CSV_PATH, "r", encoding="utf-8") as file:
+            content = file.read()
+        
+        try:
+            existing = repo.get_contents(CSV_PATH)
+            repo.update_file(existing.path, commit_msg, content, existing.sha)
+        except:
+            repo.create_file(CSV_PATH, commit_msg, content)
+
+        print("🚀 ai_dataset.csv е успешно качен в GitHub.")
+    except Exception as e:
+        print("❌ Неуспешно качване в GitHub:", e)
+else:
+    print("⚠️ GITHUB_TOKEN липсва или не е зададен.")
