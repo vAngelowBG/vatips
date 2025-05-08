@@ -2,24 +2,38 @@
 <html>
 <head>
     <title>Прогнози за днес</title>
-    <link rel="stylesheet" href="/static/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 </head>
-<body>
-    <h1>Прогнози за днес</h1>
-    <nav>
-        <a href="/">Начало</a> |
-        <a href="/today">Прогнози за днес</a> |
-        <a href="/fixtures">Предстоящи мачове</a>
-    </nav>
-    <table>
-        <tr><th>Мач</th><th>Прогноза</th><th>Основание</th></tr>
-        {% for m in matches %}
-        <tr>
-            <td>{{ m.match }}</td>
-            <td>{{ m.prediction }}</td>
-            <td>{{ m.reason }}</td>
-        </tr>
+<body class="p-4 bg-light">
+    <div class="container">
+        <h1 class="mb-4">⚽ Прогнози за днес</h1>
+        {% for league, matches in grouped_matches.items() %}
+            <div class="card mb-4">
+                <div class="card-header bg-dark text-white">{{ league }}</div>
+                <div class="card-body p-0">
+                    <table class="table table-striped mb-0">
+                        <thead class="table-light">
+                            <tr>
+                                <th>Час</th>
+                                <th>Мач</th>
+                                <th>Прогноза</th>
+                                <th>Основание</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for m in matches %}
+                            <tr>
+                                <td>{{ m.time }}</td>
+                                <td>{{ m.match }}</td>
+                                <td><strong>{{ m.prediction }}</strong></td>
+                                <td>{{ m.reason }}</td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
         {% endfor %}
-    </table>
+    </div>
 </body>
 </html>
