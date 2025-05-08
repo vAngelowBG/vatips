@@ -13,6 +13,7 @@ def load_latest_tips():
 
 @app.route("/")
 def index():
+    return render_template("index.html")
     tips = load_latest_tips()
     total = len(tips)
     correct = sum(1 for tip in tips if tip.get("result") == "✅")
@@ -21,4 +22,6 @@ def index():
     return render_template("index.html", tips=tips, success=success_rate)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    import os
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
