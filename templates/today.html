@@ -12,11 +12,12 @@
         <a href="/history">История</a>
     </nav>
     <table>
-        <tr><th>Отбори</th><th>Прогноза</th></tr>
-        {% for match in matches %}
+        <tr><th>Мач</th><th>Прогноза</th><th>Основание</th></tr>
+        {% for m in matches %}
         <tr>
-            <td>{{ match['homeTeam']['name'] }} vs {{ match['awayTeam']['name'] }}</td>
-            <td>1X (примерна)</td>
+            <td>{{ m.match }}</td>
+            <td>{{ m.prediction }}</td>
+            <td>{{ m.reason }}</td>
         </tr>
         {% endfor %}
     </table>

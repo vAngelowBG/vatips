@@ -1,14 +1,15 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    padding: 20px;
+    background-color: #f8f9fa;
+    margin: 20px;
 }
 h1 {
-    color: #333;
+    color: #343a40;
 }
 nav a {
     margin-right: 10px;
     text-decoration: none;
+    color: #007bff;
 }
 table {
     width: 100%;
@@ -16,6 +17,9 @@ table {
     background-color: #fff;
 }
 th, td {
-    padding: 10px;
-    border: 1px solid #ddd;
+    padding: 12px;
+    border: 1px solid #dee2e6;
+}
+th {
+    background-color: #e9ecef;
 }
