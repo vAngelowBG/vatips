@@ -70,7 +70,7 @@ def analyze_match(match):
 @app.route("/today")
 def today():
     matches = get_today_matches()
-    analyzed = [analyze_match(m) for m in matches if m["status"] == "SCHEDULED"]
+    analyzed = [analyze_match(m) for m in matches if m["status"] in ["TIMED", "SCHEDULED", "PAUSED"]]
     return render_template("today.html", matches=analyzed)
 
 @app.route("/")
