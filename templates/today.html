@@ -1,1 +1,25 @@
-<h1>AI Прогнози за днес</h1><table>{% for tip in tips %}<tr><td>{{ tip.time }}</td><td>{{ tip.match }}</td><td>{{ tip.league }}</td><td>{{ tip.prediction }}</td><td>{{ tip.confidence }}%</td><td>{{ tip.reasoning }}</td></tr>{% endfor %}</table>
+
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <title>Прогнози за днес</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<h1>📅 AI Прогнози за днес</h1>
+<table>
+<tr><th>Час</th><th>Мач</th><th>Лига</th><th>Прогноза</th><th>Шанс</th><th>Обосновка</th></tr>
+{% for tip in tips %}
+<tr>
+    <td>{{ tip.time }}</td>
+    <td>{{ tip.match }}</td>
+    <td>{{ tip.league }}</td>
+    <td>{{ tip.prediction }}</td>
+    <td>{{ tip.confidence }}</td>
+    <td>{{ tip.reasoning }}</td>
+</tr>
+{% endfor %}
+</table>
+</body>
+</html>
