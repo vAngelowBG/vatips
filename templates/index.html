@@ -16,11 +16,11 @@
     </tr>
     {% for tip in tips %}
     <tr>
-      <td>{{ tip.time }}</td>
-      <td>{{ tip.match }}</td>
-      <td>{{ tip.prediction }}</td>
-      <td>{{ tip.confidence }}%</td>
-      <td>{{ tip.result or '❓' }}</td>
+       <td>{{ tip.time }}</td>
+    <td>{{ tip.match }}</td>
+    <td>{{ tip.prediction }}</td>
+    <td>{{ tip.confidence }}%</td>
+    <td>{% if tip.result == "✅" %}✅{% else %}❌{% endif %}</td>
     </tr>
     {% endfor %}
   </table>
