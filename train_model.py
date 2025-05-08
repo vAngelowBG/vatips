@@ -3,6 +3,12 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 import joblib
+import os
+import requests
+import base64
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Зареждаме CSV файла
 df = pd.read_csv("storage/ai_dataset.csv")
@@ -38,3 +44,42 @@ model_ou.fit(X, y_ou)
 joblib.dump(model_ou, "model_over25.pkl")
 
 print("✅ Моделите са обучени и записани: model_1x2.pkl, model_btts.pkl, model_over25.pkl")
+
+
+# --- Качване в GitHub ---
+def upload_to_github(file_path, commit_message):
+    github_token = os.getenv("GITHUB_TOKEN")
+    repo = "vAngelowBG/vatips"
+    branch = "main"
+    filename = os.path.basename(file_path)
+    api_url = f"https://api.github.com/repos/{repo}/contents/{filename}"
+
+    with open(file_path, "rb") as f:
+        content = base64.b64encode(f.read()).decode("utf-8")
+
+    data = {
+        "message": commit_message,
+        "branch": branch,
+        "content": content
+    }
+
+    headers = {
+        "Authorization": f"token {github_token}",
+        "Accept": "application/vnd.github.v3+json"
+    }
+
+    # Проверка дали файлът вече съществува
+    get_response = requests.get(api_url, headers=headers)
+    if get_response.status_code == 200:
+        data["sha"] = get_response.json()["sha"]
+
+    response = requests.put(api_url, headers=headers, json=data)
+    if response.status_code in [200, 201]:
+        print(f"✅ {filename} е качен в GitHub.")
+    else:
+        print(f"❌ Неуспех при качване на {filename}: {response.status_code} {response.text}")
+
+# Качваме моделите
+upload_to_github("model_1x2.pkl", "Обновен model_1x2.pkl")
+upload_to_github("model_btts.pkl", "Обновен model_btts.pkl")
+upload_to_github("model_over25.pkl", "Обновен model_over25.pkl")
