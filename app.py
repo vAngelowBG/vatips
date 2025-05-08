@@ -73,7 +73,6 @@ def index():
     total = len(tips)
     correct = sum(1 for tip in tips if tip.get("result") == "✅")
     success_rate = round((correct / total) * 100, 1) if total else 0
-
     return render_template("index.html", tips=tips, success=success_rate)
 
 if __name__ == "__main__":
