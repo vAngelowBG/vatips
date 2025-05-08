@@ -5,7 +5,7 @@ from sklearn.metrics import accuracy_score
 import joblib
 
 # Зареждаме CSV файла
-df = pd.read_csv("ai_dataset.csv")
+df = pd.read_csv("storage/ai_dataset.csv")
 
 # Преобразуване на категориални изходи в числа
 df = df.dropna()
