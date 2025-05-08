@@ -68,7 +68,6 @@ def load_latest_tips():
 
 @app.route("/")
 def index():
-    return render_template("index.html")
     tips = load_latest_tips()
     total = len(tips)
     correct = sum(1 for tip in tips if tip.get("result") == "✅")
