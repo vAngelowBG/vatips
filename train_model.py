@@ -1,26 +1,20 @@
+import os
 import pandas as pd
+import joblib
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
-import joblib
-import os
-import requests
-import base64
+from github import Github
 from dotenv import load_dotenv
 
 load_dotenv()
 
-# Зареждаме CSV файла
+# Четене на CSV
 df = pd.read_csv("storage/ai_dataset.csv")
-
-# Преобразуване на категориални изходи в числа
 df = df.dropna()
 df = df[df["result"].isin(["1", "X", "2"])]
-
-# Features: голове, домакин/гост
 df["goal_diff"] = df["home_goals"] - df["away_goals"]
 df["total_goals"] = df["home_goals"] + df["away_goals"]
-
 X = df[["home_goals", "away_goals", "goal_diff", "total_goals"]]
 
 # 1X2 модел
@@ -29,57 +23,41 @@ X_train, X_test, y_train, y_test = train_test_split(X, y_1x2, test_size=0.2, ran
 model_1x2 = RandomForestClassifier()
 model_1x2.fit(X_train, y_train)
 print("1X2 accuracy:", accuracy_score(y_test, model_1x2.predict(X_test)))
-joblib.dump(model_1x2, "model_1x2.pkl")
+joblib.dump(model_1x2, "storage/model_1x2.pkl")
 
-# BTTS модел
+# BTTS
 y_btts = df["btts"].map({"Yes": 1, "No": 0})
 model_btts = RandomForestClassifier()
 model_btts.fit(X, y_btts)
-joblib.dump(model_btts, "model_btts.pkl")
+joblib.dump(model_btts, "storage/model_btts.pkl")
 
-# Over/Under 2.5 модел
+# Over 2.5
 y_ou = df["over_2_5"].map({"Yes": 1, "No": 0})
 model_ou = RandomForestClassifier()
 model_ou.fit(X, y_ou)
-joblib.dump(model_ou, "model_over25.pkl")
+joblib.dump(model_ou, "storage/model_over25.pkl")
 
-print("✅ Моделите са обучени и записани: model_1x2.pkl, model_btts.pkl, model_over25.pkl")
+print("✅ Моделите са обучени и записани локално.")
 
+# === Качване в GitHub ===
+token = os.getenv("GITHUB_TOKEN")
+repo_name = os.getenv("GITHUB_REPO")
 
-# --- Качване в GitHub ---
-def upload_to_github(file_path, commit_message):
-    github_token = os.getenv("GITHUB_TOKEN")
-    repo = "vAngelowBG/vatips"
-    branch = "main"
-    filename = os.path.basename(file_path)
-    api_url = f"https://api.github.com/repos/{repo}/contents/{filename}"
+g = Github(token)
+repo = g.get_repo(repo_name)
 
-    with open(file_path, "rb") as f:
-        content = base64.b64encode(f.read()).decode("utf-8")
+def upload_to_github(filepath):
+    filename = os.path.basename(filepath)
+    with open(filepath, "rb") as f:
+        content = f.read()
+    try:
+        existing = repo.get_contents(f"storage/{filename}")
+        repo.update_file(existing.path, f"Update {filename}", content, existing.sha)
+        print(f"🔁 Обновено: {filename}")
+    except:
+        repo.create_file(f"storage/{filename}", f"Add {filename}", content)
+        print(f"🆕 Качено: {filename}")
 
-    data = {
-        "message": commit_message,
-        "branch": branch,
-        "content": content
-    }
-
-    headers = {
-        "Authorization": f"token {github_token}",
-        "Accept": "application/vnd.github.v3+json"
-    }
-
-    # Проверка дали файлът вече съществува
-    get_response = requests.get(api_url, headers=headers)
-    if get_response.status_code == 200:
-        data["sha"] = get_response.json()["sha"]
-
-    response = requests.put(api_url, headers=headers, json=data)
-    if response.status_code in [200, 201]:
-        print(f"✅ {filename} е качен в GitHub.")
-    else:
-        print(f"❌ Неуспех при качване на {filename}: {response.status_code} {response.text}")
-
-# Качваме моделите
-upload_to_github("model_1x2.pkl", "Обновен model_1x2.pkl")
-upload_to_github("model_btts.pkl", "Обновен model_btts.pkl")
-upload_to_github("model_over25.pkl", "Обновен model_over25.pkl")
+# Качи и трите модела
+for f in ["model_1x2.pkl", "model_btts.pkl", "model_over25.pkl"]:
+    upload_to_github(f"storage/{f}")
