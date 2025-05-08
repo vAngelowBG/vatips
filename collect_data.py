@@ -52,10 +52,13 @@ while current <= end_date:
                 "half_time_result": f"{half_time_result['home']}:{half_time_result['away']}",
                 "correct_score": correct_score
             })
-    except:
-        pass
+    except Exception as e:
+        print(f"⚠️ Error on {current.strftime('%Y-%m-%d')}: {e}")
     current += timedelta(days=1)
 
+# Запис в устойчивата директория
+os.makedirs("storage", exist_ok=True)
+output_path = "storage/ai_dataset.csv"
 df = pd.DataFrame(match_data)
-df.to_csv("ai_dataset.csv", index=False)
-print("✅ Данните са записани в ai_dataset.csv")
+df.to_csv(output_path, index=False)
+print(f"✅ Данните са записани в {output_path}")
