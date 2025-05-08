@@ -1,0 +1,27 @@
+services:
+  - type: cron
+    name: collect-data-job
+    runtime: python
+    repo: https://github.com/TVOY-PROFIL/REPO.git
+    plan: free
+    schedule: "0 3 * * *"  # всеки ден в 03:00 сутринта
+    buildCommand: pip install -r requirements.txt
+    startCommand: python collect_data.py
+
+  - type: cron
+    name: train-model-job
+    runtime: python
+    repo: https://github.com/TVOY-PROFIL/REPO.git
+    plan: free
+    schedule: "30 3 * * *"  # всеки ден в 03:30 (след събирането на данни)
+    buildCommand: pip install -r requirements.txt
+    startCommand: python train_model.py
+
+  - type: cron
+    name: predict-job
+    runtime: python
+    repo: https://github.com/TVOY-PROFIL/REPO.git
+    plan: free
+    schedule: "0 4 * * *"  # всеки ден в 04:00
+    buildCommand: pip install -r requirements.txt
+    startCommand: python predict.py
