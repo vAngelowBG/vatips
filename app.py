@@ -13,29 +13,6 @@ HEADERS = {
     "X-RapidAPI-Host": "api-football-v1.p.rapidapi.com"
 }
 
-
-from random import randint
-
-def generate_prediction_ai(stats=None):
-    probabilities = {
-        "1": randint(40, 65),
-        "2": randint(30, 60),
-        "BTTS": randint(50, 85),
-        "Over 2.5": randint(50, 90),
-        "1X": randint(60, 92)
-    }
-    best_market = max(probabilities, key=probabilities.get)
-    best_confidence = probabilities[best_market]
-    reasons = {
-        "1": "Домакинът е в по-добра форма и играе силно у дома.",
-        "2": "Гостът е с 4 победи в последните 5 мача.",
-        "BTTS": "И двата отбора имат висока BTTS честота – 78% и 74%.",
-        "Over 2.5": "Средно над 3 гола в последните им срещи.",
-        "1X": "Домакинът рядко губи, особено на собствен терен."
-    }
-    return best_market, best_confidence, reasons[best_market]
-
-
 def fetch_fixtures(date):
     url = "https://api-football-v1.p.rapidapi.com/v3/fixtures"
     params = {"date": date, "timezone": "Europe/Sofia"}
@@ -56,30 +33,6 @@ def generate_prediction(league, home, away):
 
 @app.route("/today")
 def today():
-    from datetime import datetime
-    today = datetime.today().strftime("%Y-%m-%d")
-    fixtures = fetch_fixtures(today)
-    tips = []
-    for item in fixtures:
-        fixture = item["fixture"]
-        league = item["league"]["name"]
-        country = item["league"]["country"]
-        home = item["teams"]["home"]["name"]
-        away = item["teams"]["away"]["name"]
-        prediction, confidence, reasoning = generate_prediction_ai()
-        tips.append({
-            "time": fixture["date"][11:16],
-            "match": f"{home} – {away}",
-            "league": league,
-            "country": country,
-            "prediction": prediction,
-            "confidence": confidence,
-            "reasoning": reasoning
-        })
-    with open(f"storage/tips_{today}.json", "w", encoding="utf-8") as f:
-        json.dump(tips, f, ensure_ascii=False, indent=2)
-    return render_template("today.html", tips=tips)
-
     today = datetime.today().strftime('%Y-%m-%d')
     fixtures = fetch_fixtures(today)
     tips = []
@@ -126,3 +79,40 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 5000))
     app.run(host="0.0.0.0", port=port)
+
+
+
+def generate_prediction_advanced(home_stats, away_stats, h2h_data):
+    reasons = []
+
+    # BTTS логика
+    home_btts = home_stats.get("btts_percentage", 0)
+    away_btts = away_stats.get("btts_percentage", 0)
+    avg_btts = (home_btts + away_btts) / 2
+    if avg_btts > 70:
+        reasons.append(f"BTTS %%: {home_btts}%% и {away_btts}%%")
+        prediction = "BTTS"
+        confidence = int(avg_btts)
+    else:
+        # Over 2.5 логика
+        home_over = home_stats.get("over25_percentage", 0)
+        away_over = away_stats.get("over25_percentage", 0)
+        avg_over = (home_over + away_over) / 2
+        if avg_over > 65:
+            reasons.append(f"Over 2.5 %%: {home_over}%% и {away_over}%%")
+            prediction = "Over 2.5"
+            confidence = int(avg_over)
+        else:
+            # Проста логика за 1X или 2
+            home_form = home_stats.get("form_score", 0)
+            away_form = away_stats.get("form_score", 0)
+            if home_form > away_form:
+                prediction = "1X"
+                confidence = 70
+                reasons.append("Домакинът е в по-добра форма от госта.")
+            else:
+                prediction = "X2"
+                confidence = 68
+                reasons.append("Гостът е в по-добра форма от домакина.")
+
+    return prediction, confidence, reasons
