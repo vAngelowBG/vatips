@@ -1,6 +1,21 @@
-
-body { font-family: Arial; padding: 20px; background: #f9f9f9; }
-h1 { color: #222; }
-table { border-collapse: collapse; width: 100%; background: white; }
-th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
-th { background-color: #eee; }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+h1 {
+    color: #333;
+}
+nav a {
+    margin-right: 10px;
+    text-decoration: none;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}

@@ -1,25 +1,24 @@
-
 <!DOCTYPE html>
-<html lang="bg">
+<html>
 <head>
-    <meta charset="UTF-8">
     <title>Прогнози за днес</title>
     <link rel="stylesheet" href="/static/style.css">
 </head>
 <body>
-<h1>📅 AI Прогнози за днес</h1>
-<table>
-<tr><th>Час</th><th>Мач</th><th>Лига</th><th>Прогноза</th><th>Шанс</th><th>Обосновка</th></tr>
-{% for tip in tips %}
-<tr>
-    <td>{{ tip.time }}</td>
-    <td>{{ tip.match }}</td>
-    <td>{{ tip.league }}</td>
-    <td>{{ tip.prediction }}</td>
-    <td>{{ tip.confidence }}</td>
-    <td>{{ tip.reasoning }}</td>
-</tr>
-{% endfor %}
-</table>
+    <h1>Прогнози за днес</h1>
+    <nav>
+        <a href="/">Начало</a> |
+        <a href="/today">Прогнози за днес</a> |
+        <a href="/history">История</a>
+    </nav>
+    <table>
+        <tr><th>Отбори</th><th>Прогноза</th></tr>
+        {% for match in matches %}
+        <tr>
+            <td>{{ match['homeTeam']['name'] }} vs {{ match['awayTeam']['name'] }}</td>
+            <td>1X (примерна)</td>
+        </tr>
+        {% endfor %}
+    </table>
 </body>
 </html>
