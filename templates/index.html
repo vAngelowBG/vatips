@@ -1,10 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>VABET - AI Типстър</title>
+  <title>VABET | Успеваемост</title>
 </head>
 <body>
-    <h1>Добре дошли във VABET</h1>
-    <p>Тук ще се показва статистика за вчерашните прогнози и общата успеваемост.</p>
+  <h1>📊 Успеваемост за вчера: {{ success }}%</h1>
+
+  <table border="1">
+    <tr>
+      <th>Час</th>
+      <th>Мач</th>
+      <th>Прогноза</th>
+      <th>Шанс (%)</th>
+      <th>Резултат</th>
+    </tr>
+    {% for tip in tips %}
+    <tr>
+      <td>{{ tip.time }}</td>
+      <td>{{ tip.match }}</td>
+      <td>{{ tip.prediction }}</td>
+      <td>{{ tip.confidence }}%</td>
+      <td>{{ tip.result or '❓' }}</td>
+    </tr>
+    {% endfor %}
+  </table>
 </body>
 </html>
