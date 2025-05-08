@@ -4,36 +4,23 @@
     <title>Прогнози за днес</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 </head>
-<body class="p-4 bg-light">
-    <div class="container">
-        <h1 class="mb-4">⚽ Прогнози за днес</h1>
-        {% for league, matches in grouped_matches.items() %}
-            <div class="card mb-4">
-                <div class="card-header bg-dark text-white">{{ league }}</div>
-                <div class="card-body p-0">
-                    <table class="table table-striped mb-0">
-                        <thead class="table-light">
-                            <tr>
-                                <th>Час</th>
-                                <th>Мач</th>
-                                <th>Прогноза</th>
-                                <th>Основание</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {% for m in matches %}
-                            <tr>
-                                <td>{{ m.time }}</td>
-                                <td>{{ m.match }}</td>
-                                <td><strong>{{ m.prediction }}</strong></td>
-                                <td>{{ m.reason }}</td>
-                            </tr>
-                            {% endfor %}
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        {% endfor %}
-    </div>
-</body>
+<h2>🤖 AI Прогнози за днес</h2>
+<table border="1" cellpadding="8">
+  <tr>
+    <th>Мач</th>
+    <th>Прогноза 1X2</th>
+    <th>BTTS</th>
+    <th>Over/Under 2.5</th>
+  </tr>
+  {% for row in predictions %}
+  <tr>
+    <td>{{ row.match }}</td>
+    <td>{{ row["1X2"] }}</td>
+    <td>{{ row.BTTS }}</td>
+    <td>{{ row["Over/Under"] }}</td>
+  </tr>
+  {% endfor %}
+</table>
 </html>
+
+
