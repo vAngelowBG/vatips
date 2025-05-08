@@ -1,0 +1,102 @@
+[
+  {
+    "time": "20:00",
+    "match": "Juventus – Napoli",
+    "league": "Bundesliga",
+    "country": "Europe",
+    "prediction": "BTTS",
+    "confidence": "83%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "correct"
+  },
+  {
+    "time": "20:30",
+    "match": "Bayern – Dortmund",
+    "league": "Premier League",
+    "country": "Europe",
+    "prediction": "BTTS",
+    "confidence": "79%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "wrong"
+  },
+  {
+    "time": "21:00",
+    "match": "Juventus – Napoli",
+    "league": "La Liga",
+    "country": "Europe",
+    "prediction": "BTTS",
+    "confidence": "70%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "wrong"
+  },
+  {
+    "time": "21:30",
+    "match": "Barcelona – Valencia",
+    "league": "La Liga",
+    "country": "Europe",
+    "prediction": "1",
+    "confidence": "73%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "wrong"
+  },
+  {
+    "time": "22:00",
+    "match": "Barcelona – Valencia",
+    "league": "Serie A",
+    "country": "Europe",
+    "prediction": "1",
+    "confidence": "61%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "correct"
+  },
+  {
+    "time": "22:30",
+    "match": "Juventus – Napoli",
+    "league": "La Liga",
+    "country": "Europe",
+    "prediction": "1",
+    "confidence": "81%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "wrong"
+  },
+  {
+    "time": "23:00",
+    "match": "Bayern – Dortmund",
+    "league": "Bundesliga",
+    "country": "Europe",
+    "prediction": "Over 2.5",
+    "confidence": "72%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "wrong"
+  },
+  {
+    "time": "23:30",
+    "match": "Man City – Liverpool",
+    "league": "La Liga",
+    "country": "Europe",
+    "prediction": "1",
+    "confidence": "72%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "correct"
+  },
+  {
+    "time": "24:00",
+    "match": "Juventus – Napoli",
+    "league": "Premier League",
+    "country": "Europe",
+    "prediction": "1",
+    "confidence": "76%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "correct"
+  },
+  {
+    "time": "24:30",
+    "match": "Bayern – Dortmund",
+    "league": "Bundesliga",
+    "country": "Europe",
+    "prediction": "1",
+    "confidence": "64%",
+    "reasoning": "Отлична форма на домакина.",
+    "result": "wrong"
+  }
+]
