@@ -4,4 +4,4 @@ python-dotenv
 gunicorn
 pandas
 scikit-learn
-PyGithub
+PyGithub==1.59.0
