@@ -81,5 +81,13 @@ def index():
 def history():
     return render_template("history.html")
 
+def get_today_matches():
+    today = datetime.today().strftime('%Y-%m-%d')
+    url = f"{BASE_URL}/matches?dateFrom={today}&dateTo={today}"
+    response = requests.get(url, headers=HEADERS)
+    data = response.json()
+    print("MATCHES DATA:", data)  # ← Добави това
+    return data.get("matches", [])
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
