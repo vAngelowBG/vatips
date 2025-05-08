@@ -43,16 +43,18 @@ def analyze_fixture(fixture):
     home_matches = get_team_last_matches(home["id"])
     away_matches = get_team_last_matches(away["id"])
 
-    def calc_stats(matches, team_key):
-        wins = 0
-        goals = 0
-        for match in matches:
-            score = match["goals"]
-            if match["teams"][team_key]["winner"]:
-                wins += 1
-            goals += score["home"] + score["away"]
-        avg_goals = goals / len(matches) if matches else 0
-        return wins, avg_goals
+   def calc_stats(matches, team_key):
+    wins = 0
+    goals = 0
+    for match in matches:
+        score = match["goals"]
+        if match["teams"][team_key]["winner"]:
+            wins += 1
+        home_goals = score.get("home") or 0
+        away_goals = score.get("away") or 0
+        goals += home_goals + away_goals
+    avg_goals = goals / len(matches) if matches else 0
+    return wins, avg_goals
 
     home_wins, home_avg_goals = calc_stats(home_matches, "home")
     away_wins, away_avg_goals = calc_stats(away_matches, "away")
