@@ -11497,978 +11497,1012 @@ date,home_team,away_team,home_goals,away_goals,result,btts,over_2_5,half_time_re
 2025-02-01,Cerro Porteno,Nacional Asuncion,3,1,1,Yes,Yes,1:0,3:1
 2025-02-01,San Marcos de Arica,Cobresal,2,1,1,Yes,Yes,1:1,2:1
 2025-02-01,San Luis,U. Catolica,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Moulien,Dynamo Le Moule,1,0,1,No,No,None:None,1:0
-2025-02-02,Gosier,Gourbeyre,4,2,1,Yes,Yes,None:None,4:2
-2025-02-02,Lobos ULMX,Irapuato,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Santos DE Guapiles,AD Guanacasteca,1,0,1,No,No,1:0,1:0
-2025-02-02,El Nacional,LDU de Quito,0,0,X,No,No,0:0,0:0
-2025-02-02,Lanus,Sarmiento Junin,2,0,1,No,No,2:0,2:0
-2025-02-02,Nicaragua W U17,Jamaica W U17,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Dominican Republic W U17,Costa Rica W U17,0,3,2,No,Yes,0:1,0:3
-2025-02-02,Barcelona SC,Emelec,1,0,1,No,No,None:None,1:0
-2025-02-02,Real Estelí,Jalapa,1,2,2,Yes,Yes,0:0,1:2
-2025-02-02,Al Hilal Port Sudan,Al Shorta,1,1,X,Yes,No,None:None,1:1
-2025-02-02,Otôho d'Oyo,Racine,0,2,2,No,No,None:None,0:2
-2025-02-02,RCST Dolisié,Nathaly's,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,Inter Club,Diables Noirs,0,3,2,No,Yes,None:None,0:3
-2025-02-02,Léopards de Dolisié,V.Club Mokanda,2,3,2,Yes,Yes,None:None,2:3
-2025-02-02,Junior,Rionegro Aguilas,2,2,X,Yes,Yes,1:0,2:2
-2025-02-02,RCA,Estrella,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Jaguares de Chiapas,Faraones Texcoco,2,0,1,No,No,2:0,2:0
-2025-02-02,Dandy Town Hornets,YMSC,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,CS Uruguay,Futbol Consultants Moravia,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Turrialba Fc,Escorpiones Belén,3,3,X,Yes,Yes,2:3,3:3
-2025-02-02,Pachuca,Atlas,0,0,X,No,No,0:0,0:0
-2025-02-02,Mineros de Zacatecas,Cancún,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Suchitepéquez,Pajapita,5,0,1,No,Yes,None:None,5:0
-2025-02-02,Marquense,Antigua GFC,0,0,X,No,No,0:0,0:0
-2025-02-02,Alianza,Dragón,2,0,1,No,No,1:0,2:0
-2025-02-02,Monterrey,Necaxa,1,0,1,No,No,1:0,1:0
-2025-02-02,Isidro Metapán,Cacahuatique,0,0,X,No,No,0:0,0:0
-2025-02-02,CD Arabe Unido,Tauro FC,1,0,1,No,No,0:0,1:0
-2025-02-02,Gavilanes FC Matamoros,Colima,6,1,1,Yes,Yes,5:0,6:1
-2025-02-02,Bandits,San Pedro Pirates,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,Agricultores,Mineros de Fresnillo,2,2,X,Yes,Yes,0:0,2:2
-2025-02-02,Municipal Liberia,Deportivo Saprissa,2,3,2,Yes,Yes,1:2,2:3
-2025-02-02,AD Cofutpa,Inter San Carlos,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Santa Lucía,Mictlán,0,1,2,No,No,None:None,0:1
-2025-02-02,Los Cabos United,Durango,1,2,2,Yes,Yes,1:0,1:2
-2025-02-02,Dorados,Celaya,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Toluca,Tigres UANL,1,0,1,No,No,0:0,1:0
-2025-02-02,Naivas,Kisumu All Stars,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Brisbane Roar FC W,Wellington Phoenix W,1,0,1,No,No,0:0,1:0
-2025-02-02,Rangers,North District,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,PFF Developmental Club,Manila Digger,1,9,2,Yes,Yes,0:7,1:9
-2025-02-02,Nairobi United,Migori Youth,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Surkhon,Hvidovre,1,3,2,Yes,Yes,1:1,1:3
-2025-02-02,Kolos Kovalivka,Sloga Doboj,0,1,2,No,No,0:1,0:1
-2025-02-02,Pusamania Borneo,PSS Sleman,1,0,1,No,No,1:0,1:0
-2025-02-02,Semen Padang,Malut United,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Young Elephant,Ezra,0,1,2,No,No,0:0,0:1
-2025-02-02,Master 7,Lao Army,4,2,1,Yes,Yes,2:1,4:2
-2025-02-02,Namtha United,Champasak United,9,1,1,Yes,Yes,3:0,9:1
-2025-02-02,Delhi FC,Namdhari,0,2,2,No,No,0:1,0:2
-2025-02-02,Real Kashmir,Shillong Lajong,2,0,1,No,No,1:0,2:0
-2025-02-02,Makhachkala,KAMAZ,1,2,2,Yes,Yes,0:2,1:2
-2025-02-02,Ayia Napa,Ararat-Armenia,0,6,2,No,Yes,None:None,0:6
-2025-02-02,Kirivong Sok Sen Chey,Visakha,1,2,2,Yes,Yes,0:2,1:2
-2025-02-02,Anagennisi Karditsas,Zakynthos,1,0,1,No,No,1:0,1:0
-2025-02-02,Pangytheatikos,Aigeas Plomariou,4,1,1,Yes,Yes,3:1,4:1
-2025-02-02,Diamond Harbour,Sporting Goa,2,1,1,Yes,Yes,None:None,2:1
-2025-02-02,Dagon Port,Ayeyawady United,2,4,2,Yes,Yes,1:2,2:4
-2025-02-02,Afantou,Astir Lianokladi,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Hradec Králové II,Admira Praha,0,0,X,No,No,0:0,0:0
-2025-02-02,KLASA,TRAU,0,0,X,No,No,None:None,0:0
-2025-02-02,Paloma,Süderelbe,3,3,X,Yes,Yes,1:1,3:3
-2025-02-02,SS Reyes,Atlético Paso,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Valencia II,Mallorca II,2,0,1,No,No,2:0,2:0
-2025-02-02,Inter Club d'Escaldes,Esperança d'Andorra,9,1,1,Yes,Yes,4:0,9:1
-2025-02-02,Nilüfer Belediye,Mardin BB,0,1,2,No,No,0:0,0:1
-2025-02-02,Mazıdağı Fosfatspor,İnegöl Kafkas Gençlik,2,0,1,No,No,1:0,2:0
-2025-02-02,Kitchee,Eastern,3,0,1,No,Yes,3:0,3:0
-2025-02-02,SuperSport United U23,Magesi U23,2,0,1,No,No,0:0,2:0
-2025-02-02,Stellenbosch U23,Cape Town City U23,3,0,1,No,Yes,1:0,3:0
-2025-02-02,Sekhukhune United U23,Orlando Pirates U23,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Police,Sofapaka,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Köln U19,Bayern München U19,1,4,2,Yes,Yes,1:1,1:4
-2025-02-02,1860 München U19,Hertha BSC U19,2,2,X,Yes,Yes,0:0,2:2
-2025-02-02,Mainz 05 U19,Union Berlin U19,5,1,1,Yes,Yes,3:1,5:1
-2025-02-02,Greuther Fürth U19,Sportfreunde Siegen U19,4,1,1,Yes,Yes,2:0,4:1
-2025-02-02,Gonsenheim U19,Darmstadt 98 U19,0,0,X,No,No,0:0,0:0
-2025-02-02,MSV Duisburg U19,Rot-Weiss Essen U19,2,0,1,No,No,1:0,2:0
-2025-02-02,Tanjong Pagar,Bangkok Glass,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Geylang International,Balestier Khalsa,4,5,2,Yes,Yes,3:2,4:5
-2025-02-02,Sportfreunde Lotte,Schwarz-Weiß Rehden,2,2,X,Yes,Yes,2:1,2:2
-2025-02-02,Jedinstvo,Veres Rivne,0,3,2,No,Yes,0:1,0:3
-2025-02-02,Kaya,Dynamic Herb Cebu,3,1,1,Yes,Yes,0:1,3:1
-2025-02-02,Sturm Graz II,Ruh Lviv,2,3,2,Yes,Yes,1:1,2:3
-2025-02-02,Adana Demirspor,Kasimpasa,3,5,2,Yes,Yes,1:1,3:5
-2025-02-02,Ümraniyespor,Ankaragucu,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Şanlıurfaspor,İstanbulspor,1,0,1,No,No,0:0,1:0
-2025-02-02,Huesca II,Atlético Monzón,0,1,2,No,No,0:1,0:1
-2025-02-02,Chonburi FC,Ayutthaya FC,2,2,X,Yes,Yes,0:1,2:2
-2025-02-02,Sisaket United,Lampang FC,0,1,2,No,No,0:0,0:1
-2025-02-02,Trat FC,Suphanburi,6,1,1,Yes,Yes,4:0,6:1
-2025-02-02,Villaverde-Boetticher,Alcorcón II,2,0,1,No,No,0:0,2:0
-2025-02-02,AD Parla,Torrejón,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Trival Valderas,Leganés II,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Collado Villalba,Carabanchel,1,0,1,No,No,1:0,1:0
-2025-02-02,Torrellano,Soneja,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Korinthos,AE Mykonos,1,2,2,Yes,Yes,1:0,1:2
-2025-02-02,Cracovia Krakow,Jastrzębie,0,1,2,No,No,0:0,0:1
-2025-02-02,St. Pauli II,Eintracht Braunschw. II,1,0,1,No,No,1:0,1:0
-2025-02-02,Tona,L'Escala,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Grama,Vilassar Mar,2,1,1,Yes,Yes,2:1,2:1
-2025-02-02,Chiangrai United,Nakhon Pathom,3,0,1,No,Yes,0:0,3:0
-2025-02-02,Bangkok United,Nakhon Ratchasima FC,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Oliveirense,Torreense,0,0,X,No,No,0:0,0:0
-2025-02-02,Damaiense W,Marítimo W,0,2,2,No,No,0:1,0:2
-2025-02-02,AD Ceuta FC,Atlético Madrid II,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Villarreal II,Ibiza,1,2,2,Yes,Yes,0:0,1:2
-2025-02-02,Barakaldo,Real Unión,0,2,2,No,No,0:0,0:2
-2025-02-02,Amorebieta,Arenteiro,3,0,1,No,Yes,1:0,3:0
-2025-02-02,Numancia,Bergantiños,1,0,1,No,No,0:0,1:0
-2025-02-02,Racing Santander II,Gimnástica Torrelavega,0,1,2,No,No,0:0,0:1
-2025-02-02,Deportivo La Coruña II,Pontevedra,3,0,1,No,Yes,1:0,3:0
-2025-02-02,Tenerife II,Illescas,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Rayo Majadahonda,Navalcarnero,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Unión Adarve,Colonia Moscardó,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Cacereño,Melilla,0,2,2,No,No,0:1,0:2
-2025-02-02,Granada II,Antoniano,0,1,2,No,No,0:0,0:1
-2025-02-02,Linares Deportivo,Almería II,1,0,1,No,No,0:0,1:0
-2025-02-02,Villanovense,San Fernando CD,2,2,X,Yes,Yes,2:1,2:2
-2025-02-02,Linense,Deportiva Minera,1,2,2,Yes,Yes,0:1,1:2
-2025-02-02,Águilas,Don Benito,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Cádiz II,Ucam Murcia,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Juventud Torremolinos,Estepona,1,0,1,No,No,1:0,1:0
-2025-02-02,Atlético Baleares,Cornellà,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Ibiza Islas Pitiusas,Sabadell,1,0,1,No,No,1:0,1:0
-2025-02-02,Andratx,Olot,0,1,2,No,No,0:1,0:1
-2025-02-02,Torrent,Elche II,2,0,1,No,No,0:0,2:0
-2025-02-02,Terrassa,Peña Deportiva,1,0,1,No,No,0:0,1:0
-2025-02-02,Ejea,Real Zaragoza II,1,0,1,No,No,0:0,1:0
-2025-02-02,Sabadell II,Peralada,1,1,X,Yes,No,1:1,1:1
-2025-02-02,San Cristóbal,Atlètic Lleida,0,2,2,No,No,0:2,0:2
-2025-02-02,Girona II,Europa II,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Formentera,Campos,4,0,1,No,Yes,2:0,4:0
-2025-02-02,Cuarte,CDJ Tamarite,0,0,X,No,No,0:0,0:0
-2025-02-02,Avilés Stadium,Mosconia,1,3,2,Yes,Yes,0:2,1:3
-2025-02-02,Covadonga,Lealtad,1,0,1,No,No,1:0,1:0
-2025-02-02,Sporting Gijón II,Tuilla,1,0,1,No,No,0:0,1:0
-2025-02-02,Condal,San Martín,0,0,X,No,No,0:0,0:0
-2025-02-02,Isparta 32 Spor,Altınordu,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Ankaraspor,Karaköprü Belediyespor,1,2,2,Yes,Yes,1:0,1:2
-2025-02-02,Nazilli Belediyespor,Elazığspor,1,6,2,Yes,Yes,0:4,1:6
-2025-02-02,Serik Belediyespor,Diyarbekirspor,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Halide Edip Adıvar,Erbaaspor,2,3,2,Yes,Yes,1:1,2:3
-2025-02-02,Karaman Belediyespor,68 Aksaray Belediyespor,0,1,2,No,No,0:1,0:1
-2025-02-02,İçel İdmanyurdu Spor,Arnavutköy Belediyespor,0,4,2,No,Yes,0:3,0:4
-2025-02-02,Artvin Hopaspor,Viven Bornova,0,0,X,No,No,0:0,0:0
-2025-02-02,Elazığ Belediyespor FK,Karşıyaka,2,2,X,Yes,Yes,1:0,2:2
-2025-02-02,Kırşehir Belediyespor,Tokat Bld Plevnespor,1,0,1,No,No,0:0,1:0
-2025-02-02,Kütahyaspor,Muş Menderesspor,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,1926 Polatlı Belediye,Denizlispor,2,0,1,No,No,1:0,2:0
-2025-02-02,Talasgücü Belediyespor,Turgutluspor,0,0,X,No,No,0:0,0:0
-2025-02-02,Kahramanmaraş İstiklalsp,Kırıkkale Büyük Anadolu,3,1,1,Yes,Yes,1:0,3:1
-2025-02-02,Ağrı 1970,Zonguldak Kömürspor,3,1,1,Yes,Yes,0:1,3:1
-2025-02-02,Bergama Belediyespor,Orduspor 1967,1,3,2,Yes,Yes,1:2,1:3
-2025-02-02,Edirnespor,Niğde Belediyesispor,0,0,X,No,No,0:0,0:0
-2025-02-02,1954 Kelkit Belediyespor,Balıkesirspor,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Amasyaspor 1968,Çayelispor,3,1,1,Yes,Yes,0:1,3:1
-2025-02-02,Türk Metal 1963,Adıyaman 1954,4,2,1,Yes,Yes,1:0,4:2
-2025-02-02,Muğlaspor,Tire 2021 FK,1,0,1,No,No,0:0,1:0
-2025-02-02,Silivrispor,Etimesgut Belediyespor,0,1,2,No,No,0:0,0:1
-2025-02-02,Utaş Uşakspor,Beykoz İshaklıspor,2,2,X,Yes,Yes,1:2,2:2
-2025-02-02,Kestelspor,Ayvalıkgücü Belediyespor,0,1,2,No,No,0:1,0:1
-2025-02-02,Osmaniyespor,Bayburt İÖİ,2,1,1,Yes,Yes,0:1,2:1
-2025-02-02,Karabük İdman Yurdu,Viranşehir Belediyespor,1,0,1,No,No,0:0,1:0
-2025-02-02,Pazarspor,Anadolu Selçukspor,0,0,X,No,No,0:0,0:0
-2025-02-02,Yeni Orduspor,Yozgat Bld Bozokspor,2,0,1,No,No,0:0,2:0
-2025-02-02,Aliağa FAŞ,Efeler 09 Spor,3,0,1,No,Yes,2:0,3:0
-2025-02-02,Viveiro,Valladares,2,3,2,Yes,Yes,1:1,2:3
-2025-02-02,Villalbés,Atlético Arteixo,1,0,1,No,No,0:0,1:0
-2025-02-02,Diocesano,Azuaga,0,2,2,No,No,0:0,0:2
-2025-02-02,Villafranca,Trujillo,3,1,1,Yes,Yes,1:1,3:1
-2025-02-02,Montijo,Atlético Pueblonuevo,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Calamonte,Puebla Calzada,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Olivenza,Arroyo,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Cazalegas,Villarrubia,2,1,1,Yes,Yes,0:1,2:1
-2025-02-02,Azuqueca,Toledo,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Valdepeñas,Villacañas,1,1,X,Yes,No,1:1,1:1
-2025-02-02,UD Caravaca,SFC Minerva,1,0,1,No,No,1:0,1:0
-2025-02-02,SamWest Blackboots,Mulembe United,0,1,2,No,No,None:None,0:1
-2025-02-02,Varea,Comillas,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Peña Balsamaiso,Agoncillo,0,1,2,No,No,0:1,0:1
-2025-02-02,Albacete II,Pedroñeras,1,0,1,No,No,0:0,1:0
-2025-02-02,Las Rozas,Canillas,3,2,1,Yes,Yes,2:0,3:2
-2025-02-02,Utrera,Recreativo Huelva II,3,0,1,No,Yes,2:0,3:0
-2025-02-02,Conil,Tomares,0,0,X,No,No,0:0,0:0
-2025-02-02,Puente Genil,Atlético Espeleño,2,0,1,No,No,2:0,2:0
-2025-02-02,Inter Sevilla,La Palma,2,0,1,No,No,1:0,2:0
-2025-02-02,Athletic Club W,Eibar W,0,1,2,No,No,0:1,0:1
-2025-02-02,Sevilla W,Granad. Tenerife W,0,2,2,No,No,0:1,0:2
-2025-02-02,Roda,Jove Español,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,El Palo,Atlético Porcuna,2,2,X,Yes,Yes,1:0,2:2
-2025-02-02,Mancha Real,Polideportivo Almería,1,0,1,No,No,1:0,1:0
-2025-02-02,Shabana,Kariobangi Sharks,0,0,X,No,No,0:0,0:0
-2025-02-02,Atlético Tordesillas,Atlético Astorga,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Boeung Ket,National Defense,1,1,X,Yes,No,0:1,1:1
-2025-02-02,NagaWorld,Dangkor Senchey,3,1,1,Yes,Yes,2:0,3:1
-2025-02-02,Schalke 04 U19,Heidenheim U19,0,2,2,No,No,0:0,0:2
-2025-02-02,RW Oberhausen U19,Paderborn U19,0,1,2,No,No,0:0,0:1
-2025-02-02,Famalicão U19,Rio Ave U19,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Göppinger SV,CFR Pforzheim,7,1,1,Yes,Yes,3:0,7:1
-2025-02-02,Næsby,Aarhus Fremad,1,0,1,No,No,None:None,1:0
-2025-02-02,Nõmme United,Viimsi,2,1,1,Yes,Yes,0:1,2:1
-2025-02-02,Lokomotivi Tbilisi,Gareji,2,1,1,Yes,Yes,None:None,2:1
-2025-02-02,Soroksar,BVSC,2,0,1,No,No,0:0,2:0
-2025-02-02,Pogon Szczecin,Świt Skolwin,5,1,1,Yes,Yes,4:0,5:1
-2025-02-02,Gornik Zabrze,Puszcza Niepołomice,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Almere City FC,Waalwijk,1,4,2,Yes,Yes,1:0,1:4
-2025-02-02,Fortuna Sittard W,PEC Zwolle W,1,0,1,No,No,1:0,1:0
-2025-02-02,Binéfar,Almudévar,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Juventus,Empoli,4,1,1,Yes,Yes,0:1,4:1
-2025-02-02,Gubbio,Arezzo,0,0,X,No,No,0:0,0:0
-2025-02-02,Juventus W,Napoli W,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Xerez,La Unión Atlético,0,1,2,No,No,0:1,0:1
-2025-02-02,Badalona,Europa Fc,0,2,2,No,No,0:1,0:2
-2025-02-02,Prat,Manresa,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Lenense,Praviano,1,0,1,No,No,0:0,1:0
-2025-02-02,Jerez,Jaraíz,2,3,2,Yes,Yes,2:1,2:3
-2025-02-02,Mirandés II,Villaralbo,0,1,2,No,No,0:1,0:1
-2025-02-02,Elche,FC Copenhagen,1,0,1,No,No,1:0,1:0
-2025-02-02,Manzini Sea Birds,Mbabane Swallows,1,1,X,Yes,No,None:None,1:1
-2025-02-02,Debreceni VSC,Nyiregyhaza,3,1,1,Yes,Yes,1:1,3:1
-2025-02-02,Eibar II,Real Sociedad III,2,0,1,No,No,1:0,2:0
-2025-02-02,NK Lokomotiva Zagreb,HNK Hajduk Split,3,2,1,Yes,Yes,2:1,3:2
-2025-02-02,Slovácko,Sparta Praha,0,2,2,No,No,0:2,0:2
-2025-02-02,Khon Kaen United,Prachuap,1,4,2,Yes,Yes,1:1,1:4
-2025-02-02,Buriram United,Port FC,0,1,2,No,No,0:1,0:1
-2025-02-02,Sukhothai FC,Muangthong United,1,3,2,Yes,Yes,1:2,1:3
-2025-02-02,Olimpija Ljubljana,Primorje,5,0,1,No,Yes,2:0,5:0
-2025-02-02,Eilenburg,Lokomotive Leipzig,0,3,2,No,Yes,0:2,0:3
-2025-02-02,Manchester City W,Arsenal W,3,4,2,Yes,Yes,1:2,3:4
-2025-02-02,Operário,Moura,4,2,1,Yes,Yes,0:1,4:2
-2025-02-02,Unión Sur Yaiza,Getafe II,0,1,2,No,No,0:0,0:1
-2025-02-02,Persija,PSBS Biak Numfor,2,2,X,Yes,Yes,1:1,2:2
-2025-02-02,Las Palmas II,UD San Fernando,1,0,1,No,No,1:0,1:0
-2025-02-02,Assad,3K,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Fortune Sacco,MOFA,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Darajani Gogo,Coastal Heroes,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Casalarreina,Yagüe,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Sevilla III,Pozoblanco,3,1,1,Yes,Yes,2:0,3:1
-2025-02-02,Murang'a SEAL,Bandari,2,3,2,Yes,Yes,1:1,2:3
-2025-02-02,Nairobi City Stars,AFC Leopards,0,1,2,No,No,0:0,0:1
-2025-02-02,Luftëtari,Maliqi,6,1,1,Yes,Yes,None:None,6:1
-2025-02-02,Butrinti Sarandë,Devolli,4,0,1,No,Yes,None:None,4:0
-2025-02-02,Turbina Cërrik,Oriku,0,1,2,No,No,None:None,0:1
-2025-02-02,Këlcyra,Shkumbini Peqin,0,2,2,No,No,None:None,0:2
-2025-02-02,Memaliaj,Tomori Berat,1,4,2,Yes,Yes,None:None,1:4
-2025-02-02,Raadsan,Mogadishu City,1,2,2,Yes,Yes,1:2,1:2
-2025-02-02,Schweinfurt U19,Erzgebirge Aue U19,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Hennef 05 U19,Osnabrück U19,2,3,2,Yes,Yes,0:0,2:3
-2025-02-02,Kedus Giorgis,Ethiopia Bunna,0,0,X,No,No,0:0,0:0
-2025-02-02,Macva,Lipolist,1,0,1,No,No,0:0,1:0
-2025-02-02,Trans Narva,Tallinna Kalev,5,2,1,Yes,Yes,4:0,5:2
-2025-02-02,Zaglebie Lubin,Warta Poznań,0,0,X,No,No,0:0,0:0
-2025-02-02,Brentford B,Mafra,0,2,2,No,No,0:1,0:2
-2025-02-02,Francs Borains,Patro Eisden,1,3,2,Yes,Yes,1:2,1:3
-2025-02-02,Antwerp,Club Brugge KV,2,1,1,Yes,Yes,0:1,2:1
-2025-02-02,Hamburger SV,Hannover 96,2,2,X,Yes,Yes,1:0,2:2
-2025-02-02,SC Paderborn 07,SpVgg Greuther Fürth,1,2,2,Yes,Yes,0:1,1:2
-2025-02-02,1. FC Kaiserslautern,Preußen Münster,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Arminia Bielefeld,Rot-Weiß Essen,1,2,2,Yes,Yes,0:1,1:2
-2025-02-02,ZFC Meuselwitz,BFC Dynamo,2,2,X,Yes,Yes,2:0,2:2
-2025-02-02,Nakhon Si Thammarat,Kanchanaburi,0,2,2,No,No,0:0,0:2
-2025-02-02,Mahasarakham United,Phrae United,1,4,2,Yes,Yes,0:1,1:4
-2025-02-02,Kasetsart FC,Bangkok,1,0,1,No,No,1:0,1:0
-2025-02-02,Chanthaburi,Esan Pattaya,0,1,2,No,No,0:0,0:1
-2025-02-02,Burreli,Vora,0,1,2,No,No,0:0,0:1
-2025-02-02,Besa Kavajë,FK Kukesi,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Lushnja,Flamurtari,0,3,2,No,Yes,0:1,0:3
-2025-02-02,Penya Encarnada,FC Santa Coloma,0,1,2,No,No,0:1,0:1
-2025-02-02,PWD,Aigle Royal de Moungo,1,1,X,Yes,No,None:None,1:1
-2025-02-02,Feutcheu,Tonnerre,0,1,2,No,No,0:0,0:1
-2025-02-02,Castanhal,Águia de Marabá,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Aluminium Arak,Mes Rafsanjan,0,0,X,No,No,0:0,0:0
-2025-02-02,Pahang,Sabah FA,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Iraklis Yerolakkou,Anorthosis Mouttagiakas,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,El Khadra Sport,M'saken,0,0,X,No,No,0:0,0:0
-2025-02-02,Sfax Railways,AS Marsa,3,2,1,Yes,Yes,2:1,3:2
-2025-02-02,Mornag,Menzel Bourguiba,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Vihren,Detonit Plachkovica,3,2,1,Yes,Yes,1:1,3:2
-2025-02-02,Spartak Moscow,FC Astana,4,1,1,Yes,Yes,2:1,4:1
-2025-02-02,CSKA Sofia,Belasitsa,4,0,1,No,Yes,1:0,4:0
-2025-02-02,AEK Athens II,Asteras Tripolis II,2,1,1,Yes,Yes,2:1,2:1
-2025-02-02,Egaleo,Panachaiki FC,3,1,1,Yes,Yes,1:1,3:1
-2025-02-02,Kifisia,Kissamikos,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Ilioupoli,Panargiakos,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Panionios,Kalamata,0,1,2,No,No,0:0,0:1
-2025-02-02,Barcelona,Alaves,1,0,1,No,No,0:0,1:0
-2025-02-02,IMT Novi Beograd,Jedinstvo Ub,2,0,1,No,No,1:0,2:0
-2025-02-02,Castellón,Huesca,0,1,2,No,No,0:1,0:1
-2025-02-02,Luzern W,Grasshopper W,0,6,2,No,Yes,0:3,0:6
-2025-02-02,Goztepe,Alanyaspor,0,1,2,No,No,0:1,0:1
-2025-02-02,Vreden,Bochum II,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,FSV Zwickau,Chemnitzer FC,2,2,X,Yes,Yes,0:0,2:2
-2025-02-02,SC Freiburg W,1899 Hoffenheim W,0,3,2,No,Yes,0:1,0:3
-2025-02-02,Sheffield United W,Durham W,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Manisa BBSK,Fatih Karagümrük,2,2,X,Yes,Yes,2:2,2:2
-2025-02-02,Amed,Sakaryaspor,2,2,X,Yes,Yes,0:1,2:2
-2025-02-02,Kitayosce,Simba,0,3,2,No,Yes,0:2,0:3
-2025-02-02,CA Bizertin,US Tataouine,3,1,1,Yes,Yes,3:1,3:1
-2025-02-02,US Ben Guerdane,CS Sfaxien,0,2,2,No,No,0:1,0:2
-2025-02-02,ES Sahel,US Monastirienne,1,0,1,No,No,1:0,1:0
-2025-02-02,AS Gabes,Olympique Béja,0,1,2,No,No,0:0,0:1
-2025-02-02,ES Tunis,AS Soliman,4,2,1,Yes,Yes,3:2,4:2
-2025-02-02,HV & CV Quick,Vvsb,2,3,2,Yes,Yes,2:1,2:3
-2025-02-02,Ilvamaddalena,CynthiAlbalonga,0,1,2,No,No,0:0,0:1
-2025-02-02,Giouchtas,Nea Ionia,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Asteras Kaisariani,Atsalenios,1,0,1,No,No,1:0,1:0
-2025-02-02,Agios Nikolaos,Marko,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Aris Petroupolis,Rethymniakos,4,1,1,Yes,Yes,2:1,4:1
-2025-02-02,Chaidari,Tympaki,3,1,1,Yes,Yes,2:0,3:1
-2025-02-02,Thyella Diastavroseos,Ethnikos Piraeus,0,3,2,No,Yes,0:1,0:3
-2025-02-02,Thiva,Karavas,1,0,1,No,No,0:0,1:0
-2025-02-02,Mandraikos,Ilisiakos,4,1,1,Yes,Yes,3:0,4:1
-2025-02-02,Panthrakikos,PAO Kristoni,0,0,X,No,No,0:0,0:0
-2025-02-02,Aris Avato,Iraklis Ammoudia,0,1,2,No,No,0:1,0:1
-2025-02-02,Moudania,Antheias-Aristinou,0,3,2,No,Yes,None:None,0:3
-2025-02-02,Pontion Nea Amisos,Apollon Pontou,0,2,2,No,No,0:0,0:2
-2025-02-02,Aris Piges,Apollon Krya Vrysi,0,3,2,No,Yes,0:1,0:3
-2025-02-02,Poseidon Nea Michaniona,Nestos Chrisoupolis,1,2,2,Yes,Yes,0:0,1:2
-2025-02-02,Orestis Orestiadas,Apollon Paralimniou,2,0,1,No,No,1:0,2:0
-2025-02-02,Kilkisiakos,Evosmou,2,2,X,Yes,Yes,1:1,2:2
-2025-02-02,Svoronos,Amvrakikos Vonitsa,1,2,2,Yes,Yes,0:1,1:2
-2025-02-02,Thesprotos,Olympiakos Volos,1,0,1,No,No,1:0,1:0
-2025-02-02,Anagennisi Artas,Anthoupoli,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Kozani,Alexandreia,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Aiginiakos,Trikala,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Pierikos,Aris Filiates,4,0,1,No,Yes,4:0,4:0
-2025-02-02,Tilikratis,Ermis Amyntaio,4,1,1,Yes,Yes,0:1,4:1
-2025-02-02,Panegialios,Loutraki,1,2,2,Yes,Yes,0:0,1:2
-2025-02-02,Miltiadis Pyrgos,Apollo Efpaliou,1,2,2,Yes,Yes,1:0,1:2
-2025-02-02,Pannafpliakos,Amarynthiakos,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Nea Artaki,Malesina,4,0,1,No,Yes,1:0,4:0
-2025-02-02,Tusker,KCB,0,0,X,No,No,0:0,0:0
-2025-02-02,Thermaikos Thermis,Chaniotis,3,0,1,No,Yes,None:None,3:0
-2025-02-02,Fauve Azur Elite,Les Astres,1,0,1,No,No,None:None,1:0
-2025-02-02,Linense,Portuguesa Santista,2,0,1,No,No,1:0,2:0
-2025-02-02,Oeste,Grêmio Prudente,0,3,2,No,Yes,0:0,0:3
-2025-02-02,Monte Azul,Rio Preto,4,0,1,No,Yes,1:0,4:0
-2025-02-02,EC São Bernardo,Desportivo Brasil,1,0,1,No,No,1:0,1:0
-2025-02-02,Penapolense,Grêmio Sãocarlense,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Matonense,Colorado Caieiras,0,5,2,No,Yes,0:3,0:5
-2025-02-02,Uniao Barbarense,São Caetano,2,4,2,Yes,Yes,1:2,2:4
-2025-02-02,Senglea Athletic,Zurrieq,1,3,2,Yes,Yes,0:0,1:3
-2025-02-02,Sao Francisco,Bragantino PA,1,2,2,Yes,Yes,0:1,1:2
-2025-02-02,Santa Rosa,Paysandu,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Bodø / Glimt U19,HamKam U19,2,0,1,No,No,1:0,2:0
-2025-02-02,Floriana,Zabbar St. Patrick,1,0,1,No,No,1:0,1:0
-2025-02-02,Eintracht Braunsch U19,Meppen U19,4,1,1,Yes,Yes,1:1,4:1
-2025-02-02,FSV Frankfurt U19,Viktoria Köln U19,1,4,2,Yes,Yes,0:1,1:4
-2025-02-02,Blau-Weiß Königsdorf U19,Arminia Bielefeld U19,2,3,2,Yes,Yes,0:1,2:3
-2025-02-02,Ngozi City,Olympic Star,0,1,2,No,No,0:0,0:1
-2025-02-02,Vital'O,Musongati,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Kayanza United,Bumamuru,0,1,2,No,No,0:0,0:1
-2025-02-02,Flambeau du Centre,Inter Star,3,1,1,Yes,Yes,0:0,3:1
-2025-02-02,Aigle Noir,Le Messager Ngozi,3,0,1,No,Yes,2:0,3:0
-2025-02-02,Kabwe Warriors,Indeni,3,1,1,Yes,Yes,2:1,3:1
-2025-02-02,Mutondo Stars,Mufulira Wanderers,0,1,2,No,No,0:0,0:1
-2025-02-02,Abdish-Ata,Arges Pitesti,1,0,1,No,No,0:0,1:0
-2025-02-02,Bayern Alzenau,Viktoria Aschaffenburg,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Darmstadt 98 II,Wormatia Worms,4,3,1,Yes,Yes,0:1,4:3
-2025-02-02,Holstein Kiel II,Weiche Flensburg,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Levski Sofia,Sportist Svoge,3,0,1,No,Yes,2:0,3:0
-2025-02-02,Mezokovesd-zsory,Kazincbarcikai,4,1,1,Yes,Yes,3:0,4:1
-2025-02-02,Molde II,Træff,3,2,1,Yes,Yes,2:2,3:2
-2025-02-02,Orgryte IS,Osters IF,1,4,2,Yes,Yes,0:4,1:4
-2025-02-02,Siegburger SV,TuS RW Koblenz,0,2,2,No,No,0:1,0:2
-2025-02-02,Rot-Weiß Darmstadt,Eddersheim,0,7,2,No,Yes,0:5,0:7
-2025-02-02,Sisonkhe,Green Mamba,0,3,2,No,Yes,None:None,0:3
-2025-02-02,Al Ahli Wad Medani,Al Ahli Khartoum,1,0,1,No,No,None:None,1:0
-2025-02-02,FC Luzern,FC ST. Gallen,2,0,1,No,No,1:0,2:0
-2025-02-02,Al Fujairah SC,Al Dahra,1,0,1,No,No,0:0,1:0
-2025-02-02,Al Jazira Al Hamra,Dibba Al-Fujairah,0,4,2,No,Yes,0:2,0:4
-2025-02-02,Al Hamriyah,Al Thaid,0,1,2,No,No,0:1,0:1
-2025-02-02,Sohar,Al Nasr,0,3,2,No,Yes,0:2,0:3
-2025-02-02,Ajax,Feyenoord,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,GO Ahead Eagles,Twente,2,2,X,Yes,Yes,1:0,2:2
-2025-02-02,Union Namur,Stockay-Warfusée,1,0,1,No,No,1:0,1:0
-2025-02-02,Aarau,St. Gallen W,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Sochaux II,Colmar,2,0,1,No,No,0:0,2:0
-2025-02-02,Vimy,Drancy,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Herk,Turkse,2,0,1,No,No,None:None,2:0
-2025-02-02,Entente Blegnytoise,Sart-Lez-Spa,4,1,1,Yes,Yes,None:None,4:1
-2025-02-02,Union Flémalloise,Union Momalloise,1,1,X,Yes,No,None:None,1:1
-2025-02-02,Beaufays,Hannut,3,2,1,Yes,Yes,None:None,3:2
-2025-02-02,Malmundaria,Wanze / Bas-Oha,0,3,2,No,Yes,None:None,0:3
-2025-02-02,Herstal,Croatia Wandre,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,Xhoris,Hombourg,3,4,2,Yes,Yes,None:None,3:4
-2025-02-02,Hsc 21,TEC,0,1,2,No,No,0:0,0:1
-2025-02-02,University of Pretoria,Pretoria Callies,1,0,1,No,No,1:0,1:0
-2025-02-02,Arconatese,Crema,0,1,2,No,No,0:1,0:1
-2025-02-02,Breno,Pro Sesto,3,1,1,Yes,Yes,1:0,3:1
-2025-02-02,USD Casatese,Castellanzese,1,0,1,No,No,0:0,1:0
-2025-02-02,Chievo,Folgore Caratese,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Fanfulla,Sant'Angelo,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,AC Magenta,Vigasio,0,1,2,No,No,0:0,0:1
-2025-02-02,Sondrio,Ciliverghe,2,0,1,No,No,2:0,2:0
-2025-02-02,Pro Palazzolo,Club Milano,4,1,1,Yes,Yes,2:1,4:1
-2025-02-02,Sangiuliano City,Ospitaletto,1,0,1,No,No,1:0,1:0
-2025-02-02,Varesina,Desenzano Calvina,2,1,1,Yes,Yes,0:1,2:1
-2025-02-02,Asti,Ligorna,0,1,2,No,No,0:1,0:1
-2025-02-02,Borgaro Nobis,Sanremese,0,2,2,No,No,0:0,0:2
-2025-02-02,Chisola,Bra,1,2,2,Yes,Yes,0:0,1:2
-2025-02-02,Derthona,Albenga,2,1,1,Yes,Yes,2:1,2:1
-2025-02-02,Fossano,Città di Varese,0,1,2,No,No,0:1,0:1
-2025-02-02,Lavagnese,Cairese,3,0,1,No,Yes,1:0,3:0
-2025-02-02,NovaRomentin,Gozzano,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Oltrepò,Chieri,0,1,2,No,No,0:0,0:1
-2025-02-02,Saluzzo,Imperia,3,1,1,Yes,Yes,1:1,3:1
-2025-02-02,Adriese,Brusaporto,0,0,X,No,No,0:0,0:0
-2025-02-02,Bassano Virtus,Calvi Noale,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Campodarsego,Caravaggio,3,2,1,Yes,Yes,2:2,3:2
-2025-02-02,Cjarlins Muzane,Dolomiti Bellunesi,3,4,2,Yes,Yes,2:2,3:4
-2025-02-02,Este,Villa Valle,2,0,1,No,No,1:0,2:0
-2025-02-02,Mestre,Chions,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Portosummaga,Brian Lignano,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Real Calepina,Luparense,3,2,1,Yes,Yes,2:1,3:2
-2025-02-02,Virtus Ciserano Bergamo,Montecchio Maggiore,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Anzio,Terracina Calcio,0,2,2,No,No,0:1,0:2
-2025-02-02,Atletico Uri,Gelbison,3,3,X,Yes,Yes,2:1,3:3
-2025-02-02,Cassino,Sarrabus Ogliastra,3,0,1,No,Yes,1:0,3:0
-2025-02-02,Guidonia Montecelio 1937,Savoia,6,1,1,Yes,Yes,3:0,6:1
-2025-02-02,Real Monterotondo Scalo,Olbia,0,0,X,No,No,0:0,0:0
-2025-02-02,Latte Dolce,Sarnese,0,1,2,No,No,0:1,0:1
-2025-02-02,Trastevere,Atletico Lodigiani,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Forli,Tau Altopascio,1,0,1,No,No,1:0,1:0
-2025-02-02,Imolese,Fiorenzuola,0,2,2,No,No,0:1,0:2
-2025-02-02,Piacenza,Progresso,0,1,2,No,No,0:1,0:1
-2025-02-02,Pistoiese,Lentigione,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Victor San Marino,Cittadella Vis Modena,0,1,2,No,No,0:0,0:1
-2025-02-02,ASD Sasso Marconi,Ravenna,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Tuttocuoio,Prato,0,2,2,No,No,0:1,0:2
-2025-02-02,United Riccione,Corticella,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Zenith Prato,Sammaurese,0,0,X,No,No,0:0,0:0
-2025-02-02,Figline,Fezzanese,0,0,X,No,No,0:0,0:0
-2025-02-02,Flaminia,Gavorrano,1,2,2,Yes,Yes,0:0,1:2
-2025-02-02,Fulgens Foligno,Sporting Trestina,4,2,1,Yes,Yes,1:1,4:2
-2025-02-02,Livorno,San Donato Tavarnelle,1,0,1,No,No,0:0,1:0
-2025-02-02,Orvietana Calcio,Ghivizzano Borgo Mozzano,2,2,X,Yes,Yes,2:1,2:2
-2025-02-02,Poggibonsi,Montevarchi Calcio,2,2,X,Yes,Yes,0:1,2:2
-2025-02-02,Sangiovannese,Grosseto,0,0,X,No,No,0:0,0:0
-2025-02-02,Seravezza,FC Siena,0,0,X,No,No,0:0,0:0
-2025-02-02,Terranuova Traiana,Ostia Mare,1,3,2,Yes,Yes,0:2,1:3
-2025-02-02,Atletico Ascoli,San Nicolò,1,2,2,Yes,Yes,0:1,1:2
-2025-02-02,Termoli Calcio,Castelfidardo Calcio,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Chieti,Vigor Senigallia,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Teramo,Città di Isernia,4,0,1,No,Yes,1:0,4:0
-2025-02-02,Civitanovese,Avezzano,0,1,2,No,No,0:0,0:1
-2025-02-02,Fermana,L'Aquila,1,2,2,Yes,Yes,0:2,1:2
-2025-02-02,Recanatese,Roma City,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Sambenedettese,Fossombrone,0,0,X,No,No,0:0,0:0
-2025-02-02,Sora,Ancona,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Costa D’Amalfi,Martina Franca,0,1,2,No,No,0:0,0:1
-2025-02-02,Francavilla,Nardò,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Ischia,Angri Calcio,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Gravina,Matera,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,USD Palmese,Brindisi,0,3,2,No,Yes,0:0,0:3
-2025-02-02,Enna,Città Di Sant’Agata,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Nissa,Locri 1909,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Paternò,Scafatese,0,0,X,No,No,0:0,0:0
-2025-02-02,Sambiase,Sancataldese,2,0,1,No,No,0:0,2:0
-2025-02-02,Siracusa,Pompei,2,0,1,No,No,1:0,2:0
-2025-02-02,Vibonese,CastrumFavara,4,0,1,No,Yes,0:0,4:0
-2025-02-02,TS Galaxy,Cape Town City,2,0,1,No,No,2:0,2:0
-2025-02-02,BW Lohne,Garrel,7,0,1,No,Yes,None:None,7:0
-2025-02-02,Schonnebeck,Homberg,4,3,1,Yes,Yes,1:1,4:3
-2025-02-02,Jagiellonia,Radomiak Radom,5,0,1,No,Yes,5:0,5:0
-2025-02-02,NK Osijek,Dinamo Zagreb,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Brentford,Tottenham,0,2,2,No,No,0:1,0:2
-2025-02-02,Manchester United,Crystal Palace,0,2,2,No,No,0:0,0:2
-2025-02-02,Toulouse,Nice,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Mura,Nafta,0,0,X,No,No,0:0,0:0
-2025-02-02,Fiorentina,Genoa,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Ethnikos Achna,Enosis,0,1,2,No,No,0:0,0:1
-2025-02-02,Sporting Charleroi II,Tubize,2,2,X,Yes,Yes,1:2,2:2
-2025-02-02,Rochefort,Albert Quévy-Mons,0,0,X,No,No,0:0,0:0
-2025-02-02,Knokke,Hoogstraten,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Oud-Heverlee Leuven II,Cappellen,5,0,1,No,Yes,4:0,5:0
-2025-02-02,Spouwen-Mopertingen,Royal Antwerp II,2,0,1,No,No,0:0,2:0
-2025-02-02,Chaves,Maritimo,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Seraing II,Jette,1,0,1,No,No,None:None,1:0
-2025-02-02,Habay-la-Neuve,Ostiches,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,Meux,Onhaye,0,1,2,No,No,None:None,0:1
-2025-02-02,Stade Verviers,La Louvière Centre,0,1,2,No,No,None:None,0:1
-2025-02-02,Verlaine,AS Eupen II,1,0,1,No,No,None:None,1:0
-2025-02-02,Crossing Schaerbeek,Entité Manageoise,2,0,1,No,No,None:None,2:0
-2025-02-02,Ganshoren,Acren-Lessines,0,0,X,No,No,None:None,0:0
-2025-02-02,Raeren-Eynatten,La Calamine,2,0,1,No,No,None:None,2:0
-2025-02-02,Huy,Aywaille,2,0,1,No,No,None:None,2:0
-2025-02-02,Sparta Petegem,Zulte Waregem II,4,3,1,Yes,Yes,3:3,4:3
-2025-02-02,Westhoek,Voorde Appelterre,1,0,1,No,No,None:None,1:0
-2025-02-02,Gullegem,Roeselare Daisel,0,1,2,No,No,None:None,0:1
-2025-02-02,Zelzate,KRC Gent,3,1,1,Yes,Yes,None:None,3:1
-2025-02-02,Rupel Boom,Berg en Dal,0,1,2,No,No,0:0,0:1
-2025-02-02,Sint-Truiden II,Lille,8,3,1,Yes,Yes,4:0,8:3
-2025-02-02,Mechelen II,Racing Mechelen,3,0,1,No,Yes,None:None,3:0
-2025-02-02,Carrarese,Brescia,1,2,2,Yes,Yes,0:2,1:2
-2025-02-02,Salernitana,Cremonese,1,0,1,No,No,0:0,1:0
-2025-02-02,Sudtirol,Reggiana,2,0,1,No,No,1:0,2:0
-2025-02-02,Jong Lede,Drongen,0,2,2,No,No,0:0,0:2
-2025-02-02,Beerschot VA II,Elene-Grotenberge,1,1,X,Yes,No,None:None,1:1
-2025-02-02,Blankenberge,Diksmuide,2,1,1,Yes,Yes,None:None,2:1
-2025-02-02,Sint-Denijs Sport,Wielsbeke,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Lauwe,Eendracht Wervik,2,1,1,Yes,Yes,None:None,2:1
-2025-02-02,HO Kalken,Avanti,5,1,1,Yes,Yes,None:None,5:1
-2025-02-02,Erpe-Mere United,RFC Wetteren,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,VW Hamme,Mandel United,0,2,2,No,No,None:None,0:2
-2025-02-02,Bevel,Rotselaar,0,2,2,No,No,None:None,0:2
-2025-02-02,Schoonbeek-Beverst,Londerzeel,1,1,X,Yes,No,None:None,1:1
-2025-02-02,Lommel II,Tempo Overijse,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,Braine,Rebecq,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Wallonne Ciney,Arquet,1,5,2,Yes,Yes,None:None,1:5
-2025-02-02,Sporting Bruxelles,Aische,0,1,2,No,No,None:None,0:1
-2025-02-02,Jodoigne,RAS Monceau,2,3,2,Yes,Yes,None:None,2:3
-2025-02-02,Flénu,Loyers,9,1,1,Yes,Yes,None:None,9:1
-2025-02-02,SG-Tertre-Hautrage,Biesme,1,0,1,No,No,None:None,1:0
-2025-02-02,Marloie Sport,FC Du Geer,2,3,2,Yes,Yes,None:None,2:3
-2025-02-02,Libramont,Mormont,2,0,1,No,No,None:None,2:0
-2025-02-02,Elsautoise,FC Eupen,2,0,1,No,No,None:None,2:0
-2025-02-02,Aubel,Richelle United,1,1,X,Yes,No,None:None,1:1
-2025-02-02,Tilffois,Gouvy,4,2,1,Yes,Yes,None:None,4:2
-2025-02-02,Waremme,Meix-Devant-Virton,4,2,1,Yes,Yes,None:None,4:2
-2025-02-02,Harre-Manhay,Sprimont,1,1,X,Yes,No,None:None,1:1
-2025-02-02,ASC Dortmund,Victoria Clarholz,4,2,1,Yes,Yes,2:1,4:2
-2025-02-02,Eintracht Rheine,Bövinghausen,2,0,1,No,No,None:None,2:0
-2025-02-02,Concordia Wiemelhausen,Gievenbeck,1,1,X,Yes,No,1:1,1:1
-2025-02-02,SG Wattenscheid 09,Finnentrop / Bamenohl,1,0,1,No,No,1:0,1:0
-2025-02-02,Pergolettese,Atalanta II,3,1,1,Yes,Yes,0:1,3:1
-2025-02-02,Audace Cerignola,Catania,2,0,1,No,No,0:0,2:0
-2025-02-02,AZ Picerno,Juventus U23,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Avellino,Turris,3,1,1,Yes,Yes,1:0,3:1
-2025-02-02,Torres,Sestri Levante,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Legnago Salus,Ternana,0,1,2,No,No,0:1,0:1
-2025-02-02,Como W,Lazio W,1,2,2,Yes,Yes,0:2,1:2
-2025-02-02,Atlètic Amèrica,City Escaldes,1,3,2,Yes,Yes,0:1,1:3
-2025-02-02,Portsmouth W,London City Lionesses,0,1,2,No,No,0:1,0:1
-2025-02-02,Southampton W,Newcastle United W,2,2,X,Yes,Yes,2:0,2:2
-2025-02-02,Sunderland W,Birmingham City W,0,1,2,No,No,0:1,0:1
-2025-02-02,Brighton W,Crystal Palace W,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Everton W,Leicester City WFC,4,1,1,Yes,Yes,1:1,4:1
-2025-02-02,Liverpool W,West Ham W,1,0,1,No,No,1:0,1:0
-2025-02-02,Onet-le-Château,Alberes Argelès,3,3,X,Yes,Yes,3:1,3:3
-2025-02-02,C' Chartres,Union Cosnoise,0,1,2,No,No,0:0,0:1
-2025-02-02,Sarreguemines,Strasbourg II,5,1,1,Yes,Yes,3:1,5:1
-2025-02-02,Broechem,Mariekerke,6,0,1,No,Yes,None:None,6:0
-2025-02-02,Hoboken,Berlaar-Heikant,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,Sporting Tisselt,Wilrijk,0,2,2,No,No,None:None,0:2
-2025-02-02,Oostnieuwkerke,Jong Male,0,2,2,No,No,None:None,0:2
-2025-02-02,Bredene,Rumbeke,0,1,2,No,No,None:None,0:1
-2025-02-02,Club Roeselare,Marke,3,3,X,Yes,Yes,None:None,3:3
-2025-02-02,Racing Waregem,Zwevegem Sport,0,1,2,No,No,None:None,0:1
-2025-02-02,Kleit Maldegem,Eendracht Aalter,5,1,1,Yes,Yes,None:None,5:1
-2025-02-02,Munkzwalm,KSK Beveren,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,Hedes,Sottegem,3,0,1,No,Yes,None:None,3:0
-2025-02-02,Rhisnes,Condruzien,0,1,2,No,No,None:None,0:1
-2025-02-02,Nismes,Chevetogne,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Grand-Leez,Gedinne,3,4,2,Yes,Yes,None:None,3:4
-2025-02-02,Rochefort II,Anhée,3,1,1,Yes,Yes,None:None,3:1
-2025-02-02,Jeunesse Tamines,Meux II,3,4,2,Yes,Yes,None:None,3:4
-2025-02-02,Amicii Bruxelles,Ixelles,3,2,1,Yes,Yes,None:None,3:2
-2025-02-02,La Hulpe,Jette II,2,0,1,No,No,None:None,2:0
-2025-02-02,NSeth Berchem,Saint-Josse,2,1,1,Yes,Yes,None:None,2:1
-2025-02-02,Léopold,Genappe,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Kosova Schaerbeek,Union Lasne-Ohain,2,0,1,No,No,None:None,2:0
-2025-02-02,Houdinois,Péruwelz,0,1,2,No,No,None:None,0:1
-2025-02-02,Ransart,Nechin,2,0,1,No,No,None:None,2:0
-2025-02-02,Snef-Tyber,Luingnois,1,3,2,Yes,Yes,None:None,1:3
-2025-02-02,Zonhoven United,Weerstand Koersel,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Eendracht Maasmechelen,Lindelhoeven,2,3,2,Yes,Yes,None:None,2:3
-2025-02-02,Torpedo Hasselt,Groen Star Beek,0,0,X,No,No,None:None,0:0
-2025-02-02,Landen,Park Houthalen,3,3,X,Yes,Yes,None:None,3:3
-2025-02-02,La Roche,Messancy,0,3,2,No,Yes,None:None,0:3
-2025-02-02,Olympia Wijgmaal,Houtem-Oplinter,2,0,1,No,No,None:None,2:0
-2025-02-02,Eendracht Mazenzele,Averbode Okselaar,3,1,1,Yes,Yes,None:None,3:1
-2025-02-02,Pepingen-Halle,Eppegem,0,1,2,No,No,None:None,0:1
-2025-02-02,Wambeek-Ternat,Huldenberg,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Fenixx BeigHum,Wolvertem Merchtem,3,2,1,Yes,Yes,None:None,3:2
-2025-02-02,Vado,Vogherese,2,0,1,No,No,1:0,2:0
-2025-02-02,Lavis,Treviso,0,3,2,No,Yes,0:1,0:3
-2025-02-02,Puteolana,Paganese,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Fidelis Andria,Nocerina,0,2,2,No,No,0:2,0:2
-2025-02-02,Manfredonia,Ugento,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Akragas,Igea Virtus,0,2,2,No,No,0:2,0:2
-2025-02-02,Acireale,Reggina,0,4,2,No,Yes,0:2,0:4
-2025-02-02,Licata,Ragusa,1,4,2,Yes,Yes,1:2,1:4
-2025-02-02,Casarano,Città di Fasano,1,0,1,No,No,0:0,1:0
-2025-02-02,BDF XI,Gaborone United,0,1,2,No,No,0:1,0:1
-2025-02-02,Extension Gunners,Chadibe,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Jamshedpur,Goa,3,1,1,Yes,Yes,2:1,3:1
-2025-02-02,Ceramica Cleopatra,Smouha SC,0,1,2,No,No,0:0,0:1
-2025-02-02,Stade Renard,Panthère,0,1,2,No,No,None:None,0:1
-2025-02-02,Murata,Juvenes / Dogana,1,0,1,No,No,0:0,1:0
-2025-02-02,La Fiorita,Tre Fiori,0,0,X,No,No,0:0,0:0
-2025-02-02,Virtus,Fiorentino,2,0,1,No,No,1:0,2:0
-2025-02-02,ISOHSA,Aigle Royal,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Kano Pillars,Bayelsa United,0,0,X,No,No,0:0,0:0
-2025-02-02,Plateau United,Shooting Stars,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Borac Banja Luka,Andijan,1,0,1,No,No,0:0,1:0
-2025-02-02,Kolos Kovalivka,Petrovac,3,0,1,No,Yes,1:0,3:0
-2025-02-02,FK Rabotnicki,Mladost DG,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,VfL Oldenburg,OSC Bremerhaven,5,2,1,Yes,Yes,3:1,5:2
-2025-02-02,Moneni Pirates,Sidwashini United,2,0,1,No,No,None:None,2:0
-2025-02-02,Madlenya,Illovo,0,2,2,No,No,None:None,0:2
-2025-02-02,Auda,Hangzhou Greentown,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,UNA Strassen,FC Differdange 03,1,2,2,Yes,Yes,0:1,1:2
-2025-02-02,FK Jablonec,Bohemians 1905,0,1,2,No,No,0:0,0:1
-2025-02-02,Eintracht Frankfurt,VfL Wolfsburg,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Ennepetal,Lippstadt 08,3,2,1,Yes,Yes,0:2,3:2
-2025-02-02,Levadiakos,Olympiakos Piraeus,0,1,2,No,No,0:0,0:1
-2025-02-02,Aston Villa W,Chelsea W,0,1,2,No,No,0:0,0:1
-2025-02-02,Leça,Camacha,4,1,1,Yes,Yes,2:0,4:1
-2025-02-02,Hércules,Yeclano,2,2,X,Yes,Yes,0:1,2:2
-2025-02-02,Real Acerrana,Virtus Francavilla,3,1,1,Yes,Yes,1:0,3:1
-2025-02-02,Young Sport Academy,Colombe,1,1,X,Yes,No,None:None,1:1
-2025-02-02,Union Douala,Dynamo de Douala,1,0,1,No,No,None:None,1:0
-2025-02-02,Fovu Club,Eding Sport,0,1,2,No,No,0:0,0:1
-2025-02-02,Bahla,Saham,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Al-Nahda,Ibri,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Vautour Club,US Oyem,2,0,1,No,No,0:0,2:0
-2025-02-02,Al Kuwait,Al Nasar,6,0,1,No,Yes,3:0,6:0
-2025-02-02,RAAL La Louvière,Zulte Waregem,0,0,X,No,No,0:0,0:0
-2025-02-02,Union St. Gilloise,St. Truiden,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,TSC Backa Topola,FK Crvena Zvezda,1,2,2,Yes,Yes,0:1,1:2
-2025-02-02,Bristol Rovers,Peterborough,3,1,1,Yes,Yes,1:0,3:1
-2025-02-02,Motherwell,Celtic,1,3,2,Yes,Yes,1:2,1:3
-2025-02-02,Rangers,Ross County,4,0,1,No,Yes,3:0,4:0
-2025-02-02,Apollon Limassol,Omonia Aradippou,1,0,1,No,No,1:0,1:0
-2025-02-02,Basel W,Thun,5,0,1,No,Yes,3:0,5:0
-2025-02-02,Mostaganem,MC Alger,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Famalicão W,Valadares Gaia W,0,2,2,No,No,0:1,0:2
-2025-02-02,Estoril Praia,Albergaria,0,0,X,No,No,0:0,0:0
-2025-02-02,Kallithea,Aris Thessalonikis,0,1,2,No,No,0:1,0:1
-2025-02-02,Zira,Qarabag,3,2,1,Yes,Yes,0:2,3:2
-2025-02-02,Alpendorada,Régua,3,1,1,Yes,Yes,2:1,3:1
-2025-02-02,Beira-Mar,AD Marco 09,0,3,2,No,Yes,0:1,0:3
-2025-02-02,Machico,Coimbrões,2,0,1,No,No,0:0,2:0
-2025-02-02,Guarda,Cinfães,0,0,X,No,No,0:0,0:0
-2025-02-02,Salgueiros,Marítimo II,4,0,1,No,Yes,1:0,4:0
-2025-02-02,União Lamas,Gondomar,4,0,1,No,Yes,2:0,4:0
-2025-02-02,União de Coimbra,FC Alverca II,1,4,2,Yes,Yes,0:3,1:4
-2025-02-02,Alcains,Arronches e Benfica,2,3,2,Yes,Yes,0:0,2:3
-2025-02-02,Os Marialvas,Mortágua,0,0,X,No,No,0:0,0:0
-2025-02-02,Pombal,Sertanense,0,2,2,No,No,0:0,0:2
-2025-02-02,Marinhense,Pêro Pinheiro,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Peniche,Fátima,0,1,2,No,No,0:0,0:1
-2025-02-02,Estrela Vendas Novas,Lagoa,1,0,1,No,No,1:0,1:0
-2025-02-02,Moncarapachense,Estrela II,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Fabril Barreiro,Amora,0,1,2,No,No,0:0,0:1
-2025-02-02,FC Barreirense,Louletano,2,3,2,Yes,Yes,1:1,2:3
-2025-02-02,Lusitano Évora 1911,FC Serpa,3,2,1,Yes,Yes,1:2,3:2
-2025-02-02,Comércio Indústria,Sintrense,3,1,1,Yes,Yes,2:1,3:1
-2025-02-02,Izarra,Deportivo Alavés II,0,0,X,No,No,0:0,0:0
-2025-02-02,Fraga,Calamocha,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Andorra CF,La Almunia,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Zuera,Brea,4,0,1,No,Yes,2:0,4:0
-2025-02-02,Medeama,Legon Cities,1,0,1,No,No,0:0,1:0
-2025-02-02,Dreams,Basake Holy Stars,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Karela,Berekum Chelsea,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Aduana Stars,Bechem United,1,0,1,No,No,1:0,1:0
-2025-02-02,Bibiani Gold Stars,Samartex,0,0,X,No,No,0:0,0:0
-2025-02-02,Nations,Young Apostles,1,2,2,Yes,Yes,0:2,1:2
-2025-02-02,Nsoatreman,Asante Kotoko,1,0,1,No,No,0:0,1:0
-2025-02-02,Vision,Accra Lions,2,1,1,Yes,Yes,0:1,2:1
-2025-02-02,Pas de la Casa,La Massana,4,0,1,No,Yes,0:0,4:0
-2025-02-02,Brito,Vianense,2,0,1,No,No,1:0,2:0
-2025-02-02,Vila Real,Pevidem,0,0,X,No,No,0:0,0:0
-2025-02-02,Joane,Tirsense,0,0,X,No,No,0:0,0:0
-2025-02-02,Bragança,Atlético Arcos,1,0,1,No,No,0:0,1:0
-2025-02-02,Guimaraes B,Dumiense,2,0,1,No,No,1:0,2:0
-2025-02-02,Rebordosa,Os Limianos,1,0,1,No,No,0:0,1:0
-2025-02-02,Sandinenses,Paredes,0,1,2,No,No,0:1,0:1
-2025-02-02,Betanzos,Barbadás,0,1,2,No,No,0:0,0:1
-2025-02-02,Bala Azul,El Palmar,1,0,1,No,No,0:0,1:0
-2025-02-02,Cartagena LU II,Lorca Deportiva,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Berceo,Haro Deportivo,0,0,X,No,No,0:0,0:0
-2025-02-02,Aravaca,Rayo Vallecano II,2,5,2,Yes,Yes,1:2,2:5
-2025-02-02,Atlético Central,Cartaya,2,0,1,No,No,1:0,2:0
-2025-02-02,FC Levante Badalona,Real Betis W,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Cultural Leonesa II,Mojados,0,1,2,No,No,0:0,0:1
-2025-02-02,Fortuna Mfou,Canon,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Mtarfa,Valletta FC,0,2,2,No,No,0:1,0:2
-2025-02-02,Sporting CP U23,Gil Vicente U23,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Sidama Bunna,Suhul Shire,1,0,1,No,No,0:0,1:0
-2025-02-02,Atlético San Luis U23,U.N.A.M.- Pumas U23,2,0,1,No,No,1:0,2:0
-2025-02-02,Heartland,Rivers United,2,0,1,No,No,0:0,2:0
-2025-02-02,Abia Warriors,Akwa United,2,0,1,No,No,1:0,2:0
-2025-02-02,Nasarawa United,Niger Tornadoes,2,0,1,No,No,1:0,2:0
-2025-02-02,Casa Pia U19,Lusitânia U19,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Coquimbo Unido,D. La Serena,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Huachipato,Rangers de Talca,2,0,1,No,No,0:0,2:0
-2025-02-02,Mjallby AIF,Djurgardens IF,1,2,2,Yes,Yes,1:0,1:2
-2025-02-02,Dainava,Šiauliai,0,2,2,No,No,0:1,0:2
-2025-02-02,Legion,Tartu Kalev,0,6,2,No,Yes,None:None,0:6
-2025-02-02,LNZ Cherkasy,Vancouver Whitecaps,0,2,2,No,No,0:2,0:2
-2025-02-02,Valencia,Celta Vigo,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Eibar,Deportivo La Coruna,0,1,2,No,No,0:1,0:1
-2025-02-02,Universitatea Craiova,Politehnica Iasi,4,1,1,Yes,Yes,2:1,4:1
-2025-02-02,Mosta,Naxxar Lions,1,0,1,No,No,1:0,1:0
-2025-02-02,FC Zurich,FC Basel 1893,0,1,2,No,No,0:1,0:1
-2025-02-02,Yverdon Sport,FC Winterthur,3,0,1,No,Yes,1:0,3:0
-2025-02-02,Alverca,União de Leiria,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,SpVgg Unterhaching,VfL Osnabrück,2,3,2,Yes,Yes,0:2,2:3
-2025-02-02,Lugo,Osasuna II,3,1,1,Yes,Yes,2:1,3:1
-2025-02-02,Unionistas de Salamanca,Ponferradina,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Coruxo,Llanera,1,0,1,No,No,1:0,1:0
-2025-02-02,Gama,Naval,1,2,2,Yes,Yes,1:2,1:2
-2025-02-02,Torina,Cayón,1,4,2,Yes,Yes,1:0,1:4
-2025-02-02,Porreres,Binissalem,1,0,1,No,No,0:0,1:0
-2025-02-02,Platges Calvià,Manacor,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Caspe,Utrillas,0,2,2,No,No,0:2,0:2
-2025-02-02,Ceares,Real Titánico,2,2,X,Yes,Yes,1:0,2:2
-2025-02-02,Colunga,Real Oviedo II,0,2,2,No,No,0:0,0:2
-2025-02-02,Santa Amalia,Extremadura 1924,0,1,2,No,No,0:0,0:1
-2025-02-02,Manzanares,Noblejas,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Bullense,Plus Ultra,3,0,1,No,Yes,1:0,3:0
-2025-02-02,Cieza,Atlético Pulpileño,1,0,1,No,No,0:0,1:0
-2025-02-02,Galapagar,Tres Cantos,1,1,X,Yes,No,0:0,1:1
-2025-02-02,San Roque Lepe,Bollullos,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Malaga City,Torre del Mar,1,3,2,Yes,Yes,1:2,1:3
-2025-02-02,Bembibre,Arandina,1,0,1,No,No,0:0,1:0
-2025-02-02,Almazán,Palencia CF,0,0,X,No,No,0:0,0:0
-2025-02-02,ASFA-Yennenga,RCK,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Rahimo,ASFB,3,1,1,Yes,Yes,1:0,3:1
-2025-02-02,Unisport,Gbohloé-su des Lacs,3,0,1,No,Yes,None:None,3:0
-2025-02-02,Etoile Filante,ASC Kara,3,2,1,Yes,Yes,0:1,3:2
-2025-02-02,Espoir,Barracuda,1,1,X,Yes,No,None:None,1:1
-2025-02-02,Tambo,Gomido,0,0,X,No,No,0:0,0:0
-2025-02-02,Entente II,Binah,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Kara,OTR,2,1,1,Yes,Yes,0:1,2:1
-2025-02-02,Santa Lucía,Mgarr United,5,3,1,Yes,Yes,2:0,5:3
-2025-02-02,Al Seeb,Al-Shabab,1,2,2,Yes,Yes,0:0,1:2
-2025-02-02,St Joseph S Fc,College 1975,5,0,1,No,Yes,2:0,5:0
-2025-02-02,AFAD,Racing d'Abidjan,0,1,2,No,No,0:0,0:1
-2025-02-02,Lys Sassandra,Zoman,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Korhogo,ASEC Mimosas,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Ural,Pyunik Yerevan,4,1,1,Yes,Yes,None:None,4:1
-2025-02-02,Tammeka,Tartu Welco,4,1,1,Yes,Yes,2:0,4:1
-2025-02-02,FC OSS,Helmond Sport,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Sparta Rotterdam,Groningen,1,0,1,No,No,0:0,1:0
-2025-02-02,Feyenoord W,ADO Den Haag W,3,0,1,No,Yes,2:0,3:0
-2025-02-02,Mamelodi Sundowns,Golden Arrows,4,0,1,No,Yes,1:0,4:0
-2025-02-02,Afrique Football Élite,Police,3,0,1,No,Yes,1:0,3:0
-2025-02-02,Železničar Pančevo,Radnicki NIS,0,0,X,No,No,0:0,0:0
-2025-02-02,Fenerbahce,Rizespor,3,2,1,Yes,Yes,1:2,3:2
-2025-02-02,Potters Bar Town,Whitehawk,3,2,1,Yes,Yes,2:1,3:2
-2025-02-02,Erokspor,Boluspor,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Real Avilés,Salamanca UDS,2,1,1,Yes,Yes,0:0,2:1
-2025-02-02,Guijuelo,Laredo,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Marino de Luanco,Real Valladolid II,4,0,1,No,Yes,3:0,4:0
-2025-02-02,Langreo,Compostela,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Conquense,CD Coria,0,1,2,No,No,0:0,0:1
-2025-02-02,Orihuela,Xerez Deportivo,1,0,1,No,No,1:0,1:0
-2025-02-02,Lleida Esportiu,Sant Andreu,2,2,X,Yes,Yes,0:2,2:2
-2025-02-02,Espanyol II,Alzira,4,1,1,Yes,Yes,4:0,4:1
-2025-02-02,Teruel,Arenas Getxo,1,0,1,No,No,0:0,1:0
-2025-02-02,SD Logroñés,Anguiano,0,1,2,No,No,0:0,0:1
-2025-02-02,Tudelano,Alfaro,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Gernika,UD Logroñés,2,2,X,Yes,Yes,0:0,2:2
-2025-02-02,Tropezón,Revilla,0,0,X,No,No,0:0,0:0
-2025-02-02,Barquereño,Colindres,2,2,X,Yes,Yes,1:1,2:2
-2025-02-02,Cerdanyola del Vallès,L'Hospitalet,2,2,X,Yes,Yes,2:2,2:2
-2025-02-02,Caudal,Urraca,4,1,1,Yes,Yes,3:1,4:1
-2025-02-02,Alondras,Boiro,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Sarriana,Villalonga,1,2,2,Yes,Yes,0:2,1:2
-2025-02-02,Noia,Arosa,0,0,X,No,No,0:0,0:0
-2025-02-02,Moralo,Castuera,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Quintanar del Rey,Socuéllamos,0,0,X,No,No,0:0,0:0
-2025-02-02,Huracán Balazote,Calvo Sotelo,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Balsicas Atlético,Águilas II,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Arnedo,UD Logroñés II,1,0,1,No,No,0:0,1:0
-2025-02-02,Náxara,Calahorra II,4,0,1,No,Yes,2:0,4:0
-2025-02-02,Vianés,La Calzada,1,0,1,No,No,0:0,1:0
-2025-02-02,Tedeón,Oyonesa,0,0,X,No,No,0:0,0:0
-2025-02-02,Racing CF Benidorm,Castellonense,0,2,2,No,No,0:0,0:2
-2025-02-02,Ontinyent 1931,Patacona,2,0,1,No,No,2:0,2:0
-2025-02-02,Crevillente,La Nucía,0,2,2,No,No,0:1,0:2
-2025-02-02,Marbelli,Motril,0,0,X,No,No,0:0,0:0
-2025-02-02,Real Jaén,Martos,2,0,1,No,No,1:0,2:0
-2025-02-02,Ciudad Rodrigo,Becerril Campos,2,0,1,No,No,0:0,2:0
-2025-02-02,Dutch Lions,TMT,1,0,1,No,No,0:0,1:0
-2025-02-02,Fortune,Brikama United,0,1,2,No,No,0:1,0:1
-2025-02-02,Al Wihdat,Al Hussein,1,3,2,Yes,Yes,1:1,1:3
-2025-02-02,Etehad Al Reef,Khalidiya,1,6,2,Yes,Yes,1:4,1:6
-2025-02-02,Al Hala,Al Najma,3,1,1,Yes,Yes,1:0,3:1
-2025-02-02,Budaiya,Muharraq,2,4,2,Yes,Yes,1:1,2:4
-2025-02-02,Djoliba,Réal Bamako,3,0,1,No,Yes,2:0,3:0
-2025-02-02,Rancho Santana U20,UNAN Managua U20,1,3,2,Yes,Yes,0:0,1:3
-2025-02-02,Renaissance,Guinée Foot Elite,3,0,1,No,Yes,None:None,3:0
-2025-02-02,Reims,Nantes,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Angers,Le Havre,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Rennes,Strasbourg,1,0,1,No,No,0:0,1:0
-2025-02-02,Bari,Frosinone,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Saguntino,Rayo Ibense,4,0,1,No,Yes,2:0,4:0
-2025-02-02,Legia Warszawa,Korona Kielce,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Arsenal,Manchester City,5,1,1,Yes,Yes,1:0,5:1
-2025-02-02,Kecskeméti TE,Zalaegerszegi TE,1,0,1,No,No,0:0,1:0
-2025-02-02,Radomlje,Koper,1,2,2,Yes,Yes,0:0,1:2
-2025-02-02,Bayer Leverkusen,1899 Hoffenheim,3,1,1,Yes,Yes,2:0,3:1
-2025-02-02,Giana Erminio,Feralpisalo,3,1,1,Yes,Yes,1:0,3:1
-2025-02-02,Lumezzane,Triestina,1,3,2,Yes,Yes,0:3,1:3
-2025-02-02,Pianese,Lucchese,2,0,1,No,No,1:0,2:0
-2025-02-02,Pontedera,Pineto,3,2,1,Yes,Yes,2:1,3:2
-2025-02-02,Sanluqueño,Sevilla Atletico,0,1,2,No,No,0:0,0:1
-2025-02-02,FC Andorra,Ourense CF,0,0,X,No,No,0:0,0:0
-2025-02-02,San Ignacio,Portugalete,0,3,2,No,Yes,0:1,0:3
-2025-02-02,Estradense,Celta de Vigo III,2,2,X,Yes,Yes,1:0,2:2
-2025-02-02,Ciudad de Lucena,Córdoba II,2,0,1,No,No,1:0,2:0
-2025-02-02,Huétor Tájar,Ciudad de Torredonjimeno,0,1,2,No,No,0:0,0:1
-2025-02-02,Jamono Fatick,HLM,0,0,X,No,No,0:0,0:0
-2025-02-02,Pikine,Sonacos,1,0,1,No,No,1:0,1:0
-2025-02-02,Teungueth,Guédiawaye,1,1,X,Yes,No,0:1,1:1
-2025-02-02,AC Milan,Inter,1,1,X,Yes,No,1:0,1:1
-2025-02-02,AEK Larnaca,AEL,2,0,1,No,No,1:0,2:0
-2025-02-02,Reddis,Mollerussa,2,0,1,No,No,0:0,2:0
-2025-02-02,Granada,Atletico Madrid W,0,0,X,No,No,0:0,0:0
-2025-02-02,Torreperogil,El Ejido,1,0,1,No,No,1:0,1:0
-2025-02-02,Málaga II,Huétor Vega,2,0,1,No,No,1:0,2:0
-2025-02-02,Mijas Las Lagunas,Arenas Armilla,0,0,X,No,No,0:0,0:0
-2025-02-02,Cristo Atlético,Briviesca,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Future FC,Al Ahly,1,3,2,Yes,Yes,0:3,1:3
-2025-02-02,Cailungo,Folgore,1,3,2,Yes,Yes,0:1,1:3
-2025-02-02,Deportivo Upala,Quepos Cambute,2,3,2,Yes,Yes,0:1,2:3
-2025-02-02,Santos Laguna U23,Puebla U23,0,0,X,No,No,0:0,0:0
-2025-02-02,Cobán Imperial,Comunicaciones,0,0,X,No,No,0:0,0:0
-2025-02-02,Nõmme Kalju II,Paide II,2,1,1,Yes,Yes,None:None,2:1
-2025-02-02,Al Fahaheel,Al Arabi,1,3,2,Yes,Yes,0:0,1:3
-2025-02-02,Lask Linz,Red Bull Salzburg,2,1,1,Yes,Yes,0:1,2:1
-2025-02-02,Osasuna,Real Sociedad,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Slavia Praha,Mlada Boleslav,1,0,1,No,No,0:0,1:0
-2025-02-02,Gent,Anderlecht,1,0,1,No,No,1:0,1:0
-2025-02-02,FC Cartagena,Cordoba,0,1,2,No,No,0:1,0:1
-2025-02-02,Zaragoza,Cadiz,0,0,X,No,No,0:0,0:0
-2025-02-02,PAOK,AEK Athens FC,1,2,2,Yes,Yes,0:1,1:2
-2025-02-02,RB Leipzig W,Bayern Munich W,0,1,2,No,No,0:1,0:1
-2025-02-02,Atlètic Club d'Escaldes,Ranger's,3,1,1,Yes,Yes,1:1,3:1
-2025-02-02,Polvorín,UD Ourense,2,2,X,Yes,Yes,2:0,2:2
-2025-02-02,Swieqi United,Zebbug Rangers,3,2,1,Yes,Yes,1:0,3:2
-2025-02-02,FCSB,CFR 1907 Cluj,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Sporting CP,Farense,3,1,1,Yes,Yes,2:1,3:1
-2025-02-02,Real Madrid III,Móstoles,3,1,1,Yes,Yes,1:1,3:1
-2025-02-02,Montañeses,Racing de Veracruz,3,1,1,Yes,Yes,3:0,3:1
-2025-02-02,Taubaté,Sao Bento,1,0,1,No,No,0:0,1:0
-2025-02-02,Maguary PE,Decisão,5,0,1,No,Yes,2:0,5:0
-2025-02-02,Democrata GV,Pouso Alegre,2,4,2,Yes,Yes,1:3,2:4
-2025-02-02,Leones Negros UDG,Tlaxcala,5,1,1,Yes,Yes,3:0,5:1
-2025-02-02,Santa Cruz RN,Laguna,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Stade Malien Bamako,Bakaridjan,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Stella,SOL,1,1,X,Yes,No,1:1,1:1
-2025-02-02,H&H Export U20,Matagalpa U20,1,0,1,No,No,1:0,1:0
-2025-02-02,Juventud Copalera,Coatepecano IB,2,0,1,No,No,None:None,2:0
-2025-02-02,KRC Genk II,Waasland-beveren,3,3,X,Yes,Yes,2:1,3:3
-2025-02-02,Kortrijk,KVC Westerlo,1,2,2,Yes,Yes,1:0,1:2
-2025-02-02,Hapoel Haifa,Maccabi Netanya,1,3,2,Yes,Yes,1:2,1:3
-2025-02-02,Hannover 96 II,SV Sandhausen,2,2,X,Yes,Yes,0:0,2:2
-2025-02-02,Pescara,Virtus Entella,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Panetolikos,Atromitos,0,1,2,No,No,0:1,0:1
-2025-02-02,Independiente FSJ,Londrina,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Ceilândia,Brasiliense,0,1,2,No,No,0:0,0:1
-2025-02-02,Legião,Samambaia,0,4,2,No,Yes,0:1,0:4
-2025-02-02,América SE,Guarany SE,3,0,1,No,Yes,0:0,3:0
-2025-02-02,Viana,IAPE,1,2,2,Yes,Yes,1:1,1:2
-2025-02-02,Europa Point,Magpies,0,4,2,No,Yes,0:2,0:4
-2025-02-02,Tottenham Hotspur W,Manchester United W,0,1,2,No,No,0:1,0:1
-2025-02-02,Oeirense,Parnahyba,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Rio Branco ES,Rio Branco-VN,0,0,X,No,No,0:0,0:0
-2025-02-02,Willem II,AZ Alkmaar,0,2,2,No,No,0:2,0:2
-2025-02-02,North Village Rams,Hamilton Parish,3,1,1,Yes,Yes,None:None,3:1
-2025-02-02,Paget Lions,St. George's Colts,0,0,X,No,No,None:None,0:0
-2025-02-02,Pembroke Hamilton Club,Devonshire Cougars,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Andraus Brasil,Atletico Paranaense,1,3,2,Yes,Yes,1:2,1:3
-2025-02-02,Sampaio Corrêa RJ,Bangu,3,0,1,No,Yes,1:0,3:0
-2025-02-02,ABECAT Ouvidorense,Anápolis,0,2,2,No,No,0:1,0:2
-2025-02-02,Goianésia,Aparecidense,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Ferroviario,Maracanã,1,0,1,No,No,0:0,1:0
-2025-02-02,Água Santa,Ponte Preta,0,1,2,No,No,0:1,0:1
-2025-02-02,Itabirito,Aymorés,0,0,X,No,No,0:0,0:0
-2025-02-02,Botafogo,Flamengo,1,3,2,Yes,Yes,0:2,1:3
-2025-02-02,Vilavelhense,Nova Venécia,2,0,1,No,No,0:0,2:0
-2025-02-02,Ivinhema,Dourados Atlético,1,0,1,No,No,0:0,1:0
-2025-02-02,Naviraiense,Aquidauanense,4,1,1,Yes,Yes,None:None,4:1
-2025-02-02,Coxim,Operario Ferroviario,0,1,2,No,No,0:0,0:1
-2025-02-02,Brasil DE Pelotas,Sao Jose,1,0,1,No,No,0:0,1:0
-2025-02-02,Jacobina,Juazeirense,0,2,2,No,No,0:1,0:2
-2025-02-02,Maranhão,Imperatriz,3,2,1,Yes,Yes,2:1,3:2
-2025-02-02,La Equidad,Atletico Nacional,0,1,2,No,No,0:0,0:1
-2025-02-02,Treze,Botafogo PB,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Auto Esporte,EC de Patos,2,3,2,Yes,Yes,1:1,2:3
-2025-02-02,Grenades,Hoppers,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Walter Ferretti U20,Deportivo Ocotal U20,1,0,1,No,No,0:0,1:0
-2025-02-02,Ferencvarosi TC,MTK Budapest,0,0,X,No,No,0:0,0:0
-2025-02-02,The Strongest,Aurora,4,0,1,No,Yes,2:0,4:0
-2025-02-02,Manaus FC,Amazonas,2,2,X,Yes,Yes,0:1,2:2
-2025-02-02,Manauara,Parintins,2,0,1,No,No,2:0,2:0
-2025-02-02,Marseille,Lyon,3,2,1,Yes,Yes,0:0,3:2
-2025-02-02,AS Roma,Napoli,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Real Betis,Athletic Club,2,2,X,Yes,Yes,2:1,2:2
-2025-02-02,Tenerife,Albacete,3,1,1,Yes,Yes,1:0,3:1
-2025-02-02,Portmore United,Humble Lions,2,1,1,Yes,Yes,0:1,2:1
-2025-02-02,Harbour View,Mount Pleasant Academy,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Dunbeholden,Montego Bay United,2,0,1,No,No,0:0,2:0
-2025-02-02,Chapelton,Racing United,1,2,2,Yes,Yes,0:0,1:2
-2025-02-02,Santa Catarina,Figueirense,2,2,X,Yes,Yes,1:0,2:2
-2025-02-02,Ceara,Barbalha,5,0,1,No,Yes,1:0,5:0
-2025-02-02,Retrô,Nautico Recife,1,0,1,No,No,0:0,1:0
-2025-02-02,San Carlos FC,AD Sarchí,1,3,2,Yes,Yes,1:2,1:3
-2025-02-02,Primavera MG,Sport Sinop,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Vasco da Gama AC,São Francisco,1,0,1,No,No,1:0,1:0
-2025-02-02,Princesa Solimões,São Raimundo AM,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Ji-Paraná,Guaporé,1,3,2,Yes,Yes,0:2,1:3
-2025-02-02,Confiança,Lagarto,4,0,1,No,Yes,2:0,4:0
-2025-02-02,San Lorenzo,River Plate,0,0,X,No,No,0:0,0:0
-2025-02-02,Pride of Gall Hill,Ellerton,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Miramar,Plaza Colonia,0,1,2,No,No,0:1,0:1
-2025-02-02,Estrela,Benfica,2,3,2,Yes,Yes,1:3,2:3
-2025-02-02,Inter Moengotapoe,Flora,3,2,1,Yes,Yes,None:None,3:2
-2025-02-02,Vila Nova,Goias,1,0,1,No,No,1:0,1:0
-2025-02-02,Defence Force,Phoenix,1,0,1,No,No,1:0,1:0
-2025-02-02,CS Herediano,Sporting San Jose,2,0,1,No,No,0:0,2:0
-2025-02-02,Puntarenas FC,Perez Zeledon,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,XV de Piracicaba,Santo André,1,0,1,No,No,0:0,1:0
-2025-02-02,Águia Negra,Costa Rica ,1,1,X,Yes,No,0:1,1:1
-2025-02-02,CD Marathon,CD Real Sociedad,1,1,X,Yes,No,0:1,1:1
-2025-02-02,General Caballero,Sportivo Ameliano,1,0,1,No,No,1:0,1:0
-2025-02-02,San Pedro,Quiché,0,1,2,No,No,None:None,0:1
-2025-02-02,La Libertad,Nueva Concepción,1,2,2,Yes,Yes,None:None,1:2
-2025-02-02,Democracia,Iztapa,2,2,X,Yes,Yes,None:None,2:2
-2025-02-02,Achuapa,Mixco,0,0,X,No,No,0:0,0:0
-2025-02-02,Águila,FAS,3,1,1,Yes,Yes,1:1,3:1
-2025-02-02,Fuerte San Francisco,Platense,0,2,2,No,No,0:1,0:2
-2025-02-02,Once Municipal,Municipal Limeño,0,0,X,No,No,0:0,0:0
-2025-02-02,Jaguares,Real Soacha,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Zamora FC,Estudiantes de Merida FC,2,1,1,Yes,Yes,2:0,2:1
-2025-02-02,Herrera,Independiente de La Chorrera,3,2,1,Yes,Yes,0:2,3:2
-2025-02-02,Cobreloa,Antofagasta,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Deportes Copiapo,Deportes Iquique,1,0,1,No,No,0:0,1:0
-2025-02-02,Manta FC,San Antonio Bulo Bulo,2,1,1,Yes,Yes,None:None,2:1
-2025-02-02,Diriangén U20,Managua U20,1,3,2,Yes,Yes,1:0,1:3
-2025-02-02,H&H Export,Matagalpa,1,1,X,Yes,No,0:1,1:1
-2025-02-02,Old Road,Five Islands,3,0,1,No,Yes,None:None,3:0
-2025-02-02,Deportivo Cali,Envigado,1,0,1,No,No,0:0,1:0
-2025-02-02,Cianorte,Coritiba,4,1,1,Yes,Yes,1:1,4:1
-2025-02-02,Caravaggio,Hercílio Luz,1,0,1,No,No,1:0,1:0
-2025-02-02,Guarani Campinas,Palmeiras,1,4,2,Yes,Yes,0:2,1:4
-2025-02-02,Cruzeiro,Uberlandia,3,1,1,Yes,Yes,2:1,3:1
-2025-02-02,Porto BA,Jequié,1,2,2,Yes,Yes,1:0,1:2
-2025-02-02,Acatlan,Chilpancingo,1,2,2,Yes,Yes,1:2,1:2
-2025-02-02,Real Apodaca,Cimarrones,1,0,1,No,No,1:0,1:0
-2025-02-02,Marcílio Dias,Concórdia,0,0,X,No,No,0:0,0:0
-2025-02-02,Petrolina,Central SC,0,0,X,No,No,0:0,0:0
-2025-02-02,Jaguaré,Desportiva ES,0,2,2,No,No,0:1,0:2
-2025-02-02,Guarany de Bagé,Pelotas,1,0,1,No,No,1:0,1:0
-2025-02-02,Academia,Cuiaba,0,1,2,No,No,0:0,0:1
-2025-02-02,Galvez,Humaitá,2,2,X,Yes,Yes,1:0,2:2
-2025-02-02,Real Esppor Club,UCV,2,2,X,Yes,Yes,2:1,2:2
-2025-02-02,Weymouth Wales,Wotton,5,1,1,Yes,Yes,3:0,5:1
-2025-02-02,Sporting San Miguelito,Inter Miami,1,3,2,Yes,Yes,1:1,1:3
-2025-02-02,Wagiya,Verdes,0,2,2,No,No,None:None,0:2
-2025-02-02,Walter Ferretti,Deportivo Ocotal,5,2,1,Yes,Yes,2:1,5:2
-2025-02-02,Portuguesa RJ,Nova Iguaçu,0,1,2,No,No,0:0,0:1
-2025-02-02,Boca Juniors,Huracan,2,1,1,Yes,Yes,1:1,2:1
-2025-02-02,Newells Old Boys,Aldosivi,1,0,1,No,No,1:0,1:0
-2025-02-02,Waterhouse,Molynes United,1,1,X,Yes,No,0:0,1:1
-2025-02-02,Atletico Torque,Club Nacional,1,0,1,No,No,1:0,1:0
-2025-02-02,San Juan Jabloteh,Ath­let­ic Club,0,0,X,No,No,0:0,0:0
-2025-02-02,Santos Laguna,Puebla,0,2,2,No,No,0:1,0:2
-2025-02-02,Necaxa W,Puebla W,1,1,X,Yes,No,1:0,1:1
-2025-02-02,Notch,PVV,1,1,X,Yes,No,1:1,1:1
-2025-02-02,Deportes Santa Cruz,Curico Unido,0,2,2,No,No,0:2,0:2
-2025-02-02,Garden Stars,Attacking Saints,4,0,1,No,Yes,3:0,4:0
-2025-02-02,CD Olimpia,Olancho,2,1,1,Yes,Yes,1:0,2:1
-2025-02-02,Independiente Medellin,Chico,3,0,1,No,Yes,0:0,3:0
-2025-02-02,Internacional,Avenida,1,0,1,No,No,0:0,1:0
-2025-02-02,Libertad Asuncion,Deportivo Recoleta,5,2,1,Yes,Yes,0:2,5:2
-2025-02-02,Carabobo FC,Portuguesa FC,0,0,X,No,No,0:0,0:0
-2025-02-02,Universidad de Chile,Magallanes,0,1,2,No,No,0:0,0:1
+2025-02-25,Racing Cordoba,Alvarado,2,1,1,Yes,Yes,1:0,2:1
+2025-02-25,Tigre,Banfield,1,0,1,No,No,0:0,1:0
+2025-02-25,Tecnico Universitario,Libertad,2,2,X,Yes,Yes,1:0,2:2
+2025-02-25,San Marcos de Arica,Curico Unido,1,2,2,Yes,Yes,0:1,1:2
+2025-02-25,San Martín Burzaco,Comunicaciones,1,0,1,No,No,1:0,1:0
+2025-02-25,Junior,Envigado,1,2,2,Yes,Yes,1:2,1:2
+2025-02-25,Amazonas,Manauara,0,0,X,No,No,0:0,0:0
+2025-02-25,Montego Bay United,Mount Pleasant Academy,1,1,X,Yes,No,0:1,1:1
+2025-02-25,Antioquia,Escorpiones Belén,0,2,2,No,No,0:1,0:2
+2025-02-25,Alianza FC,UMECIT,0,0,X,No,No,0:0,0:0
+2025-02-25,Guadalupe FC,CS Uruguay,2,1,1,Yes,Yes,1:1,2:1
+2025-02-25,Zitacuaro,Deportiva Venados,1,2,2,Yes,Yes,0:1,1:2
+2025-02-25,Solomon Islands W,Vanuatu W,0,1,2,No,No,0:1,0:1
+2025-02-25,Persewar,Persibo,2,6,2,Yes,Yes,1:4,2:6
+2025-02-25,Persiku Kudus,Persekat,2,1,1,Yes,Yes,0:0,2:1
+2025-02-25,Persikas,Persipal,0,1,2,No,No,0:1,0:1
+2025-02-25,Cilegon United,Persipa Pati,0,5,2,No,Yes,0:0,0:5
+2025-02-25,Sri Pahang U23,Kuching City U23,0,0,X,No,No,None:None,0:0
+2025-02-25,KLASA,Bengaluru United,0,2,2,No,No,None:None,0:2
+2025-02-25,Terengganu U23,Penang U23,4,1,1,Yes,Yes,None:None,4:1
+2025-02-25,PDRM U23,Kuala Lumpur City U23,1,3,2,Yes,Yes,None:None,1:3
+2025-02-25,Zambia W,Malawi W,2,3,2,Yes,Yes,1:0,2:3
+2025-02-25,Alashkert,Pyunik Yerevan,0,2,2,No,No,0:1,0:2
+2025-02-25,Armenia W,Kazakhstan W,2,0,1,No,No,1:0,2:0
+2025-02-25,Sporting Goa,NEROCA,3,0,1,No,Yes,None:None,3:0
+2025-02-25,Dempo,Sreenidi Deccan,2,3,2,Yes,Yes,2:0,2:3
+2025-02-25,Sporting Braga U23,Portimonense U23,2,1,1,Yes,Yes,2:0,2:1
+2025-02-25,Mafra U23,Rio Ave U23,2,0,1,No,No,1:0,2:0
+2025-02-25,Academico Viseu U23,Santa Clara U23,1,1,X,Yes,No,0:0,1:1
+2025-02-25,Farense U23,Leixões U23,2,0,1,No,No,0:0,2:0
+2025-02-25,Bhutan U16,Southern City,1,2,2,Yes,Yes,None:None,1:2
+2025-02-25,Rilski Sportist,Vitosha Bistritsa,0,4,2,No,Yes,None:None,0:4
+2025-02-25,Antalyaspor,Besiktas,1,2,2,Yes,Yes,0:1,1:2
+2025-02-25,Sivasspor,BB Bodrumspor,0,1,2,No,No,0:1,0:1
+2025-02-25,Kırklarelispor,Kocaelispor,1,3,2,Yes,Yes,0:2,1:3
+2025-02-25,Kruševo,Zeljeznicar Sarajevo,1,8,2,Yes,Yes,0:6,1:8
+2025-02-25,Persijap,PSPS,1,0,1,No,No,0:0,1:0
+2025-02-25,Safa,Al Hikma,3,0,1,No,Yes,0:0,3:0
+2025-02-25,Reyady Abaseya,Shabab Al Sahel,2,2,X,Yes,Yes,2:0,2:2
+2025-02-25,Gasco,Heegan,1,2,2,Yes,Yes,None:None,1:2
+2025-02-25,Al Ahed,Al Ansar,2,4,2,Yes,Yes,1:2,2:4
+2025-02-25,Mladost Novi Sad,FK Trayal,0,3,2,No,Yes,0:1,0:3
+2025-02-25,Norwich City U18,Leicester City U18,2,2,X,Yes,Yes,0:1,2:2
+2025-02-25,Blackburn Rovers U18,Leeds United U18,6,2,1,Yes,Yes,3:2,6:2
+2025-02-25,Fleetwood Town U21,Peterborough United U21,5,0,1,No,Yes,2:0,5:0
+2025-02-25,Montenegro W,Lithuania W,3,1,1,Yes,Yes,2:1,3:1
+2025-02-25,Kosovo W,Latvia W,0,1,2,No,No,0:0,0:1
+2025-02-25,Shahre Raz,Naft Masjed Soleyman,1,1,X,Yes,No,1:0,1:1
+2025-02-25,Paykan,Fajr Sepasi,1,1,X,Yes,No,0:0,1:1
+2025-02-25,Saipa,Niroye Zamini,0,1,2,No,No,0:0,0:1
+2025-02-25,Ario Eslamshahr,Shahrdari Noshahr,0,0,X,No,No,0:0,0:0
+2025-02-25,Al-Akhdar,Al-Anwar,0,1,2,No,No,0:0,0:1
+2025-02-25,Khaleej Sart,Al-Nasr,0,1,2,No,No,0:1,0:1
+2025-02-25,South Africa W,Lesotho W,2,0,1,No,No,2:0,2:0
+2025-02-25,Abha,Al Baten,2,2,X,Yes,Yes,2:1,2:2
+2025-02-25,Al-Ain,Al Arabi SC,1,0,1,No,No,0:0,1:0
+2025-02-25,Aizawl,Gokulam,1,2,2,Yes,Yes,1:0,1:2
+2025-02-25,Israel W,Estonia W,3,1,1,Yes,Yes,1:0,3:1
+2025-02-25,Vitesse U21,Feyenoord U21,1,1,X,Yes,No,1:0,1:1
+2025-02-25,Mes Kerman,Be'sat Kermanshah,2,2,X,Yes,Yes,1:2,2:2
+2025-02-25,Chile W,Argentina W,0,0,X,No,No,0:0,0:0
+2025-02-25,CA Batna,US Souf,5,1,1,Yes,Yes,2:0,5:1
+2025-02-25,Bristol City U21,Cardiff City U21,1,1,X,Yes,No,1:0,1:1
+2025-02-25,Hull City U21,Sheffield United U21,0,3,2,No,Yes,0:0,0:3
+2025-02-25,Millwall U21,Brentford U21,3,0,1,No,Yes,2:0,3:0
+2025-02-25,Bengaluru,Chennaiyin,1,0,1,No,No,1:0,1:0
+2025-02-25,Pars Jonoubi JAM,Damash Gilanian,2,1,1,Yes,Yes,2:0,2:1
+2025-02-25,Sanat Naft,Naft Bandar Abbas,0,0,X,No,No,0:0,0:0
+2025-02-25,Ararat-Armenia,FC Urartu,1,2,2,Yes,Yes,0:0,1:2
+2025-02-25,Al-Raed,Al Shabab,1,2,2,Yes,Yes,0:1,1:2
+2025-02-25,ASO Chlef,MC Oran,1,0,1,No,No,0:0,1:0
+2025-02-25,Al-Khabourah,Al Seeb,1,1,X,Yes,No,0:0,1:1
+2025-02-25,Everton U18,Middlesbrough U18,4,4,X,Yes,Yes,1:2,4:4
+2025-02-25,UF Santos,Extension Gunners,0,1,2,No,No,None:None,0:1
+2025-02-25,Estrela U23,Sporting CP U23,2,0,1,No,No,1:0,2:0
+2025-02-25,Torreense U23,Famalicão U23,1,2,2,Yes,Yes,1:2,1:2
+2025-02-25,Tigres UANL U23,Juarez U23,4,0,1,No,Yes,1:0,4:0
+2025-02-25,Csikszereda,Viitorul Şelimbăr,1,0,1,No,No,1:0,1:0
+2025-02-25,Al Jubail,Al Zulfi,2,2,X,Yes,Yes,0:2,2:2
+2025-02-25,Al-Hilal Saudi FC,Al Kholood,5,1,1,Yes,Yes,4:0,5:1
+2025-02-25,Turkey W,Greece W,1,0,1,No,No,1:0,1:0
+2025-02-25,Al Wehda Club,Al-Nassr,0,2,2,No,No,0:0,0:2
+2025-02-25,Shaita,Invincible Eleven,3,0,1,No,Yes,1:0,3:0
+2025-02-25,Paynesville,LISCR,3,1,1,Yes,Yes,1:1,3:1
+2025-02-25,Romania W,Poland W,0,1,2,No,No,0:0,0:1
+2025-02-25,Botev Vratsa,Beroe,0,0,X,No,No,0:0,0:0
+2025-02-25,Estoril U23,Gil Vicente U23,1,1,X,Yes,No,1:0,1:1
+2025-02-25,Mazatlan FC U23,Monterrey U23,1,1,X,Yes,No,0:0,1:1
+2025-02-25,Djoliba,ASKO,1,0,1,No,No,0:0,1:0
+2025-02-25,Vllaznia Shkodër,AF Elbasani,3,3,X,Yes,Yes,1:1,3:3
+2025-02-25,Partizani,Laci,2,1,1,Yes,Yes,1:0,2:1
+2025-02-25,Abu Salim,Al-Tirsana,2,1,1,Yes,Yes,0:0,2:1
+2025-02-25,Asswehly,Al-Nahda,4,0,1,No,Yes,3:0,4:0
+2025-02-25,Frem,Nykobing FC,2,0,1,No,No,2:0,2:0
+2025-02-25,CI Kamsar,CO Coyah,4,1,1,Yes,Yes,1:1,4:1
+2025-02-25,Czech Republic W,Albania W,5,1,1,Yes,Yes,3:1,5:1
+2025-02-25,Slovakia W,Moldova W,1,0,1,No,No,0:0,1:0
+2025-02-25,JäPS / Akatemia,Germania,4,0,1,No,Yes,None:None,4:0
+2025-02-25,Komárno,Žilina,1,0,1,No,No,1:0,1:0
+2025-02-25,Voitsberg,Schwarz-Weiß Bregenz,2,1,1,Yes,Yes,1:1,2:1
+2025-02-25,Mostaganem,Khenchela,2,0,1,No,No,2:0,2:0
+2025-02-25,Ksar,Pompiers,1,0,1,No,No,1:0,1:0
+2025-02-25,Norway W,Switzerland W,2,1,1,Yes,Yes,0:0,2:1
+2025-02-25,Slovenia W,Republic of Ireland,4,0,1,No,Yes,3:0,4:0
+2025-02-25,Hungary W,Finland W,0,1,2,No,No,0:1,0:1
+2025-02-25,Serbia W,Belarus W,0,0,X,No,No,0:0,0:0
+2025-02-25,Ukraine W,Croatia W,2,1,1,Yes,Yes,1:0,2:1
+2025-02-25,Cyprus W,Georgia W,2,1,1,Yes,Yes,2:1,2:1
+2025-02-25,Sparta Praha,Dukla Praha,3,0,1,No,Yes,1:0,3:0
+2025-02-25,Pittsburgh Riverhounds,Loudoun United,1,2,2,Yes,Yes,1:1,1:2
+2025-02-25,Germany W,Austria W,4,1,1,Yes,Yes,1:1,4:1
+2025-02-25,Italy W,Denmark W,1,3,2,Yes,Yes,0:0,1:3
+2025-02-25,Darra,Fish United II,2,2,X,Yes,Yes,0:0,2:2
+2025-02-25,Al-Ahli Jeddah,Al-Qadisiyah FC,4,1,1,Yes,Yes,3:0,4:1
+2025-02-25,U Craiova 1948,Arges Pitesti,0,1,2,No,No,0:1,0:1
+2025-02-25,Stellenbosch,Magesi,2,1,1,Yes,Yes,2:1,2:1
+2025-02-25,Gibraltar W,Faroe Islands W,0,1,2,No,No,0:0,0:1
+2025-02-25,Ashdod,Maccabi Bnei Raina,1,3,2,Yes,Yes,0:2,1:3
+2025-02-25,Morocco W,Haiti W,1,1,X,Yes,No,1:1,1:1
+2025-02-25,TuPS / Skavaböle,HPS / Jägers,3,1,1,Yes,Yes,None:None,3:1
+2025-02-25,Woltmershausen,Werder Bremen III,2,0,1,No,No,0:0,2:0
+2025-02-25,Malta W,Andorra W,1,0,1,No,No,1:0,1:0
+2025-02-25,Luxembourg W,Liechtenstein W,7,0,1,No,Yes,3:0,7:0
+2025-02-25,Moto Club,IAPE,1,0,1,No,No,1:0,1:0
+2025-02-25,Hapoel Ramat Gan,Hapoel Tel Aviv,0,2,2,No,No,0:2,0:2
+2025-02-25,Queens Park Rangers U21,Swansea City U21,1,3,2,Yes,Yes,0:0,1:3
+2025-02-25,Nyiregyhaza,Puskas Academy,1,0,1,No,No,1:0,1:0
+2025-02-25,Northern Ireland W,Bosnia-Herzegovina W,3,2,1,Yes,Yes,1:0,3:2
+2025-02-25,Ruch Chorzów,Korona Kielce,2,0,1,No,No,1:0,2:0
+2025-02-25,Gnistan / 3,KoiPS,4,0,1,No,Yes,None:None,4:0
+2025-02-25,Watford U18,Southampton U18,2,1,1,Yes,Yes,1:1,2:1
+2025-02-25,Sutton Utd,Manchester United U21,3,0,1,No,Yes,1:0,3:0
+2025-02-25,Stjarnan,Keflavik,1,4,2,Yes,Yes,0:2,1:4
+2025-02-25,Wales W,Sweden W,1,1,X,Yes,No,0:1,1:1
+2025-02-25,Brighton,Bournemouth,2,1,1,Yes,Yes,1:0,2:1
+2025-02-25,Wolves,Fulham,1,2,2,Yes,Yes,1:1,1:2
+2025-02-25,Crystal Palace,Aston Villa,4,1,1,Yes,Yes,1:0,4:1
+2025-02-25,Scotland W,Netherlands W,1,2,2,Yes,Yes,1:0,1:2
+2025-02-25,Bellinzona,Lausanne,1,1,X,Yes,No,0:0,1:1
+2025-02-25,FK Sarajevo,Zrinjski,1,1,X,Yes,No,0:1,1:1
+2025-02-25,Altrincham,Newcastle United U21,3,3,X,Yes,Yes,2:2,3:3
+2025-02-25,Pietà Hotspurs,Fgura United,2,1,1,Yes,Yes,None:None,2:1
+2025-02-25,Cardiff,Hull City,1,0,1,No,No,0:0,1:0
+2025-02-25,Stoke City,Middlesbrough,1,3,2,Yes,Yes,1:1,1:3
+2025-02-25,Wigan,Huddersfield,2,1,1,Yes,Yes,2:0,2:1
+2025-02-25,Birmingham,Leyton Orient,2,0,1,No,No,0:0,2:0
+2025-02-25,Northampton,Barnsley,1,2,2,Yes,Yes,0:1,1:2
+2025-02-25,Tranmere,Accrington ST,0,1,2,No,No,0:0,0:1
+2025-02-25,Cheltenham,Walsall,2,2,X,Yes,Yes,0:1,2:2
+2025-02-25,Bromley,Bradford,0,1,2,No,No,0:0,0:1
+2025-02-25,Gillingham,Fleetwood Town,1,2,2,Yes,Yes,1:1,1:2
+2025-02-25,Arbroath,Kelty Hearts,2,1,1,Yes,Yes,1:0,2:1
+2025-02-25,Airdrie United,Raith Rovers,1,0,1,No,No,0:0,1:0
+2025-02-25,Hamilton Academical,Dunfermline,1,0,1,No,No,0:0,1:0
+2025-02-25,Livingston,Morton,3,2,1,Yes,Yes,3:1,3:2
+2025-02-25,Spartans,Forfar Athletic,1,1,X,Yes,No,0:1,1:1
+2025-02-25,Aldershot Town,Solihull Moors,3,1,1,Yes,Yes,3:0,3:1
+2025-02-25,Maidenhead,York,1,3,2,Yes,Yes,0:1,1:3
+2025-02-25,Tamworth,Rochdale,1,1,X,Yes,No,1:0,1:1
+2025-02-25,Eastleigh,Gateshead,1,1,X,Yes,No,0:0,1:1
+2025-02-25,Eastbourne Borough,Maidstone Utd,1,0,1,No,No,0:0,1:0
+2025-02-25,Hampton & Richmond,Chesham United,0,1,2,No,No,0:1,0:1
+2025-02-25,AFC Hornchurch,Enfield Town,3,1,1,Yes,Yes,1:1,3:1
+2025-02-25,Salisbury,Bath City,1,2,2,Yes,Yes,0:2,1:2
+2025-02-25,Slough Town,Chippenham Town,1,2,2,Yes,Yes,1:0,1:2
+2025-02-25,St Albans City,Aveley,3,0,1,No,Yes,2:0,3:0
+2025-02-25,Tonbridge Angels,Welling United,2,0,1,No,No,1:0,2:0
+2025-02-25,Truro City,Weymouth,1,1,X,Yes,No,1:0,1:1
+2025-02-25,Weston-super-Mare,Torquay,1,1,X,Yes,No,1:0,1:1
+2025-02-25,Worthing,Farnborough,1,2,2,Yes,Yes,1:2,1:2
+2025-02-25,Boreham Wood,Chelmsford City,1,0,1,No,No,0:0,1:0
+2025-02-25,Brackley Town,Rushall Olympic,6,1,1,Yes,Yes,3:1,6:1
+2025-02-25,Chorley,Farsley Celtic FC,4,0,1,No,Yes,2:0,4:0
+2025-02-25,Hereford,Buxton,2,1,1,Yes,Yes,1:0,2:1
+2025-02-25,Kidderminster Harriers,King's Lynn Town,2,0,1,No,No,1:0,2:0
+2025-02-25,Needham Market,Leamington,1,1,X,Yes,No,0:0,1:1
+2025-02-25,Oxford City,Chester,0,0,X,No,No,0:0,0:0
+2025-02-25,Radcliffe,Peterborough Sports,1,3,2,Yes,Yes,1:2,1:3
+2025-02-25,Scunthorpe,Darlington 1883,2,0,1,No,No,2:0,2:0
+2025-02-25,South Shields,Alfreton Town,2,1,1,Yes,Yes,2:0,2:1
+2025-02-25,Southport,Curzon Ashton,1,0,1,No,No,1:0,1:0
+2025-02-25,Spennymoor Town,Marine,0,1,2,No,No,0:0,0:1
+2025-02-25,Warrington Town,Scarborough Athletic,0,2,2,No,No,0:1,0:2
+2025-02-25,Biggleswade Town,Stamford,0,2,2,No,No,0:0,0:2
+2025-02-25,Kettering Town,Halesowen Town,0,0,X,No,No,0:0,0:0
+2025-02-25,Stratford Town,AFC Sudbury,3,0,1,No,Yes,1:0,3:0
+2025-02-25,North Ferriby,AFC Emley,1,0,1,No,No,None:None,1:0
+2025-02-25,Cleethorpes Town,Pontefract Collieries,2,2,X,Yes,Yes,None:None,2:2
+2025-02-25,Wroxham,Concord Rangers,0,2,2,No,No,None:None,0:2
+2025-02-25,Hebburn Town,Hyde United,0,2,2,No,No,0:0,0:2
+2025-02-25,Hungerford Town,Poole Town,1,1,X,Yes,No,1:0,1:1
+2025-02-25,Didcot Town,Bishop's Cleeve,0,1,2,No,No,None:None,0:1
+2025-02-25,Helston Athletic,Melksham Town,1,3,2,Yes,Yes,None:None,1:3
+2025-02-25,Westfield (Surrey),Ascot United,2,3,2,Yes,Yes,None:None,2:3
+2025-02-25,Littlehampton Town,Hythe Town,5,0,1,No,Yes,None:None,5:0
+2025-02-25,Chasetown,Vauxhall Motors,2,1,1,Yes,Yes,None:None,2:1
+2025-02-25,Coventry Sphinx,Sutton Coldfield Town,0,2,2,No,No,None:None,0:2
+2025-02-25,AFC Rushden & Diamonds,Leicester Road,2,2,X,Yes,Yes,None:None,2:2
+2025-02-25,Real Bedford,Aylesbury United,3,2,1,Yes,Yes,None:None,3:2
+2025-02-25,Berkhamsted,Hadley,4,1,1,Yes,Yes,None:None,4:1
+2025-02-25,Arminia Bielefeld,Werder Bremen,2,1,1,Yes,Yes,2:0,2:1
+2025-02-25,Gendrim,Nouadhibou,0,3,2,No,Yes,0:2,0:3
+2025-02-25,Celtic,Aberdeen,5,1,1,Yes,Yes,3:0,5:1
+2025-02-25,Inter,Lazio,2,0,1,No,No,1:0,2:0
+2025-02-25,O Elvas,Tirsense,0,2,2,No,No,0:1,0:2
+2025-02-25,Santa Fe,Delfines Del Este,0,1,2,No,No,None:None,0:1
+2025-02-25,Aldosivi Res.,Defensa y Justicia Res.,2,2,X,Yes,Yes,0:1,2:2
+2025-02-25,Racing Club Res.,Belgrano Córdoba Res.,0,1,2,No,No,0:1,0:1
+2025-02-25,Independiente Riva. Res.,Barracas Central Res.,0,1,2,No,No,0:0,0:1
+2025-02-25,Banfield Res.,Newell's Old Boys Res.,1,1,X,Yes,No,0:1,1:1
+2025-02-25,Cannes,Guingamp,3,1,1,Yes,Yes,2:0,3:1
+2025-02-25,Angers,Reims,1,1,X,Yes,No,0:0,1:1
+2025-02-25,France W,Iceland W,3,2,1,Yes,Yes,2:1,3:2
+2025-02-25,Chelsea,Southampton,4,0,1,No,Yes,3:0,4:0
+2025-02-25,Barcelona,Atletico Madrid,4,4,X,Yes,Yes,3:2,4:4
+2025-02-25,Galvez,Independência,0,0,X,No,No,0:0,0:0
+2025-02-25,Estudiantes L.P.,Sarmiento de La Banda,2,1,1,Yes,Yes,1:0,2:1
+2025-02-25,Deportivo Pasto W,Millonarios W,1,1,X,Yes,No,0:0,1:1
+2025-02-25,Santa Fe,Deportes Iquique,2,1,1,Yes,Yes,1:1,2:1
+2025-02-25,Atlético Roraima,Baré,0,0,X,No,No,0:0,0:0
+2025-02-25,Talleres Córdoba Res.,Independiente Res.,1,0,1,No,No,0:0,1:0
+2025-02-25,Maranhão,Vitoria,0,1,2,No,No,0:0,0:1
+2025-02-25,Maringá,Juventude,1,0,1,No,No,1:0,1:0
+2025-02-25,Barcelona BA,Athletic Club,1,2,2,Yes,Yes,0:2,1:2
+2025-02-25,Nacional Potosí,Universitario de Vinto,2,0,1,No,No,1:0,2:0
+2025-02-25,Vega Real,Cibao,1,2,2,Yes,Yes,1:1,1:2
+2025-02-25,Operario Ferroviario,Criciuma,0,1,2,No,No,0:1,0:1
+2025-02-25,Porto Velho,Ji-Paraná,2,0,1,No,No,2:0,2:0
+2025-02-25,Club Tijuana U23,U.N.A.M.- Pumas U23,3,1,1,Yes,Yes,2:1,3:1
+2025-04-20,Municipal Liberia,San Carlos,0,1,2,No,No,0:1,0:1
+2025-04-20,Colorado Springs,El Paso Locomotive,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Gimnasia Jujuy,Almirante Brown,1,0,1,No,No,0:0,1:0
+2025-04-20,Academia Anzoátegui,Zamora FC,2,0,1,No,No,1:0,2:0
+2025-04-20,Independiente del Valle,Manta FC,2,0,1,No,No,2:0,2:0
+2025-04-20,Cusco,Ayacucho FC,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Gremio,Internacional,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Corinthians W,3B da Amazônia,8,0,1,No,Yes,4:0,8:0
+2025-04-20,FC Santiago,CDM,0,0,X,No,No,0:0,0:0
+2025-04-20,Deportivo Ayense,Cordobés,4,0,1,No,Yes,2:0,4:0
+2025-04-20,Blooming,Independiente Petrolero,3,1,1,Yes,Yes,0:0,3:1
+2025-04-20,Rampla Juniors,Oriental,0,0,X,No,No,0:0,0:0
+2025-04-20,Chicago Fire,FC Cincinnati,2,3,2,Yes,Yes,1:2,2:3
+2025-04-20,Houston Dynamo,Colorado Rapids,2,2,X,Yes,Yes,1:0,2:2
+2025-04-20,Minnesota United FC,FC Dallas,0,0,X,No,No,0:0,0:0
+2025-04-20,St. Louis City,Vancouver Whitecaps,0,0,X,No,No,0:0,0:0
+2025-04-20,Alebrijes de Oaxaca,Dorados,2,2,X,Yes,Yes,0:1,2:2
+2025-04-20,Celaya,Tapatío,1,0,1,No,No,1:0,1:0
+2025-04-20,Tlaxcala,Monarcas,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Mineros de Zacatecas,Tepatitlán,1,2,2,Yes,Yes,0:0,1:2
+2025-04-20,CDS Tampico Madero,Atlante FC,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Cancún,CA La Paz,4,1,1,Yes,Yes,2:0,4:1
+2025-04-20,Lobos Upnfm,CD Real Sociedad,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Firpo,Isidro Metapán,0,0,X,No,No,0:0,0:0
+2025-04-20,UWI Blackbirds,Weymouth Wales,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Guadalupe FC,Inter San Carlos,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,Durango,Irapuato,2,2,X,Yes,Yes,0:2,2:2
+2025-04-20,Racing de Veracruz,Cimarrones,3,0,1,No,Yes,2:0,3:0
+2025-04-20,Toluca,Cruz Azul,2,2,X,Yes,Yes,2:2,2:2
+2025-04-20,Independiente Medellin,Once Caldas,2,0,1,No,No,2:0,2:0
+2025-04-20,Real Salt Lake,Toronto FC,0,1,2,No,No,0:1,0:1
+2025-04-20,San Pedro Pirates,Verdes,0,2,2,No,No,None:None,0:2
+2025-04-20,Napier City Rovers,Upper Hutt City,1,1,X,Yes,No,0:0,1:1
+2025-04-20,San Leandro United,Real San Jose,2,0,1,No,No,1:0,2:0
+2025-04-20,Quiché,Chiquimulilla,0,0,X,No,No,None:None,0:0
+2025-04-20,Portland Timbers,Los Angeles FC,3,3,X,Yes,Yes,2:1,3:3
+2025-04-20,San Jose Earthquakes,Sporting Kansas City,3,5,2,Yes,Yes,2:3,3:5
+2025-04-20,Alta,Spokane Velocity,1,2,2,Yes,Yes,0:2,1:2
+2025-04-20,Las Vegas Lights,FC Tulsa,1,4,2,Yes,Yes,0:3,1:4
+2025-04-20,Tigres UANL,U.N.A.M. - Pumas,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Urawa Reds W,Parceiro Nagano W,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,Atlas,Guadalajara Chivas,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Wellington Phoenix W,Western United W,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Roasso Kumamoto,Vegalta Sendai,0,1,2,No,No,0:1,0:1
+2025-04-20,Vanraure Hachinohe,Parceiro Nagano,1,0,1,No,No,1:0,1:0
+2025-04-20,Fukushima United,Kochi United,3,4,2,Yes,Yes,1:2,3:4
+2025-04-20,Albirex Niigata W,Tokyo Verdy Beleza W,0,2,2,No,No,0:2,0:2
+2025-04-20,Biwako Shiga,Criacao Shinjuku,1,0,1,No,No,1:0,1:0
+2025-04-20,Veertien Mie,YSCC,3,1,1,Yes,Yes,2:0,3:1
+2025-04-20,Okinawa SV,Honda,0,0,X,No,No,0:0,0:0
+2025-04-20,Reinmeer Aomori,Honda Lock,1,0,1,No,No,None:None,1:0
+2025-04-20,Suzuka Unlimited,Porvenir Asuka,1,0,1,No,No,None:None,1:0
+2025-04-20,Sydney,Newcastle Jets,3,2,1,Yes,Yes,1:2,3:2
+2025-04-20,Resources Capital,Tuen Mun FC,4,3,1,Yes,Yes,3:1,4:3
+2025-04-20,Yokohama FC,Gamba Osaka,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Shimizu S-pulse,Avispa Fukuoka,3,1,1,Yes,Yes,3:1,3:1
+2025-04-20,Nagoya Grampus,Sanfrecce Hiroshima,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Vissel Kobe,Machida Zelvia,1,0,1,No,No,0:0,1:0
+2025-04-20,Fagiano Okayama,Kashima,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Consadole Sapporo,Fujieda MYFC,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Blaublitz Akita,Jubilo Iwata,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,JEF United Chiba,Oita Trinita,1,0,1,No,No,0:0,1:0
+2025-04-20,Kataller Toyama,Iwaki,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Tokushima Vortis,Mito Hollyhock,0,1,2,No,No,0:0,0:1
+2025-04-20,Imabari,Omiya Ardija,0,0,X,No,No,0:0,0:0
+2025-04-20,Tochigi SC,Kanazawa,0,1,2,No,No,0:0,0:1
+2025-04-20,Matsumoto Yamaga,Tochigi City,0,1,2,No,No,0:0,0:1
+2025-04-20,FC Gifu,Kamatamare Sanuki,1,0,1,No,No,1:0,1:0
+2025-04-20,Gainare Tottori,Kagoshima United,0,0,X,No,No,0:0,0:0
+2025-04-20,Kitakyushu,Sagamihara,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Ansan Greeners,Busan I Park,1,3,2,Yes,Yes,0:3,1:3
+2025-04-20,Mokpo City,Gyeongju HNP,0,1,2,No,No,0:0,0:1
+2025-04-20,Daejeon Korail,Paju Citizen,2,0,1,No,No,0:0,2:0
+2025-04-20,Yeoju Sejong,Yangpyeong,0,1,2,No,No,0:0,0:1
+2025-04-20,Dinamo Vladivostok,Tekstilshchik,2,0,1,No,No,0:0,2:0
+2025-04-20,Kawasaki Frontale,Tokyo Verdy,0,0,X,No,No,0:0,0:0
+2025-04-20,Shonan Bellmare,Kashiwa Reysol,0,1,2,No,No,0:0,0:1
+2025-04-20,Cerezo Osaka,FC Tokyo,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Ulsan Citizen,Chuncheon,1,3,2,Yes,Yes,0:0,1:3
+2025-04-20,Central Coast Mariners,Macarthur,2,2,X,Yes,Yes,2:1,2:2
+2025-04-20,Urawa,Yokohama F. Marinos,3,1,1,Yes,Yes,1:0,3:1
+2025-04-20,Wofoo Tai Po,Eastern,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Tai'an Tiankuang,Hebei Kungfu,0,2,2,No,No,0:1,0:2
+2025-04-20,Asan Mugunghwa,Jeonnam Dragons,0,0,X,No,No,0:0,0:0
+2025-04-20,Gyeongnam FC,Gimpo Citizen,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,Jeju United FC,Pohang Steelers,2,0,1,No,No,1:0,2:0
+2025-04-20,Jeonbuk Motors,Daegu FC,3,1,1,Yes,Yes,3:0,3:1
+2025-04-20,Changchun Yatai,Yunnan Yukun,0,0,X,No,No,0:0,0:0
+2025-04-20,Nantong Haimen Codion,Guangxi Baoyun,0,1,2,No,No,0:0,0:1
+2025-04-20,Chunlei,Guangzhou E-Power,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Trujillo,Atlético Pueblonuevo,2,3,2,Yes,Yes,1:2,2:3
+2025-04-20,Marumo Gallants U23,SuperSport United U23,6,2,1,Yes,Yes,3:0,6:2
+2025-04-20,Sekhukhune United U23,Cape Town City U23,0,0,X,No,No,0:0,0:0
+2025-04-20,FC Ryukyu,Tegevajaro Miyazaki,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Viktoria Žižkov,Slavia Praha II,4,2,1,Yes,Yes,2:2,4:2
+2025-04-20,Sigma Olomouc II,Varnsdorf,0,3,2,No,Yes,0:0,0:3
+2025-04-20,Opava II,Beskyd Frenštát,2,0,1,No,No,2:0,2:0
+2025-04-20,Zbrojovka Brno II,Třinec,2,1,1,Yes,Yes,0:1,2:1
+2025-04-20,Admira Praha II,Baník Sokolov,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Meteor Praha,Slaný,4,3,1,Yes,Yes,2:2,4:3
+2025-04-20,Khangarid,Deren,0,0,X,No,No,0:0,0:0
+2025-04-20,Malženice,Púchov,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Žilina II,Tatran Prešov,1,4,2,Yes,Yes,0:3,1:4
+2025-04-20,Persita,Arema FC,3,2,1,Yes,Yes,1:2,3:2
+2025-04-20,Pho Hien,Long An,3,0,1,No,Yes,2:0,3:0
+2025-04-20,Viktoria Plzeň II,Povltava FA,7,2,1,Yes,Yes,4:1,7:2
+2025-04-20,Kirivong Sok Sen Chey,National Police,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Juventus U20,Lazio U20,1,3,2,Yes,Yes,0:3,1:3
+2025-04-20,Andernach W,Hamburger SV W,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Ingolstadt,Bochum,3,1,1,Yes,Yes,2:1,3:1
+2025-04-20,Honvéd II,BKV Előre,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Vasas II,Monori Se,2,2,X,Yes,Yes,2:0,2:2
+2025-04-20,Debrecen II,Nyiregyhaza II,1,0,1,No,No,0:0,1:0
+2025-04-20,Kisvárda II,Mátészalka,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Gyirmót II,Kelen,2,2,X,Yes,Yes,0:1,2:2
+2025-04-20,SC Sopron,Újpest II,3,1,1,Yes,Yes,1:0,3:1
+2025-04-20,MTK Budapest II,Gárdony,5,0,1,No,Yes,4:0,5:0
+2025-04-20,Diocesano,Jaraíz,1,2,2,Yes,Yes,0:0,1:2
+2025-04-20,El Palmar,Plus Ultra,5,0,1,No,Yes,4:0,5:0
+2025-04-20,Dong Thap,Bóng đá Huế,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Spartak Moscow 2,Irkutsk,3,1,1,Yes,Yes,2:0,3:1
+2025-04-20,Yenisey II,Kosmos Dolgoprudny,1,2,2,Yes,Yes,0:0,1:2
+2025-04-20,SFC Minerva,Águilas II,0,1,2,No,No,0:0,0:1
+2025-04-20,AD Parla,El Álamo,1,0,1,No,No,1:0,1:0
+2025-04-20,Torrejón,RSD Alcalá,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Tartu Welco,FCI Levadia II,1,0,1,No,No,1:0,1:0
+2025-04-20,Luunja,Tallinna Kalev II,5,1,1,Yes,Yes,1:1,5:1
+2025-04-20,Nõmme Kalju II,FC Tallinn,2,4,2,Yes,Yes,1:0,2:4
+2025-04-20,Sparta Praha W,Slavia Praha W,0,3,2,No,Yes,0:1,0:3
+2025-04-20,Kryvbas KR,Zorya Luhansk,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Alverca,Oliveirense,4,0,1,No,Yes,1:0,4:0
+2025-04-20,Antequera,Yeclano,0,1,2,No,No,0:0,0:1
+2025-04-20,Atlético Madrid II,Alcoyano,2,0,1,No,No,2:0,2:0
+2025-04-20,FC Andorra,Gimnástica Segoviana,5,1,1,Yes,Yes,1:1,5:1
+2025-04-20,Ourense CF,Athletic Club II,1,2,2,Yes,Yes,0:0,1:2
+2025-04-20,Ponferradina,Osasuna II,3,2,1,Yes,Yes,2:2,3:2
+2025-04-20,Racing Santander II,Real Avilés,4,1,1,Yes,Yes,0:1,4:1
+2025-04-20,SS Reyes,Illescas,2,2,X,Yes,Yes,0:1,2:2
+2025-04-20,Unión Adarve,Conquense,0,0,X,No,No,0:0,0:0
+2025-04-20,Cádiz II,Antoniano,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Linense,Linares Deportivo,0,0,X,No,No,0:0,0:0
+2025-04-20,Villanovense,Xerez,1,0,1,No,No,1:0,1:0
+2025-04-20,Peña Deportiva,Olot,0,0,X,No,No,0:0,0:0
+2025-04-20,Torrent,Lleida Esportiu,1,0,1,No,No,0:0,1:0
+2025-04-20,Espanyol II,Ibiza Islas Pitiusas,0,0,X,No,No,0:0,0:0
+2025-04-20,Gernika,Barbastro,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Ejea,Arenas Getxo,0,1,2,No,No,0:1,0:1
+2025-04-20,Eibar II,Calahorra,1,0,1,No,No,1:0,1:0
+2025-04-20,Utebo,Teruel,3,2,1,Yes,Yes,0:1,3:2
+2025-04-20,Girona II,Badalona II,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Giresunspor,Ankara Demirspor,1,3,2,Yes,Yes,1:2,1:3
+2025-04-20,Socuéllamos,Calvo Sotelo,2,3,2,Yes,Yes,0:3,2:3
+2025-04-20,Alcantarilla,Santomera,1,4,2,Yes,Yes,0:1,1:4
+2025-04-20,Levante W,Deportivo de La Coruña W,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Bidco United,Mathare United,2,0,1,No,No,2:0,2:0
+2025-04-20,Racing CF Benidorm,Castellón II,1,5,2,Yes,Yes,1:3,1:5
+2025-04-20,Laguna de Duero,Ciudad Rodrigo,0,1,2,No,No,0:0,0:1
+2025-04-20,Häcken II,Umeå,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Kaisar,Kairat Almaty,0,0,X,No,No,0:0,0:0
+2025-04-20,Krylya Sovetov II,Khimik Dzerzhinsk,0,0,X,No,No,0:0,0:0
+2025-04-20,Akron II,Dinamo Barnaul,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Nzoia Sugar,Luanda Villa,0,1,2,No,No,0:0,0:1
+2025-04-20,Fortune Sacco,Coastal Heroes,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Utrecht,Ajax,4,0,1,No,Yes,1:0,4:0
+2025-04-20,Silva,UD Ourense,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Istanbul Basaksehir,Gazişehir Gaziantep,2,1,1,Yes,Yes,2:1,2:1
+2025-04-20,Keçiörengücü,Ümraniyespor,0,1,2,No,No,0:0,0:1
+2025-04-20,Yeni Malatyaspor,Adanaspor,0,4,2,No,Yes,0:3,0:4
+2025-04-20,Henan Jianye,Qingdao Jonoon,3,1,1,Yes,Yes,0:1,3:1
+2025-04-20,Qingdao Youth Island,Dalian Zhixing,2,0,1,No,No,0:0,2:0
+2025-04-20,LASK,Kleinmünchen / BW Linz,0,0,X,No,No,0:0,0:0
+2025-04-20,Dynamo,Rubin,3,1,1,Yes,Yes,1:1,3:1
+2025-04-20,Fakel,FC Rostov,0,2,2,No,No,0:1,0:2
+2025-04-20,Nong Bua Pitchaya,Port FC,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Rayong FC,Khon Kaen United,4,0,1,No,Yes,2:0,4:0
+2025-04-20,Chemnitzer FC,FC Rot-Weiß Erfurt,2,0,1,No,No,0:0,2:0
+2025-04-20,Hertha Zehlendorf,Lokomotive Leipzig,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Hellas Verona U20,Cremonese U20,0,2,2,No,No,0:1,0:2
+2025-04-20,Charlton Athletic W,Newcastle United W,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Atlético Paso,Colonia Moscardó,0,1,2,No,No,0:1,0:1
+2025-04-20,Unión Sur Yaiza,Tenerife II,0,0,X,No,No,0:0,0:0
+2025-04-20,Mallorca II,Elche II,2,0,1,No,No,0:0,2:0
+2025-04-20,Lampang FC,Chiangmai United,1,0,1,No,No,0:0,1:0
+2025-04-20,Phrae United,Ayutthaya FC,0,0,X,No,No,0:0,0:0
+2025-04-20,La Virgen del Camino,Almazán,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Bình Phước,Hòa Bình,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Meizhou Kejia,Sichuan Jiuniu,3,0,1,No,Yes,0:0,3:0
+2025-04-20,Utsikten,Sandviken,4,1,1,Yes,Yes,1:1,4:1
+2025-04-20,Angkor Tiger,NagaWorld,0,1,2,No,No,0:0,0:1
+2025-04-20,Boeung Ket,Svay Rieng,0,1,2,No,No,0:1,0:1
+2025-04-20,Song Lam Nghe An,Quang Nam,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Da Nang,Nam Dinh,0,0,X,No,No,0:0,0:0
+2025-04-20,Dinamo Kirov,Forte Taganrog,1,0,1,No,No,0:0,1:0
+2025-04-20,Avangard Kursk,Dinamo Moskva II,0,0,X,No,No,0:0,0:0
+2025-04-20,Kaluga,Novosibirsk,2,0,1,No,No,0:0,2:0
+2025-04-20,Haugesund W,Molde W,3,1,1,Yes,Yes,0:0,3:1
+2025-04-20,KIL / Hemne W,HamKam,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Arsenal Tula II,Zenit Penza,0,1,2,No,No,0:0,0:1
+2025-04-20,Sokol Kazan,Nosta,1,2,2,Yes,Yes,0:2,1:2
+2025-04-20,OLS,JJK,2,2,X,Yes,Yes,1:1,2:2
+2025-04-20,Atlantis,EPS,0,2,2,No,No,0:0,0:2
+2025-04-20,Fehérvár FC,MTK Budapest,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Bayanzürkh Sporting,Erchim,2,2,X,Yes,Yes,0:0,2:2
+2025-04-20,1.FC Köln,Preußen Münster,3,1,1,Yes,Yes,2:1,3:1
+2025-04-20,SV Darmstadt 98,Hannover 96,3,1,1,Yes,Yes,1:0,3:1
+2025-04-20,Karlsruher SC,SpVgg Greuther Fürth,1,0,1,No,No,0:0,1:0
+2025-04-20,1. FC Magdeburg,SSV Jahn Regensburg,3,0,1,No,Yes,1:0,3:0
+2025-04-20,SSV Ulm 1846,Hertha BSC,2,3,2,Yes,Yes,1:0,2:3
+2025-04-20,FC Saarbrücken,Dynamo Dresden,1,4,2,Yes,Yes,1:2,1:4
+2025-04-20,Kasetsart FC,Police Tero,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Gamle Oslo,Skjervøy,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Anderlecht,Antwerp,0,0,X,No,No,0:0,0:0
+2025-04-20,Lokomotiv,Jayxun,4,0,1,No,Yes,2:0,4:0
+2025-04-20,Aral,FarDu,2,0,1,No,No,1:0,2:0
+2025-04-20,Tianjin Teda,Hangzhou Greentown,2,0,1,No,No,0:0,2:0
+2025-04-20,SHANGHAI SIPG,Chengdu Better City,1,3,2,Yes,Yes,1:2,1:3
+2025-04-20,Valladolid,Osasuna,2,3,2,Yes,Yes,0:2,2:3
+2025-04-20,FC Cartagena,Granada CF,2,3,2,Yes,Yes,1:2,2:3
+2025-04-20,Nakhon Ratchasima FC,Prachuap,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Uthai Thani,Muangthong United,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Villingen II,SG Sonnenhof Grossaspach,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Hoffenheim II,Hessen Kassel,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,MSV Duisburg,Köln II,3,1,1,Yes,Yes,0:1,3:1
+2025-04-20,Sheffield United W,Blackburn Rovers W,0,0,X,No,No,0:0,0:0
+2025-04-20,Manchester City W,Everton W,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Borussia Monchengladbach W,Gütersloh,2,3,2,Yes,Yes,1:2,2:3
+2025-04-20,SC Sand W,Bayern München II W,6,4,1,Yes,Yes,1:3,6:4
+2025-04-20,Weinberg,Eintracht Frankfurt II W,0,4,2,No,Yes,0:1,0:4
+2025-04-20,Freiburg II W,Nürnberg,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Persebaya Surabaya,Persepam Madura Utd,1,0,1,No,No,0:0,1:0
+2025-04-20,Mahasarakham United,Kanchanaburi,2,2,X,Yes,Yes,2:1,2:2
+2025-04-20,Fethiyespor,Kırklarelispor,1,0,1,No,No,0:0,1:0
+2025-04-20,Erzin Spor,Altınordu,2,2,X,Yes,Yes,1:1,2:2
+2025-04-20,Karaköprü Belediyespor,İnegölspor,2,1,1,Yes,Yes,2:0,2:1
+2025-04-20,Batman Petrolspor,Isparta 32 Spor,6,0,1,No,Yes,3:0,6:0
+2025-04-20,Altay,Kepez Belediyespor,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Tuzlaspor,24 Erzincanspor,2,0,1,No,No,0:0,2:0
+2025-04-20,Adana 1954 FK,Sarıyer,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Ankaraspor,Kastamonuspor 1966,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Erbaaspor,Somaspor,6,3,1,Yes,Yes,2:2,6:3
+2025-04-20,Karaman Belediyespor,Belediye Derincespor,3,2,1,Yes,Yes,3:0,3:2
+2025-04-20,Van BB,Halide Edip Adıvar,1,0,1,No,No,0:0,1:0
+2025-04-20,Arnavutköy Belediyespor,Diyarbekirspor,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Elazığspor,Karacabey Belediyespor,1,0,1,No,No,1:0,1:0
+2025-04-20,68 Aksaray Belediyespor,Serik Belediyespor,2,2,X,Yes,Yes,1:0,2:2
+2025-04-20,Nazilli Belediyespor,İçel İdmanyurdu Spor,0,6,2,No,Yes,0:4,0:6
+2025-04-20,Menemen Belediyespor,Buca FK,2,0,1,No,No,1:0,2:0
+2025-04-20,Silifke Belediyespor,Düzcespor,1,2,2,Yes,Yes,0:2,1:2
+2025-04-20,Bursaspor,Viven Bornova,4,1,1,Yes,Yes,1:0,4:1
+2025-04-20,Kütahyaspor,Karşıyaka,3,2,1,Yes,Yes,2:0,3:2
+2025-04-20,Kırşehir Belediyespor,Artvin Hopaspor,1,0,1,No,No,0:0,1:0
+2025-04-20,Anadolu Üniversitesi,Ergene Velimeşespor,2,0,1,No,No,1:0,2:0
+2025-04-20,Kartal Bulvarspor,Elazığ Belediyespor FK,0,0,X,No,No,0:0,0:0
+2025-04-20,Kahramanmaraşspor,Tokat Bld Plevnespor,0,0,X,No,No,0:0,0:0
+2025-04-20,Kuşadasıspor,Muş Menderesspor,0,1,2,No,No,0:0,0:1
+2025-04-20,Orduspor 1967,Denizlispor,1,0,1,No,No,0:0,1:0
+2025-04-20,Niğde Belediyesispor,Turgutluspor,1,3,2,Yes,Yes,0:2,1:3
+2025-04-20,1926 Polatlı Belediye,Kırıkkale Büyük Anadolu,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Nilüfer Belediye,Zonguldak Kömürspor,0,1,2,No,No,0:1,0:1
+2025-04-20,Talasgücü Belediyespor,Kahramanmaraş İstiklalsp,0,3,2,No,Yes,0:3,0:3
+2025-04-20,Bergama Belediyespor,Sebat Gençlikspor,2,3,2,Yes,Yes,1:1,2:3
+2025-04-20,Edirnespor,Mardin BB,2,5,2,Yes,Yes,2:4,2:5
+2025-04-20,Tepecikspor,Ağrı 1970,0,1,2,No,No,0:0,0:1
+2025-04-20,Silivrispor,Muğlaspor,0,4,2,No,Yes,0:2,0:4
+2025-04-20,İnegöl Kafkas Gençlik,Balıkesirspor,4,0,1,No,Yes,1:0,4:0
+2025-04-20,Utaş Uşakspor,Çayelispor,2,0,1,No,No,1:0,2:0
+2025-04-20,1954 Kelkit Belediyespor,Amasyaspor 1968,3,3,X,Yes,Yes,2:3,3:3
+2025-04-20,Fatsa Belediyespor,Tire 2021 FK,1,4,2,Yes,Yes,1:0,1:4
+2025-04-20,Türk Metal 1963,Etimesgut Belediyespor,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Mazıdağı Fosfatspor,Nevşehir Belediyespor,9,0,1,No,Yes,3:0,9:0
+2025-04-20,Viranşehir Belediyespor,Ayvalıkgücü Belediyespor,0,1,2,No,No,0:0,0:1
+2025-04-20,Çankaya FK,Bayburt İÖİ,4,1,1,Yes,Yes,1:1,4:1
+2025-04-20,Anadolu Selçukspor,Küçükçekmece Sinopspor,1,0,1,No,No,0:0,1:0
+2025-04-20,Kestelspor,Osmaniyespor,6,2,1,Yes,Yes,1:1,6:2
+2025-04-20,Çorluspor 1947,Yeni Orduspor,0,0,X,No,No,0:0,0:0
+2025-04-20,Aliağa FAŞ,Yozgat Bld Bozokspor,5,2,1,Yes,Yes,2:0,5:2
+2025-04-20,Karabük İdman Yurdu,Efeler 09 Spor,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Pazarspor,Bursa Yıldırımspor,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Talanta,Shabana,2,4,2,Yes,Yes,1:2,2:4
+2025-04-20,Murang'a SEAL,Kariobangi Sharks,0,0,X,No,No,0:0,0:0
+2025-04-20,Linköping,Norrköping W,1,1,X,Yes,No,0:0,1:1
+2025-04-20,IF Brommapojkarna,IFK Varnamo,3,2,1,Yes,Yes,1:0,3:2
+2025-04-20,Osters IF,AIK Stockholm,0,1,2,No,No,0:0,0:1
+2025-04-20,Sollentuna,Team Thoren,1,3,2,Yes,Yes,1:2,1:3
+2025-04-20,Motala,FBK Karlstad,4,3,1,Yes,Yes,3:3,4:3
+2025-04-20,Skiljebo,Täby,2,0,1,No,No,2:0,2:0
+2025-04-20,Ytterhogdal,Falu BS,0,4,2,No,Yes,0:1,0:4
+2025-04-20,Ethiopia Bunna,Sidama Bunna,0,1,2,No,No,0:1,0:1
+2025-04-20,Turan Turkistan,FC Astana,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Åsane W,TIL 2020 W,3,0,1,No,Yes,2:0,3:0
+2025-04-20,CSKA Pomir,Khatlon,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Barki Tajik,Istiqlol,0,1,2,No,No,0:0,0:1
+2025-04-20,Alga,Abdish-Ata,0,1,2,No,No,0:0,0:1
+2025-04-20,Torpedo Vladimir,Luki-Energiya,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Chelyabinsk II,Amkar,0,3,2,No,Yes,0:1,0:3
+2025-04-20,Volna Nizhegorodskaya,Rubin Kazan 2,2,0,1,No,No,1:0,2:0
+2025-04-20,Van,Ararat-Armenia,2,3,2,Yes,Yes,2:2,2:3
+2025-04-20,BFF Academy U20,Ugyen Academy,2,1,1,Yes,Yes,None:None,2:1
+2025-04-20,Inter Turku II,Tampere United,2,3,2,Yes,Yes,1:1,2:3
+2025-04-20,APS Bomet,3K,3,2,1,Yes,Yes,2:1,3:2
+2025-04-20,Balkan,Arkadag,0,1,2,No,No,0:0,0:1
+2025-04-20,ADO Den Haag,Jong PSV,3,2,1,Yes,Yes,2:0,3:2
+2025-04-20,Inhulets,LNZ Cherkasy,0,0,X,No,No,0:0,0:0
+2025-04-20,Keshla FC,Kapaz,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Tromso,Kristiansund BK,2,3,2,Yes,Yes,1:0,2:3
+2025-04-20,Wolfsberger AC,Rapid Vienna,5,1,1,Yes,Yes,1:1,5:1
+2025-04-20,Sturm Graz,FC BW Linz,2,0,1,No,No,1:0,2:0
+2025-04-20,Hillerød,Roskilde,5,2,1,Yes,Yes,1:1,5:2
+2025-04-20,Nyasa Big Bullets,Songwe Border United,7,0,1,No,Yes,3:0,7:0
+2025-04-20,Blue Eagles,Creck,0,0,X,No,No,0:0,0:0
+2025-04-20,Andijan,Dinamo Samarqand,1,2,2,Yes,Yes,0:0,1:2
+2025-04-20,Dekedaha,Madbacadda,4,2,1,Yes,Yes,None:None,4:2
+2025-04-20,Fulham,Chelsea,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Ipswich,Arsenal,0,4,2,No,Yes,0:2,0:4
+2025-04-20,Manchester United,Wolves,0,1,2,No,No,0:0,0:1
+2025-04-20,Lille,Auxerre,3,1,1,Yes,Yes,2:0,3:1
+2025-04-20,Empoli,Venezia,2,2,X,Yes,Yes,0:0,2:2
+2025-04-20,Krnov,Jiskra Rýmařov,2,5,2,Yes,Yes,0:2,2:5
+2025-04-20,Rheindorf Altach II,Kufstein,2,1,1,Yes,Yes,0:1,2:1
+2025-04-20,Onhaye,Crossing Schaerbeek,2,3,2,Yes,Yes,None:None,2:3
+2025-04-20,La Louvière Centre,Entité Manageoise,3,2,1,Yes,Yes,0:1,3:2
+2025-04-20,Aywaille,La Calamine,3,1,1,Yes,Yes,None:None,3:1
+2025-04-20,Stade Verviers,Meux,1,2,2,Yes,Yes,None:None,1:2
+2025-04-20,Acren-Lessines,Huy,3,2,1,Yes,Yes,None:None,3:2
+2025-04-20,AS Eupen II,Raeren-Eynatten,0,3,2,No,Yes,0:0,0:3
+2025-04-20,Rizespor,Eyüpspor,1,0,1,No,No,0:0,1:0
+2025-04-20,Birmingham City W,Durham W,3,1,1,Yes,Yes,1:1,3:1
+2025-04-20,Portsmouth W,Bristol City W,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Tottenham Hotspur W,Aston Villa W,2,3,2,Yes,Yes,0:1,2:3
+2025-04-20,Erokspor,Kocaelispor,3,1,1,Yes,Yes,1:1,3:1
+2025-04-20,Panazol,USSA Vertou,1,1,X,Yes,No,None:None,1:1
+2025-04-20,Bourges Moulon,Châteauroux II,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Châteauneuf-sur-Loire,Romorantin,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Saint-Étienne II,Bourgoin-Jallieu,3,1,1,Yes,Yes,0:0,3:1
+2025-04-20,Strasbourg II,Metz II,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,Croatia Wandre,Hannut,1,3,2,Yes,Yes,None:None,1:3
+2025-04-20,Union Momalloise,Etoile de Faimes,0,0,X,No,No,None:None,0:0
+2025-04-20,Malmundaria,Entente Blegnytoise,1,0,1,No,No,None:None,1:0
+2025-04-20,Espoir Minerois,Hombourg,2,0,1,No,No,None:None,2:0
+2025-04-20,Ster-Francorchamps,Xhoris,0,0,X,No,No,None:None,0:0
+2025-04-20,Beaufays,Sart-Lez-Spa,1,4,2,Yes,Yes,None:None,1:4
+2025-04-20,Union Flémalloise,Wanze / Bas-Oha,0,0,X,No,No,None:None,0:0
+2025-04-20,Rutsiro,Bugesera,4,2,1,Yes,Yes,0:2,4:2
+2025-04-20,APR,Etincelles,2,2,X,Yes,Yes,2:0,2:2
+2025-04-20,Magesi,TS Galaxy,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Tusker,Nairobi City Stars,1,0,1,No,No,1:0,1:0
+2025-04-20,Discoveries,Mighty Barrolle,2,3,2,Yes,Yes,1:1,2:3
+2025-04-20,Freeport,LISCR,3,1,1,Yes,Yes,2:0,3:1
+2025-04-20,BEA Mountain,Shaita,5,2,1,Yes,Yes,2:1,5:2
+2025-04-20,Avion Academy,Yafoot,4,1,1,Yes,Yes,2:1,4:1
+2025-04-20,Racing,Dragon de Yaoundé,3,0,1,No,Yes,1:0,3:0
+2025-04-20,APEJES Academy,Unisport Bafang,1,0,1,No,No,0:0,1:0
+2025-04-20,Atlantic,Foncha ST,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Strømsgodset II,Elverum,1,5,2,Yes,Yes,1:3,1:5
+2025-04-20,Bumamuru,Dynamik,2,0,1,No,No,2:0,2:0
+2025-04-20,Kayanza United,Rukinzo,0,2,2,No,No,0:1,0:2
+2025-04-20,Olympic Star,Musongati,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Le Messager Ngozi,Moso Sugar,2,0,1,No,No,0:0,2:0
+2025-04-20,Aigle Noir,Flambeau du Centre,2,1,1,Yes,Yes,2:0,2:1
+2025-04-20,Petrovac,Sutjeska,1,0,1,No,No,0:0,1:0
+2025-04-20,GIF Sundsvall,Landskrona BoIS,1,2,2,Yes,Yes,0:0,1:2
+2025-04-20,trelleborgs FF,IK brage,0,1,2,No,No,0:0,0:1
+2025-04-20,Olmaliq,Sogdiana,3,2,1,Yes,Yes,0:0,3:2
+2025-04-20,Apolonia Fier,Lushnja,0,0,X,No,No,0:0,0:0
+2025-04-20,Erzeni Shijak,Kastrioti Krujë,2,3,2,Yes,Yes,1:0,2:3
+2025-04-20,Vora,Flamurtari,0,1,2,No,No,0:1,0:1
+2025-04-20,FK Kukesi,Burreli,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Korabi Peshkopi,Pogradeci,3,0,1,No,Yes,2:0,3:0
+2025-04-20,Valbona,Besa Kavajë,1,3,2,Yes,Yes,0:0,1:3
+2025-04-20,Banga,Dainava,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Odd,Fortuna Ålesund W,2,5,2,Yes,Yes,1:3,2:5
+2025-04-20,Batatais,Guarulhos,0,2,2,No,No,0:1,0:2
+2025-04-20,Vilavelhense,Vitória ES,0,2,2,No,No,0:0,0:2
+2025-04-20,Artemisa,Isla Juventud,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Sabah FA,Perak,0,1,2,No,No,0:1,0:1
+2025-04-20,Terengganu,Kedah,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Negeri Sembilan,Kuching FA,1,3,2,Yes,Yes,0:2,1:3
+2025-04-20,Kuala Lumpur FA,Kelantan United,5,2,1,Yes,Yes,2:1,5:2
+2025-04-20,Vendsyssel FF,B 93,3,1,1,Yes,Yes,1:1,3:1
+2025-04-20,Orenburg II,Ural II,3,1,1,Yes,Yes,2:1,3:1
+2025-04-20,Nkana,Power Dynamos,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Fernando De La Mora,Guairena FC,0,1,2,No,No,0:1,0:1
+2025-04-20,Independiente F.b.c.,Club Sp. San Lorenzo,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Simba,Stellenbosch,1,0,1,No,No,1:0,1:0
+2025-04-20,Al Ansar,Al Hikma,2,0,1,No,No,0:0,2:0
+2025-04-20,Manica Diamonds,TelOne,2,2,X,Yes,Yes,2:0,2:2
+2025-04-20,Triangle United,Yadah,1,0,1,No,No,1:0,1:0
+2025-04-20,CAPS United,Bikita Minerals,0,1,2,No,No,0:0,0:1
+2025-04-20,Sidwashini United,Sisonkhe,0,0,X,No,No,0:0,0:0
+2025-04-20,Suhareka,Drita,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Zenit,Khimki,1,0,1,No,No,1:0,1:0
+2025-04-20,FC Augsburg,Eintracht Frankfurt,0,0,X,No,No,0:0,0:0
+2025-04-20,Fuenlabrada,Mérida AD,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Recreativo Huelva,Real Madrid II,1,4,2,Yes,Yes,1:2,1:4
+2025-04-20,EGS Gafsa,CA Bizertin,2,0,1,No,No,1:0,2:0
+2025-04-20,US Ben Guerdane,AS Gabes,3,0,1,No,Yes,2:0,3:0
+2025-04-20,US Monastirienne,AS Soliman,3,0,1,No,Yes,3:0,3:0
+2025-04-20,HaPK Edustus,PuiU Helsinki,0,3,2,No,Yes,0:1,0:3
+2025-04-20,El Dakhleya,El Seka El Hadid,1,0,1,No,No,0:0,1:0
+2025-04-20,Baladiyyat Al Mehalla,Wadi Degla,0,0,X,No,No,0:0,0:0
+2025-04-20,Dayrout,Aswan Sc,1,0,1,No,No,1:0,1:0
+2025-04-20,Olympic El Qanah,Kahraba Ismailia,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Slovan Liberec W,Slovácko W,1,3,2,Yes,Yes,0:2,1:3
+2025-04-20,ES Hammam-Sousse,M'saken,3,3,X,Yes,Yes,1:2,3:3
+2025-04-20,Jendouba Sport,EM Mahdia,5,0,1,No,Yes,3:0,5:0
+2025-04-20,Moknine,Kalaâ Sport,2,2,X,Yes,Yes,1:1,2:2
+2025-04-20,Jerba,AS Kasserine,1,0,1,No,No,0:0,1:0
+2025-04-20,Ferencvarosi TC,Nyiregyhaza,7,0,1,No,Yes,3:0,7:0
+2025-04-20,Emirates Club,Al Hamriyah,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Al Arabi,Dibba Al-Fujairah,0,1,2,No,No,0:0,0:1
+2025-04-20,Al Dahra,Hatta SC,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Shinnik Yaroslavl,Arsenal Tula,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Rotor Volgograd,Tyumen,2,1,1,Yes,Yes,2:0,2:1
+2025-04-20,FC Sochi,Alaniya Vladikavkaz,4,0,1,No,Yes,1:0,4:0
+2025-04-20,Buchbach,Würzburger Kickers,1,0,1,No,No,0:0,1:0
+2025-04-20,Real Madrid W,Real Betis W,5,1,1,Yes,Yes,5:1,5:1
+2025-04-20,Líšeň II,Sokol Lanžhot,2,0,1,No,No,0:0,2:0
+2025-04-20,Polanka nad Odrou,Nový Jičín,1,0,1,No,No,0:0,1:0
+2025-04-20,Bospor Bohumín,Bílovec,2,2,X,Yes,Yes,0:2,2:2
+2025-04-20,Victoria United,PWD,2,0,1,No,No,1:0,2:0
+2025-04-20,Jedinstvo,Mornar,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Jezero,Otrant-Olympic,2,2,X,Yes,Yes,0:1,2:2
+2025-04-20,Maricá U20,América RJ U20,2,0,1,No,No,1:0,2:0
+2025-04-20,CD Lunda-Sul,Onze Bravos,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Sagrada Esperança,Desportivo Huíla,1,0,1,No,No,1:0,1:0
+2025-04-20,Santa Rita,Kabuscorp,0,2,2,No,No,0:0,0:2
+2025-04-20,Super Nova,Rīgas FS,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Juventude,Mirassol,2,2,X,Yes,Yes,2:1,2:2
+2025-04-20,Zhenys,Yelimay Semey,0,1,2,No,No,0:0,0:1
+2025-04-20,Kimberley Mar del Plata,Cipolletti,1,0,1,No,No,1:0,1:0
+2025-04-20,Politehnica Iasi,FC Botosani,3,0,1,No,Yes,2:0,3:0
+2025-04-20,ST Johnstone,Celtic,0,5,2,No,Yes,0:4,0:5
+2025-04-20,Genk,Union St. Gilloise,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Alay,Bars,0,1,2,No,No,0:0,0:1
+2025-04-20,Chertanovo Moscow,Cherepovets,3,1,1,Yes,Yes,1:0,3:1
+2025-04-20,El Kanemi Warriors,Ikorodu City,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Niger Tornadoes,Bayelsa United,1,1,X,Yes,No,1:0,1:1
+2025-04-20,La Luz,Fenix,0,2,2,No,No,0:1,0:2
+2025-04-20,Villarreal,Real Sociedad,2,2,X,Yes,Yes,1:1,2:2
+2025-04-20,Cordoba,Oviedo,0,0,X,No,No,0:0,0:0
+2025-04-20,Al Tadhamon,Al Qadsia,1,5,2,Yes,Yes,1:1,1:5
+2025-04-20,Maritimo,Mafra,2,0,1,No,No,0:0,2:0
+2025-04-20,Hannover 96 II,Waldhof Mannheim,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Spišské Podhradie,Lokomotíva Košice,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Fiľakovo,Lipany,0,1,2,No,No,0:1,0:1
+2025-04-20,Snina,Baník Kalinovo,4,1,1,Yes,Yes,2:0,4:1
+2025-04-20,Rimavská Sobota,MSK Tesla Stropkov,5,0,1,No,Yes,3:0,5:0
+2025-04-20,Tatran Krásno,Spartak Myjava,0,1,2,No,No,0:1,0:1
+2025-04-20,Beluša,Častkovce,2,5,2,Yes,Yes,1:1,2:5
+2025-04-20,Gama,Castro,3,4,2,Yes,Yes,0:2,3:4
+2025-04-20,Cultural Leonesa II,Atlético Mansillés,1,0,1,No,No,0:0,1:0
+2025-04-20,IFK Goteborg,BK Hacken,2,3,2,Yes,Yes,2:2,2:3
+2025-04-20,Vojvodina 1928,OFK Vrbas,0,1,2,No,No,None:None,0:1
+2025-04-20,Hajduk Divoš,Zeleznicar Inđija,1,1,X,Yes,No,None:None,1:1
+2025-04-20,Luanda City,Carmona,1,0,1,No,No,0:0,1:0
+2025-04-20,Lincoln Red Imps FC,Lions Gibraltar,3,0,1,No,Yes,2:0,3:0
+2025-04-20,Al Jahra,Al Sahel,1,0,1,No,No,1:0,1:0
+2025-04-20,Kerala Blasters,East Bengal,2,0,1,No,No,None:None,2:0
+2025-04-20,US Oyem,Lozo,1,2,2,Yes,Yes,None:None,1:2
+2025-04-20,Bitam,Dikaki,2,2,X,Yes,Yes,None:None,2:2
+2025-04-20,FC Volendam,Excelsior,1,4,2,Yes,Yes,0:2,1:4
+2025-04-20,PSV/Eindhoven W,Heerenveen W,5,1,1,Yes,Yes,0:0,5:1
+2025-04-20,Vlašim,Vysočina Jihlava,1,0,1,No,No,0:0,1:0
+2025-04-20,Zlin,Baník Ostrava II,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Veres Rivne,Chornomorets,2,1,1,Yes,Yes,0:1,2:1
+2025-04-20,Baltika,FK Sokol Saratov,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Kazincbarcikai,Ajka,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Mezokovesd-zsory,Tatabánya,4,2,1,Yes,Yes,1:2,4:2
+2025-04-20,Gyirmot SE,Kisvarda FC,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Szentlőrinc SE,Budapest Honved,0,0,X,No,No,0:0,0:0
+2025-04-20,Bekescsaba 1912,Szeged 2011,3,1,1,Yes,Yes,2:1,3:1
+2025-04-20,SK Pama,Parndorf,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Zira,Sumqayıt,3,1,1,Yes,Yes,2:0,3:1
+2025-04-20,Csep-Gól,Gyulai Termál,1,4,2,Yes,Yes,1:2,1:4
+2025-04-20,Martfűi LSE,Szegedi VSE,0,6,2,No,Yes,0:4,0:6
+2025-04-20,ESMTK,Tiszakecske FC,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Hódmezővásárhely,Tiszaföldvár,2,0,1,No,No,1:0,2:0
+2025-04-20,Pénzügyőr,Kecskeméti TE II,0,2,2,No,No,0:1,0:2
+2025-04-20,Compostela,Gimnástica Torrelavega,3,1,1,Yes,Yes,1:1,3:1
+2025-04-20,Pontevedra,Laredo,4,2,1,Yes,Yes,3:1,4:2
+2025-04-20,Marino de Luanco,Bergantiños,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Guijuelo,Numancia,1,4,2,Yes,Yes,1:2,1:4
+2025-04-20,Valencia II,Cornellà,3,1,1,Yes,Yes,1:0,3:1
+2025-04-20,Real Zaragoza II,Alfaro,3,2,1,Yes,Yes,1:0,3:2
+2025-04-20,Bibiani Gold Stars,Medeama,1,0,1,No,No,0:0,1:0
+2025-04-20,Heart of Lions,Accra Lions,3,1,1,Yes,Yes,1:0,3:1
+2025-04-20,Hearts of Oak,Karela,0,0,X,No,No,0:0,0:0
+2025-04-20,Dreams,Vision,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Nations,Asante Kotoko,2,0,1,No,No,2:0,2:0
+2025-04-20,Bechem United,Berekum Chelsea,1,2,2,Yes,Yes,1:2,1:2
+2025-04-20,Young Apostles,Samartex,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Basake Holy Stars,Legon Cities,1,0,1,No,No,0:0,1:0
+2025-04-20,Salgótarjáni BTC,Füzesabony,4,4,X,Yes,Yes,2:1,4:4
+2025-04-20,Karcag SE,Putnok VSE,3,2,1,Yes,Yes,3:2,3:2
+2025-04-20,FC Hatvan,DEAC,2,3,2,Yes,Yes,2:3,2:3
+2025-04-20,Eger,Sényő Carnifex,2,1,1,Yes,Yes,2:2,2:1
+2025-04-20,Tiszafuredi VSE,Diósgyőr II,1,1,X,Yes,No,1:1,1:1
+2025-04-20,III. Kerületi TUE,Dorogi FC,3,1,1,Yes,Yes,2:1,3:1
+2025-04-20,Budaörs,Bicskei,0,2,2,No,No,0:1,0:2
+2025-04-20,Veszprém,Érdi VSE,2,0,1,No,No,2:0,2:0
+2025-04-20,Haladás VSE,Puskás II,0,2,2,No,No,0:1,0:2
+2025-04-20,Szekszárd,Dunaharaszti MTK,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Siofok,Paksi SE II,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Majosi,Ferencváros II,0,4,2,No,Yes,0:2,0:4
+2025-04-20,PTE-PEAC,Főnix,0,1,2,No,No,0:1,0:1
+2025-04-20,Kaposvar,Pécsi MFC,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Nagykanizsai ULE,Dunaföldvár,7,0,1,No,Yes,3:0,7:0
+2025-04-20,Iváncsa,Bonyhád Völgység,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Badajoz,Santa Amalia,2,0,1,No,No,0:0,2:0
+2025-04-20,Bala Azul,UCAM Murcia II,0,1,2,No,No,0:0,0:1
+2025-04-20,Club Africain,ES Tunis,1,3,2,Yes,Yes,1:1,1:3
+2025-04-20,Burgos Promesas,Atlético Tordesillas,1,2,2,Yes,Yes,0:0,1:2
+2025-04-20,Villaralbo,Atlético Astorga,0,0,X,No,No,0:0,0:0
+2025-04-20,Sokol Zápy,Teplice II,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Táborsko II,Příbram,0,2,2,No,No,0:1,0:2
+2025-04-20,Dynamo de Douala,Canon,2,0,1,No,No,0:0,2:0
+2025-04-20,Young Sport Academy,Panthère,0,1,2,No,No,0:0,0:1
+2025-04-20,Horní Ředice,Vysoké Mýto,2,2,X,Yes,Yes,0:1,2:2
+2025-04-20,Spartak Police n/Metují,Dobrovice,0,0,X,No,No,0:0,0:0
+2025-04-20,Atlético San Luis U23,Pachuca U23,3,4,2,Yes,Yes,2:2,3:4
+2025-04-20,Kalmar FF,Ostersunds FK,2,0,1,No,No,0:0,2:0
+2025-04-20,Syrianska FC,Sleipner,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Avrankou Omnisport,Adjidja,1,1,X,Yes,No,None:None,1:1
+2025-04-20,UPI-ONM,JAK,0,0,X,No,No,0:0,0:0
+2025-04-20,JSP,Dragons,1,0,1,No,No,None:None,1:0
+2025-04-20,Sitatunga,Kraké,0,0,X,No,No,0:0,0:0
+2025-04-20,Dadjè,Loto Popo,1,1,X,Yes,No,None:None,1:1
+2025-04-20,Dynamo Abomey,Béké Bembèrèkè,1,0,1,No,No,None:None,1:0
+2025-04-20,Panthères,Espoir Savalou,0,0,X,No,No,0:0,0:0
+2025-04-20,Réal Sport,Hodio,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Tukunnin,Damissa,1,2,2,Yes,Yes,None:None,1:2
+2025-04-20,Lusitânia Lourosa,Fafe,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Arba Minch Kenema,Suhul Shire,0,0,X,No,No,0:0,0:0
+2025-04-20,1º de Agosto,Isaac de Benguela,1,0,1,No,No,0:0,1:0
+2025-04-20,Austria Vienna,Red Bull Salzburg,1,3,2,Yes,Yes,1:2,1:3
+2025-04-20,Aalborg,Sonderjyske,2,3,2,Yes,Yes,0:2,2:3
+2025-04-20,Rivers United,Sunshine Stars,1,0,1,No,No,0:0,1:0
+2025-04-20,Heartland,Kwara United,0,0,X,No,No,0:0,0:0
+2025-04-20,Plateau United,Akwa United,1,0,1,No,No,1:0,1:0
+2025-04-20,Shooting Stars,Remo Stars,0,1,2,No,No,0:1,0:1
+2025-04-20,FC Noah,Gandzasar,1,0,1,No,No,0:0,1:0
+2025-04-20,KuPS Akatemia,FC jazz,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,Kawkab Marrakech,Olympique Dcheïra,1,1,X,Yes,No,0:1,1:1
+2025-04-20,El Massira,Chabab Ben Guerir,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Yacoub El Mansour,USM Oujda,2,1,1,Yes,Yes,2:1,2:1
+2025-04-20,Rapide Oued ZEM,KAC Kenitra,2,0,1,No,No,1:0,2:0
+2025-04-20,Raja Beni Mellal,Racing de Casablanca,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Uzbekistan U17,Saudi Arabia U17,2,0,1,No,No,0:0,2:0
+2025-04-20,Nice,Angers,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Stade Brestois 29,Lens,1,3,2,Yes,Yes,1:2,1:3
+2025-04-20,Reims,Toulouse,1,0,1,No,No,1:0,1:0
+2025-04-20,Hegelmann Litauen,FK Zalgiris Vilnius,2,1,1,Yes,Yes,2:1,2:1
+2025-04-20,Leicester,Liverpool,0,1,2,No,No,0:0,0:1
+2025-04-20,Borussia Dortmund,Borussia Mönchengladbach,3,2,1,Yes,Yes,3:1,3:2
+2025-04-20,Real Valladolid II,Real Ávila,2,1,1,Yes,Yes,2:0,2:1
+2025-04-20,Cacereño,CD Coria,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Fuentes,Utrillas,1,0,1,No,No,1:0,1:0
+2025-04-20,Viveiro,Villalbés,2,0,1,No,No,2:0,2:0
+2025-04-20,Fassell,LPRC Oilers,0,1,2,No,No,0:0,0:1
+2025-04-20,Lys Sassandra,ASEC Mimosas,2,2,X,Yes,Yes,2:2,2:2
+2025-04-20,Alittihad Misurata,Al-Madina,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Prostějov,Opava,0,0,X,No,No,0:0,0:0
+2025-04-20,Bologna,Inter,1,0,1,No,No,0:0,1:0
+2025-04-20,Ostiches,Verlaine,3,3,X,Yes,Yes,None:None,3:3
+2025-04-20,Fenerbahce,Kayserispor,3,3,X,Yes,Yes,1:1,3:3
+2025-04-20,Genclerbirligi,Bandırmaspor,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Amorebieta,Zamora,0,2,2,No,No,0:1,0:2
+2025-04-20,Langreo,Llanera,1,0,1,No,No,1:0,1:0
+2025-04-20,Guadalajara,Getafe II,2,1,1,Yes,Yes,0:1,2:1
+2025-04-20,CF Talavera,Navalcarnero,2,0,1,No,No,2:0,2:0
+2025-04-20,Real Madrid III,Rayo Majadahonda,0,1,2,No,No,0:0,0:1
+2025-04-20,Xerez Deportivo,Don Benito,1,2,2,Yes,Yes,0:0,1:2
+2025-04-20,Ucam Murcia,Deportiva Minera,3,2,1,Yes,Yes,1:2,3:2
+2025-04-20,Águilas,Granada II,2,0,1,No,No,1:0,2:0
+2025-04-20,Badalona,Sant Andreu,1,5,2,Yes,Yes,0:3,1:5
+2025-04-20,UD Logroñés,Subiza,3,0,1,No,Yes,3:0,3:0
+2025-04-20,Barbadás,Noia,0,1,2,No,No,0:0,0:1
+2025-04-20,Alondras,Betanzos,0,2,2,No,No,0:1,0:2
+2025-04-20,Celta de Vigo III,Arosa,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Somozas,Valladares,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Boiro,Villalonga,0,0,X,No,No,0:0,0:0
+2025-04-20,Unión Molinense,Balsicas Atlético,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Cieza,Cartagena LU II,3,0,1,No,Yes,0:0,3:0
+2025-04-20,Namungo,Mashujaa,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Cristo Atlético,Mirandés II,1,2,2,Yes,Yes,1:1,1:2
+2025-04-20,Mojados,Bembibre,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Briviesca,Arandina,2,2,X,Yes,Yes,2:0,2:2
+2025-04-20,Watanga,Heaven Eleven,0,0,X,No,No,0:0,0:0
+2025-04-20,Global Pharma,Invincible Eleven,1,2,2,Yes,Yes,1:2,1:2
+2025-04-20,Black Man Warrior,Paynesville,4,0,1,No,Yes,None:None,4:0
+2025-04-20,Real Pilar,UAI Urquiza,2,2,X,Yes,Yes,0:0,2:2
+2025-04-20,Dečić,Bokelj,1,0,1,No,No,0:0,1:0
+2025-04-20,Läänemaa Haapsalu,Narva U21,0,2,2,No,No,0:1,0:2
+2025-04-20,Dunajska Streda,FK Košice,3,2,1,Yes,Yes,3:0,3:2
+2025-04-20,Dukla Banská Bystrica,Komárno,0,1,2,No,No,0:0,0:1
+2025-04-20,El Mokawloon,Raya Ghazl,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Barcelona W,Chelsea W,4,1,1,Yes,Yes,1:0,4:1
+2025-04-20,Kaloum Star,Milo,0,0,X,No,No,0:0,0:0
+2025-04-20,Wakirya,Loubha Télimélé,2,0,1,No,No,1:0,2:0
+2025-04-20,Sevilla,Alaves,1,1,X,Yes,No,1:1,1:1
+2025-04-20,CSKA Moscow,Krylia Sovetov,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Elche,Albacete,2,2,X,Yes,Yes,2:2,2:2
+2025-04-20,Rodina Moskva,FC UFA,2,0,1,No,No,1:0,2:0
+2025-04-20,Terrassa,Sabadell,2,0,1,No,No,1:0,2:0
+2025-04-20,Izarra,Anguiano,0,1,2,No,No,0:0,0:1
+2025-04-20,Everton de Vina,Union La Calera,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Antofagasta,Union San Felipe,2,2,X,Yes,Yes,0:1,2:2
+2025-04-20,Gent,Club Brugge KV,0,5,2,No,Yes,0:3,0:5
+2025-04-20,Bendel Insurance,Nasarawa United,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Gilla,Valtti,1,1,X,Yes,No,0:0,1:1
+2025-04-20,US Bougouba,Afrique Football Élite,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Deportiva Venados,Aguacateros de Peribán,1,1,X,Yes,No,1:0,1:1
+2025-04-20,UD Santa Marta,Palencia CF,2,0,1,No,No,0:0,2:0
+2025-04-20,Al Salmiyah,Al Arabi,2,3,2,Yes,Yes,0:3,2:3
+2025-04-20,Burgan,Al Shabab,1,1,X,Yes,No,None:None,1:1
+2025-04-20,Soroksar,Kozarmisleny FC,3,1,1,Yes,Yes,0:0,3:1
+2025-04-20,Csakvar,Budafoki LC,1,2,2,Yes,Yes,1:0,1:2
+2025-04-20,Alcorcon,Real Murcia,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,Celta de Vigo II,Tarazona,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Cultural Leonesa,Gimnastic,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,Orihuela,La Unión Atlético,0,2,2,No,No,0:1,0:2
+2025-04-20,Colunga,Sporting Gijón II,2,2,X,Yes,Yes,0:1,2:2
+2025-04-20,Sarriana,Polvorín,0,4,2,No,Yes,0:2,0:4
+2025-04-20,Estradense,Atlético Arteixo,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,CS Cartagines,AD Guanacasteca,3,0,1,No,Yes,None:None,3:0
+2025-04-20,Santos Laguna U23,Club Tijuana U23,1,0,1,No,No,1:0,1:0
+2025-04-20,Buducnost Podgorica,Arsenal Tivat,5,0,1,No,Yes,1:0,5:0
+2025-04-20,CF Os Belenenses,Sporting CP B,1,1,X,Yes,No,0:0,1:1
+2025-04-20,FCSB,CFR 1907 Cluj,3,2,1,Yes,Yes,1:0,3:2
+2025-04-20,Binga,Djoliba,1,1,X,Yes,No,0:1,1:1
+2025-04-20,ADR Jicaral,Cariari Pococi,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Leandro N. Alem,Deportivo Español,2,0,1,No,No,1:0,2:0
+2025-04-20,Maccabi Haifa,Maccabi Netanya,1,0,1,No,No,1:0,1:0
+2025-04-20,FC St. Pauli,Bayer Leverkusen,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Erzgebirge Aue,Borussia Dortmund II,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Algeciras,Sanluqueño,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Juarez U23,Queretaro U23,2,0,1,No,No,1:0,2:0
+2025-04-20,AD Sarchí,Escorpiones Belén,1,2,2,Yes,Yes,0:2,1:2
+2025-04-20,Al-Ittihad,Olympic Azzaweya,1,0,1,No,No,0:0,1:0
+2025-04-20,Real Unión,Barcelona B,1,3,2,Yes,Yes,0:1,1:3
+2025-04-20,Chacarita Juniors,Colon Santa Fe,3,2,1,Yes,Yes,2:1,3:2
+2025-04-20,Tecnico Universitario,Cuniburo,1,3,2,Yes,Yes,1:2,1:3
+2025-04-20,Liverpool Montevideo,Plaza Colonia,1,0,1,No,No,0:0,1:0
+2025-04-20,Circulo Deportivo,Sol de Mayo,1,0,1,No,No,0:0,1:0
+2025-04-20,Leonico U20,Estrela De Marco U20,0,1,2,No,No,None:None,0:1
+2025-04-20,Vitória da Conquista U20,Conquista U20,1,1,X,Yes,No,None:None,1:1
+2025-04-20,Real Brasília,Juventude W,1,1,X,Yes,No,0:1,1:1
+2025-04-20,America Mineiro W,Cruzeiro W,0,3,2,No,Yes,0:1,0:3
+2025-04-20,Sport Recife W,Fluminense W,0,2,2,No,No,0:0,0:2
+2025-04-20,Ypiranga Erechim U20,Real SC U20,1,0,1,No,No,None:None,1:0
+2025-04-20,Brasil de Pelotas U20,Cruzeiro RS U20,1,4,2,Yes,Yes,None:None,1:4
+2025-04-20,Esportivo U20,Internacional U20,0,2,2,No,No,None:None,0:2
+2025-04-20,San Benito,Democracia,4,1,1,Yes,Yes,None:None,4:1
+2025-04-20,Coatepecano IB,Sacachispas,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,Cerrito,Central Espanol,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Prishtina,Ferizaj,0,0,X,No,No,0:0,0:0
+2025-04-20,UTC,ADT,0,1,2,No,No,0:0,0:1
+2025-04-20,Los Andes,Deportivo Maipu,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Talleres Remedios,CA Estudiantes,0,1,2,No,No,0:0,0:1
+2025-04-20,Estudiantes de Rio Cuarto,Defensores Unidos,0,0,X,No,No,0:0,0:0
+2025-04-20,San Telmo,Atletico Mitre,0,0,X,No,No,0:0,0:0
+2025-04-20,Liniers,Villa Dalmine,4,0,1,No,Yes,1:0,4:0
+2025-04-20,Deportivo Merlo,Excursionistas,3,2,1,Yes,Yes,2:0,3:2
+2025-04-20,Deportivo Riestra,San Lorenzo,0,0,X,No,No,0:0,0:0
+2025-04-20,Defensores de Cambaceres,Claypole,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Estrella Del Sur,Canuelas,1,0,1,No,No,0:0,1:0
+2025-04-20,General Lamadrid,Atletico Atlas,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Germinal de Rawson,Deportivo Rincon,0,3,2,No,Yes,0:1,0:3
+2025-04-20,Goianésia,Ceilândia,1,2,2,Yes,Yes,0:2,1:2
+2025-04-20,Goiatuba EC,Inter De Limeira,1,3,2,Yes,Yes,1:2,1:3
+2025-04-20,Saint Etienne,Lyon,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,AC Milan,Atalanta,0,1,2,No,No,0:0,0:1
+2025-04-20,Real Madrid,Athletic Club,1,0,1,No,No,0:0,1:0
+2025-04-20,Deportivo La Coruna,Tenerife,0,0,X,No,No,0:0,0:0
+2025-04-20,Envigado,Deportes Tolima,3,1,1,Yes,Yes,1:1,3:1
+2025-04-20,O'Higgins,Palestino,1,0,1,No,No,0:0,1:0
+2025-04-20,Magallanes,Rangers de Talca,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Sao Paulo,Santos,2,1,1,Yes,Yes,2:1,2:1
+2025-04-20,Atletico-MG,Botafogo,1,0,1,No,No,0:0,1:0
+2025-04-20,Vila Nova,Botafogo SP,2,0,1,No,No,2:0,2:0
+2025-04-20,Villa Mitre,Guillermo Brown,2,1,1,Yes,Yes,2:1,2:1
+2025-04-20,Estudiantes S.l.,Costa Brava,2,0,1,No,No,1:0,2:0
+2025-04-20,Huracan Las Heras,Juventud Unida Univ.,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Argentino Monte Maíz,San Martín Mendoza,0,1,2,No,No,0:1,0:1
+2025-04-20,Sol de América,San Martin Formosa,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Trem,Manaus FC,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Parnahyba,Imperatriz,0,0,X,No,No,0:0,0:0
+2025-04-20,Treze,Santa Cruz,0,1,2,No,No,0:0,0:1
+2025-04-20,Central SC,Ferroviario,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Jequié,Sergipe,1,0,1,No,No,0:0,1:0
+2025-04-20,Juazeirense,ASA,0,3,2,No,Yes,0:0,0:3
+2025-04-20,Penedense,Barcelona BA,0,0,X,No,No,0:0,0:0
+2025-04-20,Ferroviaria W,Internacional RS W,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Guabirá,Bolívar,2,4,2,Yes,Yes,1:0,2:4
+2025-04-20,Renaissance Berkane,CS Constantine,4,0,1,No,Yes,2:0,4:0
+2025-04-20,Quepos Cambute,Futbol Consultants Moravia,3,2,1,Yes,Yes,2:1,3:2
+2025-04-20,Artigas,Atenas,0,3,2,No,Yes,0:2,0:3
+2025-04-20,Deportivo Maldonado,Colón,2,0,1,No,No,2:0,2:0
+2025-04-20,Wydad Fès,Olympique Khouribga,2,1,1,Yes,Yes,0:0,2:1
+2025-04-20,Youssoufia Berrechid,Chabab Atl. Khenifra,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Mouloudia Oujda,Stade Marocain,2,1,1,Yes,Yes,None:None,2:1
+2025-04-20,Santamarina,Olimpo Bahia Blanca,1,1,X,Yes,No,1:1,1:1
+2025-04-20,Gimnasia Chivilcoy,9 de Julio Rafaela,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Bakaridjan,ASKO,0,1,2,No,No,0:1,0:1
+2025-04-20,Tondela,Vizela,0,1,2,No,No,0:1,0:1
+2025-04-20,San Martin S.J.,Godoy Cruz,1,0,1,No,No,1:0,1:0
+2025-04-20,Rayo Zuliano,UCV,0,2,2,No,No,0:1,0:2
+2025-04-20,Sportivo Las Parejas,Defensores de Belgrano VR,0,0,X,No,No,0:0,0:0
+2025-04-20,Douglas Haig,Independiente De Chivilcoy,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Confiança,Caxias,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Floresta,Londrina,0,2,2,No,No,0:0,0:2
+2025-04-20,Trujillanos FC,Titanes FC,1,0,1,No,No,0:0,1:0
+2025-04-20,Atletico el Vigia FC,Fundación Lara Deportiva,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Charlotte Independence,Tormenta,3,2,1,Yes,Yes,1:0,3:2
+2025-04-20,Gimnasia Y Tiro,Deportivo Madryn,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Patronato,Colegiales,0,1,2,No,No,0:1,0:1
+2025-04-20,Orsomarso W,Once Caldas W,3,0,1,No,Yes,1:0,3:0
+2025-04-20,Águia de Marabá,GAS,1,0,1,No,No,0:0,1:0
+2025-04-20,Santiago de Cuba,Holguín,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Comerciantes,U. San Martin,2,1,1,Yes,Yes,1:0,2:1
+2025-04-20,Blue Devils,Burlington,1,0,1,No,No,None:None,1:0
+2025-04-20,Aragua FC,Bolívar,0,0,X,No,No,0:0,0:0
+2025-04-20,Urena SC,Héroes de Falcón,0,0,X,No,No,0:0,0:0
+2025-04-20,Cavaly,Juventus,1,2,2,Yes,Yes,None:None,1:2
+2025-04-20,Capoise,Real du Cap,0,1,2,No,No,None:None,0:1
+2025-04-20,Ouanaminthe,FICA,1,1,X,Yes,No,None:None,1:1
+2025-04-20,Anguilla,British Virgin Islands,1,0,1,No,No,0:0,1:0
+2025-04-20,Nueva Chicago,Deportivo Moron,1,2,2,Yes,Yes,0:2,1:2
+2025-04-20,Cerro,Atletico Torque,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Portmore United,Waterhouse,0,2,2,No,No,0:2,0:2
+2025-04-20,Tivoli Gardens,Harbour View,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Humble Lions,Dunbeholden,1,1,X,Yes,No,0:1,1:1
+2025-04-20,Molynes United,Racing United,3,1,1,Yes,Yes,1:0,3:1
+2025-04-20,Mount Pleasant Academy,Montego Bay United,2,0,1,No,No,0:0,2:0
+2025-04-20,Universidad Catolica,Orense SC,2,0,1,No,No,1:0,2:0
+2025-04-20,Sport Huancayo,Comerciantes Unidos,4,2,1,Yes,Yes,1:0,4:2
+2025-04-20,Carlos A. Mannucci,Deportivo Llacuabamba,4,1,1,Yes,Yes,2:0,4:1
+2025-04-20,Voorwaarts,PVV,3,1,1,Yes,Yes,None:None,3:1
+2025-04-20,General Caballero,Atlético Tembetary,0,1,2,No,No,0:0,0:1
+2025-04-20,Juticalpa,Olancho,0,1,2,No,No,0:0,0:1
+2025-04-20,Mixco,Xinabajul,3,1,1,Yes,Yes,2:0,3:1
+2025-04-20,Sarmiento Junin,Platense,0,1,2,No,No,0:0,0:1
+2025-04-20,Dragón,Municipal Limeño,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Cucuta,Depor FC,4,2,1,Yes,Yes,3:2,4:2
+2025-04-20,Chapecoense-sc,Athletic Club,1,0,1,No,No,0:0,1:0
+2025-04-20,Ben Hur,Gimnasia Concepción,2,0,1,No,No,2:0,2:0
+2025-04-20,Mixto,Porto Velho,4,3,1,Yes,Yes,1:2,4:3
+2025-04-20,Baltimore,Triomphe Liancourt,2,1,1,Yes,Yes,None:None,2:1
+2025-04-20,Don Bosco,Racing Club Haitien,0,0,X,No,No,None:None,0:0
+2025-04-20,Union Magdalena,Bucaramanga,1,1,X,Yes,No,0:0,1:1
+2025-04-20,Real Oruro,Oriente Petrolero,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Platense,Cacahuatique,2,0,1,No,No,2:0,2:0
+2025-04-20,Universidad de Concepcion,Concepción,1,2,2,Yes,Yes,1:2,1:2
+2025-04-20,Fluminense,Vitoria,1,1,X,Yes,No,1:0,1:1
+2025-04-20,Fortaleza EC,Palmeiras,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,CS Herediano,Santa Ana,2,1,1,Yes,Yes,0:1,2:1
+2025-04-20,FC Cincinnati II,New York RB II,3,1,1,Yes,Yes,2:0,3:1
+2025-04-20,Atletico Paranaense,CRB,2,0,1,No,No,1:0,2:0
+2025-04-20,Maringá,São Bernardo,1,0,1,No,No,0:0,1:0
+2025-04-20,Brusque,Guarani Campinas,1,0,1,No,No,1:0,1:0
+2025-04-20,Real Apodaca,Deportivo Zap,2,0,1,No,No,0:0,2:0
+2025-04-20,Portuguesa FC,Metropolitanos FC,2,1,1,Yes,Yes,1:1,2:1
+2025-04-20,Defensor Sporting,Progreso,1,2,2,Yes,Yes,0:0,1:2
+2025-04-20,Santos Laguna,Club Tijuana,0,4,2,No,Yes,0:2,0:4
+2025-04-20,Comunicaciones,Municipal,1,0,1,No,No,1:0,1:0
+2025-04-20,Real Cartagena,Jaguares,2,3,2,Yes,Yes,1:1,2:3
+2025-04-20,Huila,Leones FC,2,0,1,No,No,1:0,2:0
+2025-04-20,Delfin SC,Macara,0,0,X,No,No,0:0,0:0
+2025-04-20,Huntsville City,Chicago Fire II,5,0,1,No,Yes,4:0,5:0
+2025-04-20,America Mineiro,Goias,1,0,1,No,No,1:0,1:0
+2025-04-20,Sportivo Belgrano,El Linqueño,3,1,1,Yes,Yes,2:1,3:1
+2025-04-20,Robin Hood,Flora,2,1,1,Yes,Yes,2:0,2:1
+2025-04-20,Cerro Porteno,Sportivo Trinidense,1,0,1,No,No,1:0,1:0
+2025-04-20,CD Olimpia,CD Motagua,1,2,2,Yes,Yes,0:1,1:2
+2025-04-20,Deportivo Cali,Atletico Nacional,1,0,1,No,No,1:0,1:0
+2025-04-20,Rosario Central,Instituto Cordoba,3,0,1,No,Yes,1:0,3:0
+2025-04-20,RB Bragantino,Cruzeiro,1,0,1,No,No,1:0,1:0
+2025-04-20,Palmeiras W,Bahia W,3,1,1,Yes,Yes,0:0,3:1
+2025-04-20,Jorge Wilstermann,ABB,0,1,2,No,No,0:0,0:1
+2025-04-20,Monagas II,Mineros de Guyana,0,4,2,No,Yes,0:3,0:4
